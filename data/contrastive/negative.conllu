@@ -1,0 +1,2007 @@
+# format = sdp
+# sent_id = 1
+# gen_from = neg.add_edge
+# text = ROOT Hollywood also wants to avoid having a single company like Apple enticing people to buy only from its own closed digital system , and ending up with an inordinate degree of control over matters like pricing .
+0	ROOT	root	ROOT	ROOT	_	20	iobj	20:iobj|24:obl|4:flat|3:flat|7:nummod|25:xcomp|8:aux|6:nmod|9:amod|36:obl|37:obj|29:root|10:parataxis|34:advmod|19:punct|31:iobj|30:fixed|13:nsubj|5:case|2:fixed|23:conj	_
+1	Hollywood	Hollywood	PROPN	NNP	_	13	nummod	13:nummod|8:compound|35:mark|18:nmod|12:flat|27:compound|22:obl|25:advcl|31:aux|0:amod|29:det|6:obj|10:aux|1:compound|19:flat|36:punct|2:advcl|20:acl|21:ccomp|24:iobj|15:amod	_
+2	also	also	ADV	RB	_	19	compound	19:compound|15:csubj|25:obj|9:acl|24:case|27:mark|20:xcomp|22:nsubj|36:advmod|17:aux|35:obl|29:conj|37:advcl|2:det|34:obl|18:nsubj|31:flat|0:nummod	_
+3	wants	want	VERB	VBZ	_	5	flat	5:flat|24:fixed|8:cop|29:flat|9:xcomp|3:cop|37:fixed|19:parataxis|7:cop|4:xcomp|28:cop|23:ccomp|11:vocative|30:aux|17:nummod|1:aux|26:xcomp|34:root	_
+4	to	to	PART	TO	_	29	flat	29:flat|35:obl|13:nmod|10:appos|34:obl|31:obl|26:compound|6:appos|23:appos|1:cc|27:aux|2:advmod|18:cop|22:mark|9:nummod|16:det|3:compound|7:iobj	_
+5	avoid	avoid	VERB	VB	_	22	aux	22:aux|30:advcl|15:obj|21:fixed|35:advcl|4:cop|25:flat|36:csubj|26:acl|33:aux|13:advmod|8:aux|5:nmod|18:nsubj	_
+6	having	have	VERB	VBG	_	6	xcomp	6:xcomp|33:cc|2:det|23:conj|25:punct|3:vocative|29:punct|24:root|26:aux|31:conj|19:appos|10:nummod|11:appos|34:vocative|27:aux|35:amod|4:iobj|37:xcomp|20:fixed|8:punct|14:advmod|36:csubj	_
+7	a	a	DET	DT	_	15	amod	15:amod|11:conj|35:acl|8:ccomp|19:fixed|0:root|1:case|30:iobj|6:obl|22:xcomp|10:advcl|29:vocative	_
+8	single	single	ADJ	JJ	_	19	obl	19:obl|35:vocative|7:compound|10:advcl|32:punct|13:acl|37:root|31:appos|29:xcomp|0:case|36:root|26:punct|25:iobj|24:vocative|12:det|6:advcl|28:csubj	_
+9	company	company	NOUN	NN	_	9	nummod	9:nummod|2:det|15:advcl|13:conj|7:cop|29:ccomp|17:advmod|28:nsubj|37:conj|36:appos|8:obj|31:mark|27:vocative|30:conj|12:iobj|14:compound|24:mark|4:parataxis|18:flat|32:nsubj|11:compound	_
+10	like	like	ADP	IN	_	15	cc	15:cc|32:acl|16:cop|3:cop|17:acl|25:cop|6:cop|19:amod|4:nummod|36:mark|33:ccomp|31:fixed|18:iobj|9:cop|13:acl|0:case|10:vocative	_
+11	Apple	Apple	PROPN	NNP	_	23	nsubj	23:nsubj|13:det|0:appos|33:ccomp|27:nummod|4:obj|24:iobj|37:aux|2:det|12:xcomp|21:cc|8:amod|31:fixed|6:ccomp|18:advcl|25:xcomp|11:advmod|15:csubj|36:parataxis|1:xcomp|26:nsubj	_
+12	enticing	entice	VERB	VBG	_	29	nsubj	29:nsubj|35:case|16:advcl|28:det|32:advcl|3:xcomp|37:punct|12:acl|22:conj|26:amod|11:obl|27:vocative|14:ccomp|5:punct|6:root|36:root|25:aux|4:nummod	_
+13	people	people	NOUN	NNS	_	34	flat	34:flat|16:nmod|10:nummod|19:iobj|20:obj|1:compound|17:parataxis|33:acl|6:obj|22:cop|18:root|30:conj|8:csubj|11:nmod	_
+14	to	to	PART	TO	_	16	punct	16:punct|31:advmod|25:det|24:nsubj|22:case|3:advmod|1:root|33:mark|21:amod|23:acl|8:mark|19:flat|30:cc|12:csubj|29:xcomp	_
+15	buy	buy	VERB	VB	_	11	advmod	11:advmod|16:parataxis|17:ccomp|7:vocative|31:csubj|33:mark|14:cc|25:nummod|36:fixed|35:compound|32:ccomp|19:nsubj|13:flat|15:amod	_
+16	only	only	ADV	RB	_	26	vocative	26:vocative|33:root|0:root|3:obl|5:fixed|35:root|34:parataxis|14:ccomp|31:parataxis|2:obl|29:obl|4:obl|6:root|18:root|1:cop|10:det|36:mark|28:conj|15:csubj|24:root|9:csubj	_
+17	from	from	ADP	IN	_	1	fixed	1:fixed|26:nsubj|7:nmod|2:aux|6:case|15:case|4:iobj|14:conj|5:xcomp|36:xcomp|11:nummod|10:conj|28:advmod|8:advmod|21:csubj|17:ccomp|30:mark|20:aux|12:nummod|3:parataxis|0:obj|13:obj	_
+18	its	its	PRON	PRP$	_	20	vocative	20:vocative|18:cop|13:case|8:case|32:iobj|4:fixed|15:cc|33:advmod|30:aux|26:mark|3:obj|10:appos|5:aux|11:mark|36:cop|21:cop|9:iobj|23:case|28:nummod|14:acl|19:vocative	_
+19	own	own	ADJ	JJ	_	35	nsubj	35:nsubj|24:advcl|29:obl|11:parataxis|0:cc|9:nsubj|32:vocative|1:cop|28:det|20:conj|15:advmod|8:punct|36:amod|27:xcomp	_
+20	closed	close	VERB	VBN	_	11	advcl	11:advcl|17:amod|27:det|16:flat|2:compound|35:advmod|7:root|10:nsubj|29:csubj|4:csubj|24:cc|25:iobj|21:mark|30:advcl|3:vocative|32:ccomp	_
+21	digital	digital	ADJ	JJ	_	17	iobj	17:iobj|10:nsubj|33:ccomp|37:advcl|9:cop|32:conj|14:amod|26:csubj|0:root|20:flat|30:xcomp|34:aux|35:csubj|15:cop|11:obj|19:flat|36:acl	_
+22	system	system	NOUN	NN	_	20	csubj	20:csubj|29:vocative|5:acl|27:aux|36:parataxis|14:case|23:acl|0:compound|19:vocative|24:csubj|3:aux|21:ccomp|18:advcl|2:advmod|11:iobj|13:compound|35:vocative|1:obj	_
+23	,	,	PUNCT	,	_	32	root	32:root|9:appos|29:conj|7:advcl|37:nmod|3:xcomp|10:nummod|0:conj|17:amod|18:parataxis|14:aux|16:nummod|26:acl|6:nummod|31:cc|21:cop|23:ccomp|22:advmod|1:advmod|8:fixed|35:conj	_
+24	and	and	CCONJ	CC	_	8	ccomp	8:ccomp|35:fixed|34:csubj|10:parataxis|31:cop|19:xcomp|6:appos|13:advcl|0:nsubj|18:obl|32:nummod|28:xcomp|21:ccomp|30:parataxis|2:punct|12:advcl|16:acl|26:appos	_
+25	ending	end	VERB	VBG	_	31	punct	31:punct|9:flat|22:root|35:advcl|36:cop|23:obl|32:vocative|24:obj|33:mark|3:obj|0:xcomp|20:appos|26:cc|14:advcl|16:conj|17:amod|30:amod|25:vocative|18:nsubj|1:csubj	_
+26	up	up	ADP	RP	_	26	parataxis	26:parataxis|6:fixed|29:advmod|22:punct|35:conj|31:nsubj|11:punct|36:fixed|13:nsubj|37:parataxis|32:case|14:advmod|34:case|12:aux|24:nmod|9:fixed|21:cop|17:root|33:iobj|8:amod|0:acl|15:acl	_
+27	with	with	ADP	IN	_	37	obj	37:obj|25:conj|6:aux|36:root|3:nsubj|15:advcl|19:nsubj|0:iobj|33:parataxis|27:acl|35:fixed|4:nummod|7:iobj|20:case|11:parataxis|26:obl|5:csubj|9:nsubj|32:nsubj|21:compound|2:root	_
+28	an	a	DET	DT	_	24	flat	24:flat|6:case|20:iobj|15:parataxis|10:nsubj|13:fixed|8:compound|34:iobj|25:punct|4:nummod|12:flat|29:case|3:nmod|27:parataxis|22:flat|7:iobj|21:conj	_
+29	inordinate	inordinate	ADJ	JJ	_	6	iobj	6:iobj|3:obj|25:advmod|36:case|23:conj|26:cop|7:nsubj|20:iobj|32:root|28:ccomp|33:xcomp|2:compound|22:flat|21:appos|24:fixed|8:fixed|1:cop|0:vocative|13:amod|16:advmod|37:mark|4:case	_
+30	degree	degree	NOUN	NN	_	9	aux	9:aux|30:nsubj|21:compound|11:ccomp|3:appos|17:acl|23:obj|1:iobj|35:det|37:parataxis|4:compound|18:obl|13:vocative|29:appos|34:mark|32:obl|33:iobj|28:amod	_
+31	of	of	ADP	IN	_	34	xcomp	34:xcomp|7:appos|15:vocative|36:root|35:advcl|11:obl|24:obj|9:ccomp|20:advcl|19:nmod|18:mark|13:aux|16:fixed|0:acl|29:iobj|22:amod|6:case|1:aux|10:nsubj|27:iobj	_
+32	control	control	NOUN	NN	_	20	root	20:root|24:mark|0:obl|1:cc|31:advcl|14:cc|4:fixed|17:conj|26:nsubj|27:conj|5:iobj|32:vocative|3:acl|37:parataxis|10:cc|9:iobj|22:det|19:cop	_
+33	over	over	ADP	IN	_	35	nsubj	35:nsubj|24:appos|21:parataxis|1:parataxis|5:obj|37:appos|2:parataxis|18:vocative|31:det|25:conj|19:nsubj|20:appos|33:cc|36:nummod|15:nmod|32:nmod|17:cop|26:cc|8:nsubj	_
+34	matters	matter	NOUN	NNS	_	26	fixed	26:fixed|2:nsubj|31:obj|32:aux|22:iobj|6:advcl|17:det|18:nummod|7:obl|3:iobj|24:nummod|5:fixed|20:fixed|21:det|0:ccomp|9:mark|8:det|15:advmod|11:flat|13:cc|34:advmod|16:compound|12:acl	_
+35	like	like	ADP	IN	_	14	fixed	14:fixed|15:advmod|10:csubj|25:nummod|24:csubj|5:compound|30:obl|35:parataxis|29:flat|1:advcl|32:vocative|20:obl|23:case|34:iobj|2:obj|8:nsubj|3:aux	_
+36	pricing	pricing	NOUN	NN	_	7	cop	7:cop|20:ccomp|21:cop|32:cc|9:iobj|5:nmod|19:obj|1:case|31:conj|16:nsubj|0:cc|17:mark|24:csubj|36:appos|25:vocative	_
+37	.	.	PUNCT	.	_	10	flat	10:flat|25:punct|6:punct|0:cop|4:xcomp|26:advmod|37:appos|22:iobj|1:aux|34:amod|31:parataxis|15:nmod|14:punct|5:nmod|2:amod|23:fixed|20:case|16:vocative|18:case|8:conj|30:appos	_
+
+# format = sdp
+# sent_id = 1
+# gen_from = neg.change_dep_token
+# text = ROOT Hollywood also wants to avoid having a single company like Apple enticing people to buy only from its own closed digital system , and ending up with an inordinate degree of control over matters like pricing .
+0	ROOT	root	ROOT	ROOT	_	11	case	11:case	_
+1	Hollywood	Hollywood	PROPN	NNP	_	0	root	0:root|9:acl	_
+2	also	also	ADV	RB	_	3	xcomp	3:xcomp	_
+3	wants	want	VERB	VBZ	_				_
+4	to	to	PART	TO	_	15	obl	15:obl	_
+5	avoid	avoid	VERB	VB	_	25	cc	25:cc	_
+6	having	have	VERB	VBG	_	15	mark	15:mark	_
+7	a	a	DET	DT	_	6	conj	6:conj|30:case	_
+8	single	single	ADJ	JJ	_	34	case	34:case	_
+9	company	company	NOUN	NN	_	5	xcomp	5:xcomp|36:case	_
+10	like	like	ADP	IN	_	30	nmod	30:nmod	_
+11	Apple	Apple	PROPN	NNP	_				_
+12	enticing	entice	VERB	VBG	_	22	amod	22:amod|3:punct	_
+13	people	people	NOUN	NNS	_	22	advmod	22:advmod	_
+14	to	to	PART	TO	_	6	obj	6:obj	_
+15	buy	buy	VERB	VB	_				_
+16	only	only	ADV	RB	_				_
+17	from	from	ADP	IN	_				_
+18	its	its	PRON	PRP$	_				_
+19	own	own	ADJ	JJ	_				_
+20	closed	close	VERB	VBN	_	5	mark	5:mark	_
+21	digital	digital	ADJ	JJ	_	25	punct	25:punct	_
+22	system	system	NOUN	NN	_	9	det	9:det|32:case	_
+23	,	,	PUNCT	,	_	30	det	30:det	_
+24	and	and	CCONJ	CC	_	9	nmod	9:nmod|12:xcomp	_
+25	ending	end	VERB	VBG	_	3	advmod	3:advmod	_
+26	up	up	ADP	RP	_	30	amod	30:amod	_
+27	with	with	ADP	IN	_	22	nmod	22:nmod	_
+28	an	a	DET	DT	_				_
+29	inordinate	inordinate	ADJ	JJ	_	22	case	22:case|34:nmod	_
+30	degree	degree	NOUN	NN	_	12	obj	12:obj	_
+31	of	of	ADP	IN	_	25	obl	25:obl	_
+32	control	control	NOUN	NN	_				_
+33	over	over	ADP	IN	_	3	nsubj	3:nsubj|9:amod	_
+34	matters	matter	NOUN	NNS	_				_
+35	like	like	ADP	IN	_	25	compound	25:compound|30:nmod	_
+36	pricing	pricing	NOUN	NN	_	22	amod	22:amod	_
+37	.	.	PUNCT	.	_	22	amod	22:amod	_
+
+# format = sdp
+# sent_id = 1
+# gen_from = neg.exchange_head_dep
+# text = ROOT Hollywood also wants to avoid having a single company like Apple enticing people to buy only from its own closed digital system , and ending up with an inordinate degree of control over matters like pricing .
+0	ROOT	root	ROOT	ROOT	_	3	root	3:root	_
+1	Hollywood	Hollywood	PROPN	NNP	_				_
+2	also	also	ADV	RB	_				_
+3	wants	want	VERB	VBZ	_	1	nsubj	1:nsubj|2:advmod|5:xcomp|37:punct	_
+4	to	to	PART	TO	_				_
+5	avoid	avoid	VERB	VB	_	4	mark	4:mark|6:xcomp	_
+6	having	have	VERB	VBG	_	9	obj	9:obj|25:conj	_
+7	a	a	DET	DT	_				_
+8	single	single	ADJ	JJ	_				_
+9	company	company	NOUN	NN	_	7	det	7:det|8:amod|11:nmod|12:acl	_
+10	like	like	ADP	IN	_				_
+11	Apple	Apple	PROPN	NNP	_	10	case	10:case	_
+12	enticing	entice	VERB	VBG	_	13	obj	13:obj|15:xcomp	_
+13	people	people	NOUN	NNS	_				_
+14	to	to	PART	TO	_				_
+15	buy	buy	VERB	VB	_	14	mark	14:mark|22:obl	_
+16	only	only	ADV	RB	_				_
+17	from	from	ADP	IN	_				_
+18	its	its	PRON	PRP$	_				_
+19	own	own	ADJ	JJ	_				_
+20	closed	close	VERB	VBN	_				_
+21	digital	digital	ADJ	JJ	_				_
+22	system	system	NOUN	NN	_	16	advmod	16:advmod|17:case|18:nmod|19:amod|20:amod|21:amod	_
+23	,	,	PUNCT	,	_				_
+24	and	and	CCONJ	CC	_				_
+25	ending	end	VERB	VBG	_	23	punct	23:punct|24:cc|26:compound|30:obl	_
+26	up	up	ADP	RP	_				_
+27	with	with	ADP	IN	_				_
+28	an	a	DET	DT	_				_
+29	inordinate	inordinate	ADJ	JJ	_				_
+30	degree	degree	NOUN	NN	_	27	case	27:case|28:det|29:amod|32:nmod|34:nmod	_
+31	of	of	ADP	IN	_				_
+32	control	control	NOUN	NN	_	31	case	31:case	_
+33	over	over	ADP	IN	_				_
+34	matters	matter	NOUN	NNS	_	33	case	33:case|36:nmod	_
+35	like	like	ADP	IN	_				_
+36	pricing	pricing	NOUN	NN	_	35	case	35:case	_
+37	.	.	PUNCT	.	_				_
+
+# format = sdp
+# sent_id = 2
+# gen_from = neg.add_edge
+# text = ROOT " I feel like I have a good chance , but I do n't feel like I 'm anywhere close to the favorite , " Ligety said after a downhill training run last week .
+0	ROOT	root	ROOT	ROOT	_	1	iobj	1:iobj|7:ccomp|21:vocative|33:cop|32:csubj|6:ccomp|4:advcl|34:advcl|3:xcomp|20:conj|17:nmod|23:cop|15:nsubj|16:root|11:case|13:parataxis	_
+1	"	"	PUNCT	``	_	7	parataxis	7:parataxis|12:cop|26:conj|31:punct|22:mark|8:advmod|14:fixed|0:vocative|19:advcl|24:amod|25:root|2:nummod|11:nmod|32:ccomp|17:parataxis|10:fixed|15:amod|9:obl|5:parataxis|33:parataxis|13:obj	_
+2	I	I	PRON	PRP	_	9	ccomp	9:ccomp|10:vocative|23:advcl|31:cop|33:det|0:nsubj|17:obj|2:vocative|7:fixed|8:compound|30:nmod	_
+3	feel	feel	VERB	VBP	_	24	obl	24:obl|26:amod|5:iobj|1:aux|22:cop|19:cop|3:cop|33:obl|10:compound|28:ccomp|34:parataxis|31:cop|20:compound|4:ccomp|6:iobj|30:obl	_
+4	like	like	SCONJ	IN	_	33	parataxis	33:parataxis|11:iobj|32:vocative|28:nummod|4:amod|25:compound|18:det|34:flat|24:det|22:cop|31:aux|2:acl|14:det	_
+5	I	I	PRON	PRP	_	16	det	16:det|26:acl|5:iobj|22:conj|20:punct|3:fixed|30:obj|28:csubj|29:case|32:amod|9:ccomp|7:mark|2:obl|17:acl|24:root|10:advmod|23:cop|34:fixed|21:obj|1:cop|14:flat|0:root	_
+6	have	have	VERB	VBP	_	28	amod	28:amod|0:cop|14:appos|26:csubj|20:csubj|12:flat|10:fixed|15:obl|30:root|5:nsubj|8:advmod|7:advmod|29:punct|35:advcl|17:root|27:csubj|24:nummod|33:cc|4:punct|9:advcl|2:acl	_
+7	a	a	DET	DT	_	17	punct	17:punct|18:nummod|14:nmod|25:nummod|4:cc|33:xcomp|1:case|12:aux|23:aux|24:cop|13:nmod|19:csubj|22:conj|26:nsubj|34:nummod	_
+8	good	good	ADJ	JJ	_	3	advmod	3:advmod|26:mark|34:nmod|35:compound|21:compound|11:advmod|29:conj|23:cop|19:amod|14:appos|13:acl|0:obl|20:nsubj|28:case|5:parataxis|7:cop|32:xcomp|4:vocative|31:acl|15:det|10:root|22:compound	_
+9	chance	chance	NOUN	NN	_	14	punct	14:punct|15:fixed|5:amod|33:cop|30:parataxis|25:parataxis|19:case|7:nmod|11:mark|1:advcl|28:advmod|9:conj|29:punct|26:obj|34:nummod|20:compound|3:root|13:advmod|10:appos|31:advmod	_
+10	,	,	PUNCT	,	_	12	conj	12:conj|32:fixed|19:nummod|21:nmod|6:flat|29:advcl|18:nummod|0:mark|11:flat|28:ccomp|24:det|25:iobj|30:conj|31:aux|22:root|16:det|20:fixed|1:vocative	_
+11	but	but	CCONJ	CC	_	23	ccomp	23:ccomp|18:advmod|29:xcomp|8:obl|5:nmod|32:mark|33:appos|19:iobj|16:xcomp|31:punct|14:case|22:fixed|3:parataxis|25:det|17:csubj|1:parataxis|6:obl|30:iobj|21:acl|0:conj	_
+12	I	I	PRON	PRP	_	11	ccomp	11:ccomp|3:xcomp|16:appos|27:obj|22:advcl|29:root|2:case|7:obl|24:cc|4:fixed|0:ccomp|1:flat|6:cc|32:appos|19:root|34:cop|31:iobj|35:ccomp	_
+13	do	do	AUX	VBP	_	1	iobj	1:iobj|27:advmod|17:case|14:compound|16:case|13:aux|9:aux|20:nummod|31:punct|2:xcomp|35:iobj|28:parataxis|8:det|7:nsubj	_
+14	n't	not	PART	RB	_	16	nsubj	16:nsubj|35:acl|24:flat|11:iobj|4:cop|1:xcomp|33:case|14:case|23:obj|25:ccomp|5:parataxis|32:punct|10:cc|0:csubj	_
+15	feel	feel	VERB	VB	_	8	case	8:case|22:parataxis|7:fixed|9:flat|19:advmod|1:csubj|28:amod|29:mark|18:advmod|20:nsubj|25:acl|10:nsubj|26:nsubj|12:parataxis|35:csubj|16:mark	_
+16	like	like	SCONJ	IN	_	27	obj	27:obj|33:nmod|6:acl|17:flat|13:det|24:nmod|23:nummod|12:nummod|28:amod|30:root|34:compound|32:root|22:cop|4:fixed|1:nummod|0:xcomp|14:compound|21:acl|5:vocative|11:obj|3:obl	_
+17	I	I	PRON	PRP	_	24	obl	24:obl|23:mark|25:obl|26:advmod|12:advmod|10:csubj|33:nmod|6:cc|31:ccomp|15:acl|1:amod|7:acl|14:nummod|30:fixed|13:aux|2:acl|32:cc	_
+18	'm	be	AUX	VBP	_	25	appos	25:appos|15:obl|14:fixed|3:mark|30:csubj|11:xcomp|31:cop|22:aux|2:aux|7:punct|4:ccomp|23:nmod|29:nummod|1:compound|0:root|35:amod|32:compound|17:det	_
+19	anywhere	anywhere	ADV	RB	_	31	ccomp	31:ccomp|11:det|4:nummod|12:obj|16:parataxis|9:det|19:nmod|32:ccomp|17:punct|2:ccomp|7:compound|14:conj|29:csubj|0:parataxis|26:parataxis|8:ccomp|6:acl	_
+20	close	close	ADV	RB	_	32	advmod	32:advmod|17:compound|1:flat|22:aux|34:nummod|12:root|18:compound|6:fixed|31:root|13:compound|25:mark|4:compound|29:acl|14:det|21:parataxis|2:obj|19:cc|28:fixed|26:case|35:aux|24:parataxis|23:conj	_
+21	to	to	ADP	IN	_	22	parataxis	22:parataxis|33:flat|8:nummod|25:appos|30:fixed|24:flat|9:conj|28:obl|20:fixed|2:compound|19:parataxis|5:csubj|15:vocative|16:advcl	_
+22	the	the	DET	DT	_	0	cop	0:cop|9:xcomp|25:nummod|28:cc|31:cop|21:parataxis|24:advcl|35:cop|1:case|30:nummod|8:advmod|33:advmod|34:vocative|12:nmod|14:compound|22:mark|26:conj|19:nmod	_
+23	favorite	favorite	NOUN	NN	_	13	punct	13:punct|34:appos|31:compound|18:compound|2:cc|27:mark|8:obj|29:conj|22:iobj|9:acl|5:aux|4:nummod|10:obj|11:root|7:cop|26:det|30:acl|0:cc|6:csubj|35:root	_
+24	,	,	PUNCT	,	_	13	nsubj	13:nsubj|8:nmod|19:mark|33:appos|22:aux|18:compound|35:advmod|6:flat|21:advcl|9:punct|14:ccomp|1:aux|17:fixed|4:obj|34:root|12:mark	_
+25	"	"	PUNCT	''	_	23	nmod	23:nmod|28:xcomp|30:iobj|24:fixed|13:obl|4:cop|22:parataxis|32:nummod|15:nmod|21:mark|7:ccomp|25:xcomp|0:appos|11:acl|6:nummod|29:xcomp|34:obj|18:det|31:nsubj|35:advmod|26:cc	_
+26	Ligety	Ligety	PROPN	NNP	_	5	advcl	5:advcl|35:advcl|3:csubj|28:cc|10:advmod|17:aux|1:flat|33:fixed|19:aux|14:case|22:flat|6:fixed|30:punct|15:parataxis	_
+27	said	say	VERB	VBD	_	0	flat	0:flat|18:compound|19:compound|2:fixed|8:advcl|4:conj|6:xcomp|27:obj|32:obj|1:compound|31:advmod|34:advcl|28:obl|12:nummod|21:fixed|35:case|14:mark|33:cop|22:amod|9:case|29:obj|11:obj|24:conj|15:case|7:advcl	_
+28	after	after	ADP	IN	_	21	mark	21:mark|4:aux|11:advcl|28:iobj|25:obj|2:fixed|1:det|16:vocative|14:punct|0:flat|12:det|27:compound|17:fixed|23:nummod|18:acl|5:nummod	_
+29	a	a	DET	DT	_	6	compound	6:compound|1:det|22:csubj|20:obl|10:flat|13:obj|33:det|24:fixed|27:aux|30:cc|12:advmod|18:advmod	_
+30	downhill	downhill	ADJ	JJ	_	3	fixed	3:fixed|4:mark|12:obj|24:csubj|33:nmod|11:advcl|1:advmod|2:iobj|30:obl|23:cop|25:compound|29:compound|17:csubj|0:cop|6:root|5:case|35:vocative	_
+31	training	training	NOUN	NN	_	13	mark	13:mark|4:cc|28:amod|8:iobj|7:cop|18:flat|9:nummod|0:iobj|21:acl|31:aux|15:case|17:appos|24:acl|20:case|10:appos	_
+32	run	run	NOUN	NN	_	26	punct	26:punct|0:cc|14:csubj|4:csubj|30:advcl|17:case|32:root|16:appos|9:root|23:nmod|3:iobj|1:xcomp|19:xcomp|13:case|15:appos|7:cc|18:advmod	_
+33	last	last	ADJ	JJ	_	21	flat	21:flat|26:case|25:conj|24:punct|16:aux|8:iobj|33:advcl|10:appos|35:punct|18:obl|4:cop|13:nummod|3:aux|32:aux|29:advcl|9:appos|6:fixed|22:advmod	_
+34	week	week	NOUN	NN	_	26	obj	26:obj|34:det|21:cc|15:xcomp|7:compound|35:conj|11:iobj|19:det|4:advcl|5:nmod|16:ccomp|17:vocative|31:case|22:nsubj|32:aux|12:nsubj|25:flat	_
+35	.	.	PUNCT	.	_	13	mark	13:mark|31:det|28:advcl|2:nummod|17:fixed|16:cc|8:obj|29:root|24:cop|5:amod|11:obj|27:punct|15:iobj|19:case	_
+
+# format = sdp
+# sent_id = 2
+# gen_from = neg.change_dep_token
+# text = ROOT " I feel like I have a good chance , but I do n't feel like I 'm anywhere close to the favorite , " Ligety said after a downhill training run last week .
+0	ROOT	root	ROOT	ROOT	_	6	obj	6:obj	_
+1	"	"	PUNCT	``	_	0	root	0:root	_
+2	I	I	PRON	PRP	_				_
+3	feel	feel	VERB	VBP	_				_
+4	like	like	SCONJ	IN	_				_
+5	I	I	PRON	PRP	_	6	mark	6:mark	_
+6	have	have	VERB	VBP	_	15	punct	15:punct	_
+7	a	a	DET	DT	_				_
+8	good	good	ADJ	JJ	_	15	cc	15:cc|15:aux|20:obl	_
+9	chance	chance	NOUN	NN	_	27	obl	27:obl	_
+10	,	,	PUNCT	,	_	23	det	23:det	_
+11	but	but	CCONJ	CC	_				_
+12	I	I	PRON	PRP	_	3	punct	3:punct|27:nsubj	_
+13	do	do	AUX	VBP	_	9	det	9:det|20:mark|3:punct	_
+14	n't	not	PART	RB	_				_
+15	feel	feel	VERB	VB	_	3	conj	3:conj	_
+16	like	like	SCONJ	IN	_	9	amod	9:amod	_
+17	I	I	PRON	PRP	_	3	punct	3:punct|15:nsubj|32:compound	_
+18	'm	be	AUX	VBP	_	3	parataxis	3:parataxis|32:amod	_
+19	anywhere	anywhere	ADV	RB	_	32	det	32:det|34:amod	_
+20	close	close	ADV	RB	_				_
+21	to	to	ADP	IN	_				_
+22	the	the	DET	DT	_				_
+23	favorite	favorite	NOUN	NN	_	32	case	32:case	_
+24	,	,	PUNCT	,	_				_
+25	"	"	PUNCT	''	_	20	cop	20:cop|3:punct	_
+26	Ligety	Ligety	PROPN	NNP	_				_
+27	said	say	VERB	VBD	_	27	obl	27:obl	_
+28	after	after	ADP	IN	_				_
+29	a	a	DET	DT	_	3	nsubj	3:nsubj|3:advcl|15:advcl	_
+30	downhill	downhill	ADJ	JJ	_	15	advmod	15:advmod|20:advmod	_
+31	training	training	NOUN	NN	_	23	case	23:case	_
+32	run	run	NOUN	NN	_				_
+33	last	last	ADJ	JJ	_				_
+34	week	week	NOUN	NN	_	6	nsubj	6:nsubj|20:nsubj	_
+35	.	.	PUNCT	.	_				_
+
+# format = sdp
+# sent_id = 2
+# gen_from = neg.exchange_head_dep
+# text = ROOT " I feel like I have a good chance , but I do n't feel like I 'm anywhere close to the favorite , " Ligety said after a downhill training run last week .
+0	ROOT	root	ROOT	ROOT	_	3	root	3:root	_
+1	"	"	PUNCT	``	_				_
+2	I	I	PRON	PRP	_				_
+3	feel	feel	VERB	VBP	_	1	punct	1:punct|2:nsubj|6:advcl|15:conj|24:punct|25:punct|27:parataxis|35:punct	_
+4	like	like	SCONJ	IN	_				_
+5	I	I	PRON	PRP	_				_
+6	have	have	VERB	VBP	_	4	mark	4:mark|5:nsubj|9:obj	_
+7	a	a	DET	DT	_				_
+8	good	good	ADJ	JJ	_				_
+9	chance	chance	NOUN	NN	_	7	det	7:det|8:amod	_
+10	,	,	PUNCT	,	_				_
+11	but	but	CCONJ	CC	_				_
+12	I	I	PRON	PRP	_				_
+13	do	do	AUX	VBP	_				_
+14	n't	not	PART	RB	_				_
+15	feel	feel	VERB	VB	_	10	punct	10:punct|11:cc|12:nsubj|13:aux|14:advmod|20:advcl	_
+16	like	like	SCONJ	IN	_				_
+17	I	I	PRON	PRP	_				_
+18	'm	be	AUX	VBP	_				_
+19	anywhere	anywhere	ADV	RB	_				_
+20	close	close	ADV	RB	_	16	mark	16:mark|17:nsubj|18:cop|19:advmod|23:obl	_
+21	to	to	ADP	IN	_				_
+22	the	the	DET	DT	_				_
+23	favorite	favorite	NOUN	NN	_	21	case	21:case|22:det	_
+24	,	,	PUNCT	,	_				_
+25	"	"	PUNCT	''	_				_
+26	Ligety	Ligety	PROPN	NNP	_				_
+27	said	say	VERB	VBD	_	26	nsubj	26:nsubj|32:obl|34:obl	_
+28	after	after	ADP	IN	_				_
+29	a	a	DET	DT	_				_
+30	downhill	downhill	ADJ	JJ	_				_
+31	training	training	NOUN	NN	_				_
+32	run	run	NOUN	NN	_	28	case	28:case|29:det|30:amod|31:compound	_
+33	last	last	ADJ	JJ	_				_
+34	week	week	NOUN	NN	_	33	amod	33:amod	_
+35	.	.	PUNCT	.	_				_
+
+# format = sdp
+# sent_id = 3
+# gen_from = neg.add_edge
+# text = ROOT The supermarket group will also point to a bonanza in non-food sales , having capitalised on the collapse of Woolworths and Zavvi to sell DVD box sets , calendars , party gear and children ’s toys .
+0	ROOT	root	ROOT	ROOT	_	1	mark	1:mark|35:nmod|31:conj|28:mark|19:appos|30:appos|16:obl|2:iobj|18:nummod|22:compound|29:case|15:nmod|17:nmod|5:case|27:det|14:nummod|0:mark|12:det|3:obl|13:punct|21:obj|26:compound	_
+1	The	the	DET	DT	_	28	advmod	28:advmod|14:vocative|27:ccomp|31:appos|17:case|10:ccomp|35:iobj|11:root|16:conj|26:mark|32:xcomp|1:appos|4:det|9:root|7:compound|13:appos|6:ccomp|23:iobj|20:conj|5:aux	_
+2	supermarket	supermarket	NOUN	NN	_	20	fixed	20:fixed|29:vocative|5:xcomp|25:acl|33:advmod|21:advcl|18:vocative|35:csubj|19:nmod|23:flat|37:advcl|31:advcl|1:advmod|32:acl|2:punct|10:nummod|0:nmod	_
+3	group	group	NOUN	NN	_	8	nsubj	8:nsubj|17:nmod|25:aux|7:det|15:punct|23:cop|35:fixed|28:parataxis|0:compound|22:cop|14:obl|10:fixed|36:punct|19:nsubj|9:xcomp|37:mark	_
+4	will	will	AUX	MD	_	17	parataxis	17:parataxis|30:fixed|19:advmod|35:flat|10:advcl|32:fixed|4:root|1:vocative|9:amod|13:vocative|28:compound|33:conj|18:aux|22:case|34:mark|20:conj|14:nmod|36:cop|15:conj|27:compound|12:compound	_
+5	also	also	ADV	RB	_	30	advcl	30:advcl|18:punct|3:appos|13:root|35:nmod|15:punct|28:nummod|10:root|0:conj|26:vocative|21:acl|36:aux|7:iobj|27:nsubj|31:obl|19:flat|22:appos|16:amod|29:mark	_
+6	point	point	VERB	VB	_	12	appos	12:appos|2:acl|30:nsubj|8:acl|19:cc|4:punct|5:root|7:fixed|26:cop|33:parataxis|21:parataxis|28:appos|34:iobj|27:flat|29:conj|22:fixed|23:cop|1:acl|24:ccomp|25:vocative|9:cop|35:amod|32:nmod	_
+7	to	to	ADP	IN	_	10	obj	10:obj|27:obj|15:ccomp|29:vocative|13:punct|34:cop|36:conj|18:advmod|35:compound|24:root|11:det|33:ccomp|37:advcl|4:cop|1:det|26:obj|17:flat	_
+8	a	a	DET	DT	_	32	cc	32:cc|26:flat|35:ccomp|14:cc|3:amod|12:mark|17:compound|34:vocative|0:parataxis|11:parataxis|25:det|15:csubj|29:flat|2:cop|23:nmod|19:appos|30:nsubj|16:vocative|8:fixed|22:punct	_
+9	bonanza	bonanza	NOUN	NN	_	9	aux	9:aux|21:case|10:amod|4:det|27:compound|16:vocative|20:mark|11:compound|17:csubj|2:flat|35:nmod|31:punct|25:compound|13:fixed|14:mark|33:root|7:xcomp|3:conj|23:ccomp|18:compound|1:compound|32:nsubj|29:obj|36:csubj	_
+10	in	in	ADP	IN	_	16	nsubj	16:nsubj|19:iobj|4:det|25:nmod|14:conj|17:iobj|24:aux|13:advmod|8:cc|26:fixed|3:appos|15:flat|22:advmod|20:mark|9:parataxis|27:amod|29:parataxis|23:det|35:punct	_
+11	non-food	non-food	NOUN	NN	_	2	vocative	2:vocative|10:obj|1:aux|34:punct|35:flat|25:acl|11:ccomp|4:nmod|23:nsubj|24:aux|13:cop|5:ccomp|19:conj|14:compound|29:csubj|30:advmod	_
+12	sales	sale	NOUN	NNS	_	26	aux	26:aux|29:mark|20:fixed|35:xcomp|0:punct|4:case|16:xcomp|24:root|6:det|27:parataxis|2:cop|7:nummod|31:aux|28:case|18:amod	_
+13	,	,	PUNCT	,	_	22	conj	22:conj|7:amod|0:nummod|9:advcl|25:nummod|4:det|6:nmod|26:vocative|36:nmod|16:ccomp|11:det|30:cc|12:appos|14:det|34:mark	_
+14	having	have	AUX	VBG	_	7	punct	7:punct|32:aux|26:cc|34:nsubj|1:nsubj|0:punct|27:compound|33:iobj|30:parataxis|13:flat|31:vocative|24:conj|35:nummod|14:cc|5:advcl|36:xcomp|21:flat	_
+15	capitalised	capitalise	VERB	VBN	_	21	csubj	21:csubj|32:punct|0:mark|30:amod|26:obl|35:cop|15:ccomp|22:iobj|25:vocative|8:cc|7:compound|29:compound|1:obl|33:nsubj|27:det|23:xcomp|18:aux|24:compound|36:ccomp|4:appos|13:iobj|2:iobj	_
+16	on	on	ADP	IN	_	1	fixed	1:fixed|2:appos|0:root|25:conj|24:conj|31:compound|23:appos|30:cop|15:mark|10:det|3:advcl|29:fixed|28:det|36:det|37:flat|33:csubj|14:case|21:advmod	_
+17	the	the	DET	DT	_	24	root	24:root|6:nmod|32:ccomp|31:appos|21:flat|30:nsubj|27:nsubj|25:acl|7:flat|34:root|20:obl|5:det|1:appos|8:obl|13:case|11:obj|35:nmod|15:amod	_
+18	collapse	collapse	NOUN	NN	_	12	compound	12:compound|8:root|2:advcl|33:obl|23:cop|3:xcomp|10:acl|18:vocative|16:case|9:case|28:advcl|7:advcl|11:vocative|21:mark|37:iobj|36:parataxis|29:compound|19:root|35:parataxis|17:conj	_
+19	of	of	ADP	IN	_	5	csubj	5:csubj|13:nsubj|23:punct|30:xcomp|29:nsubj|7:compound|33:vocative|28:amod|16:appos|9:csubj|32:conj|14:aux|31:parataxis|15:aux|22:iobj|34:vocative|36:appos|2:iobj|18:mark	_
+20	Woolworths	Woolworth	PROPN	NNP	_	28	amod	28:amod|2:mark|29:flat|24:nummod|23:parataxis|16:iobj|12:iobj|7:conj|31:obl|30:flat|33:xcomp|27:punct|4:conj|8:obl|20:fixed|32:advcl|10:compound	_
+21	and	and	CCONJ	CC	_	24	amod	24:amod|17:nmod|11:appos|32:conj|0:obj|31:appos|1:advmod|7:cc|23:advcl|33:compound|16:det|35:cop|14:parataxis|6:fixed|8:cc	_
+22	Zavvi	Zavvi	PROPN	NNP	_	34	advmod	34:advmod|6:punct|16:xcomp|26:flat|21:root|3:advmod|13:mark|9:advmod|23:obl|33:advcl|24:ccomp|17:obj|32:fixed|10:root|2:compound	_
+23	to	to	PART	TO	_	14	mark	14:mark|21:advmod|34:ccomp|7:acl|36:obl|31:aux|22:obl|29:obl|15:acl|2:csubj|8:mark|25:appos|0:ccomp|28:advmod|5:iobj|27:conj|33:nummod|10:appos	_
+24	sell	sell	VERB	VB	_	2	obl	2:obl|5:acl|27:nmod|30:cop|1:ccomp|9:nsubj|3:obl|34:xcomp|18:case|8:compound|37:cc|14:iobj|20:punct|7:det|4:punct|28:root|24:acl|32:nummod	_
+25	DVD	dvd	NOUN	NN	_	29	obl	29:obl|4:obl|23:nummod|19:appos|35:root|37:compound|28:obj|10:iobj|27:amod|7:nummod|1:obl|30:iobj|0:aux|25:ccomp|12:mark|15:appos|2:csubj|11:vocative|22:csubj|32:punct|20:case	_
+26	box	box	NOUN	NN	_	15	case	15:case|28:ccomp|9:case|2:cop|20:advmod|10:cc|36:csubj|3:obl|33:vocative|17:parataxis|23:punct|0:cop|18:cop|7:ccomp|6:advcl|5:det	_
+27	sets	set	NOUN	NNS	_	5	vocative	5:vocative|7:aux|12:compound|15:advcl|34:vocative|9:flat|11:iobj|6:det|23:parataxis|36:case|35:acl|20:csubj|10:nummod|0:obl|8:xcomp|28:compound|3:case|31:obj|4:advmod|22:nummod	_
+28	,	,	PUNCT	,	_	23	parataxis	23:parataxis|35:appos|10:advcl|28:nsubj|21:ccomp|0:root|17:iobj|25:cop|15:csubj|34:punct|26:acl|6:ccomp|22:det|31:conj|4:cop|32:csubj|24:punct|8:fixed	_
+29	calendars	calendar	NOUN	NNS	_	28	vocative	28:vocative|24:det|10:obl|11:cop|1:vocative|3:root|19:nsubj|22:nmod|18:nummod|4:aux|12:xcomp|17:cop|36:aux|34:punct|21:case|9:aux|23:ccomp|5:nummod|14:ccomp|16:aux|32:aux|2:acl	_
+30	,	,	PUNCT	,	_	22	compound	22:compound|27:case|14:acl|26:obj|4:flat|34:fixed|10:nsubj|16:fixed|15:advmod|33:advcl|2:cc|3:mark|0:obl|12:aux|30:cop|6:obl|20:advmod|29:iobj|19:mark|13:cop|8:vocative|11:det	_
+31	party	party	NOUN	NN	_	24	fixed	24:fixed|31:xcomp|6:mark|8:csubj|21:vocative|4:vocative|26:parataxis|15:parataxis|1:parataxis|27:case|19:punct|13:obl|7:advcl|22:root|28:acl|25:csubj	_
+32	gear	gear	NOUN	NN	_	14	iobj	14:iobj|36:nummod|2:aux|26:conj|37:compound|8:csubj|4:fixed|20:conj|13:acl|18:cc|29:amod|31:cc|23:appos|11:cop|5:iobj|33:advcl|9:ccomp|34:nmod|30:punct|15:nummod	_
+33	and	and	CCONJ	CC	_	10	aux	10:aux|31:nsubj|30:nsubj|11:xcomp|23:fixed|24:conj|21:cc|16:flat|25:flat|6:nsubj|22:mark|32:amod|9:compound|5:nmod|15:ccomp|13:cc	_
+34	children	child	NOUN	NNS	_	3	advmod	3:advmod|17:advcl|33:acl|28:xcomp|31:cop|19:advmod|9:mark|37:nsubj|8:advmod|29:advmod|21:amod|13:root|7:csubj|5:nummod|22:fixed|27:iobj|6:appos|34:fixed	_
+35	’s	's	PART	POS	_	8	xcomp	8:xcomp|7:parataxis|15:parataxis|30:advmod|35:nummod|28:obl|23:nsubj|29:obl|31:parataxis|18:obj|32:conj|12:cc|16:xcomp|9:nsubj|1:det|25:obl|10:det|5:conj|26:vocative|27:appos	_
+36	toys	toy	NOUN	NNS	_	36	cop	36:cop|30:advmod|29:case|28:mark|6:compound|13:advmod|20:mark|23:mark|4:csubj|32:advcl|10:advcl|14:cop|31:amod|7:nsubj|37:cc|34:csubj|17:vocative|26:csubj	_
+37	.	.	PUNCT	.	_	20	acl	20:acl|5:csubj|8:compound|10:case|16:punct|1:aux|17:ccomp|13:appos|0:acl|31:cop|15:csubj|9:conj|35:case|23:parataxis|32:mark|26:conj	_
+
+# format = sdp
+# sent_id = 3
+# gen_from = neg.change_dep_token
+# text = ROOT The supermarket group will also point to a bonanza in non-food sales , having capitalised on the collapse of Woolworths and Zavvi to sell DVD box sets , calendars , party gear and children ’s toys .
+0	ROOT	root	ROOT	ROOT	_				_
+1	The	the	DET	DT	_	27	conj	27:conj	_
+2	supermarket	supermarket	NOUN	NN	_				_
+3	group	group	NOUN	NN	_	9	det	9:det|9:nmod	_
+4	will	will	AUX	MD	_	15	obl	15:obl	_
+5	also	also	ADV	RB	_				_
+6	point	point	VERB	VB	_				_
+7	to	to	ADP	IN	_	9	case	9:case|12:compound|22:cc	_
+8	a	a	DET	DT	_	3	compound	3:compound|24:mark	_
+9	bonanza	bonanza	NOUN	NN	_				_
+10	in	in	ADP	IN	_	18	case	18:case	_
+11	non-food	non-food	NOUN	NN	_	15	advcl	15:advcl	_
+12	sales	sale	NOUN	NNS	_	12	case	12:case	_
+13	,	,	PUNCT	,	_				_
+14	having	have	AUX	VBG	_	6	nsubj	6:nsubj|6:obl	_
+15	capitalised	capitalise	VERB	VBN	_	6	punct	6:punct	_
+16	on	on	ADP	IN	_				_
+17	the	the	DET	DT	_	6	advmod	6:advmod	_
+18	collapse	collapse	NOUN	NN	_	20	case	20:case|18:nmod|26:compound|32:punct	_
+19	of	of	ADP	IN	_				_
+20	Woolworths	Woolworth	PROPN	NNP	_	36	nmod	36:nmod	_
+21	and	and	CCONJ	CC	_	0	root	0:root|15:aux	_
+22	Zavvi	Zavvi	PROPN	NNP	_	6	advcl	6:advcl	_
+23	to	to	PART	TO	_	18	det	18:det	_
+24	sell	sell	VERB	VB	_				_
+25	DVD	dvd	NOUN	NN	_				_
+26	box	box	NOUN	NN	_	15	punct	15:punct|29:punct|36:cc	_
+27	sets	set	NOUN	NNS	_				_
+28	,	,	PUNCT	,	_				_
+29	calendars	calendar	NOUN	NNS	_	20	conj	20:conj	_
+30	,	,	PUNCT	,	_	6	aux	6:aux	_
+31	party	party	NOUN	NN	_	27	compound	27:compound	_
+32	gear	gear	NOUN	NN	_	34	case	34:case	_
+33	and	and	CCONJ	CC	_	24	obj	24:obj	_
+34	children	child	NOUN	NNS	_	3	det	3:det|27:conj	_
+35	’s	's	PART	POS	_	32	compound	32:compound	_
+36	toys	toy	NOUN	NNS	_				_
+37	.	.	PUNCT	.	_	27	conj	27:conj	_
+
+# format = sdp
+# sent_id = 3
+# gen_from = neg.exchange_head_dep
+# text = ROOT The supermarket group will also point to a bonanza in non-food sales , having capitalised on the collapse of Woolworths and Zavvi to sell DVD box sets , calendars , party gear and children ’s toys .
+0	ROOT	root	ROOT	ROOT	_	6	root	6:root	_
+1	The	the	DET	DT	_				_
+2	supermarket	supermarket	NOUN	NN	_				_
+3	group	group	NOUN	NN	_	1	det	1:det|2:compound	_
+4	will	will	AUX	MD	_				_
+5	also	also	ADV	RB	_				_
+6	point	point	VERB	VB	_	3	nsubj	3:nsubj|4:aux|5:advmod|9:obl|15:advcl|37:punct	_
+7	to	to	ADP	IN	_				_
+8	a	a	DET	DT	_				_
+9	bonanza	bonanza	NOUN	NN	_	7	case	7:case|8:det|12:nmod	_
+10	in	in	ADP	IN	_				_
+11	non-food	non-food	NOUN	NN	_				_
+12	sales	sale	NOUN	NNS	_	10	case	10:case|11:compound	_
+13	,	,	PUNCT	,	_				_
+14	having	have	AUX	VBG	_				_
+15	capitalised	capitalise	VERB	VBN	_	13	punct	13:punct|14:aux|18:obl|24:advcl	_
+16	on	on	ADP	IN	_				_
+17	the	the	DET	DT	_				_
+18	collapse	collapse	NOUN	NN	_	16	case	16:case|17:det|20:nmod	_
+19	of	of	ADP	IN	_				_
+20	Woolworths	Woolworth	PROPN	NNP	_	19	case	19:case|22:conj	_
+21	and	and	CCONJ	CC	_				_
+22	Zavvi	Zavvi	PROPN	NNP	_	21	cc	21:cc	_
+23	to	to	PART	TO	_				_
+24	sell	sell	VERB	VB	_	23	mark	23:mark|27:obj	_
+25	DVD	dvd	NOUN	NN	_				_
+26	box	box	NOUN	NN	_	25	compound	25:compound	_
+27	sets	set	NOUN	NNS	_	26	compound	26:compound|29:conj|32:conj|36:conj	_
+28	,	,	PUNCT	,	_				_
+29	calendars	calendar	NOUN	NNS	_	28	punct	28:punct	_
+30	,	,	PUNCT	,	_				_
+31	party	party	NOUN	NN	_				_
+32	gear	gear	NOUN	NN	_	30	punct	30:punct|31:compound	_
+33	and	and	CCONJ	CC	_				_
+34	children	child	NOUN	NNS	_	35	case	35:case	_
+35	’s	's	PART	POS	_				_
+36	toys	toy	NOUN	NNS	_	33	cc	33:cc|34:nmod	_
+37	.	.	PUNCT	.	_				_
+
+# format = sdp
+# sent_id = 4
+# gen_from = neg.add_edge
+# text = ROOT Canada 's Old Bear mauls Norway to win gold
+0	ROOT	root	ROOT	ROOT	_	8	nummod	8:nummod|7:det|0:advcl|6:compound|3:punct	_
+1	Canada	Canada	PROPN	NNP	_	3	aux	3:aux|2:obj|9:cc|0:root|7:acl|8:parataxis	_
+2	's	's	PART	POS	_	4	obj	4:obj|2:iobj|0:cop|9:obj	_
+3	Old	Old	ADJ	NNP	_	2	advmod	2:advmod|0:nsubj|3:csubj|1:parataxis	_
+4	Bear	Bear	PROPN	NNP	_	6	acl	6:acl|0:flat|9:advmod|8:acl	_
+5	mauls	maul	VERB	VBZ	_	8	advmod	8:advmod|9:xcomp|2:vocative	_
+6	Norway	Norway	PROPN	NNP	_	7	obj	7:obj|9:flat|4:iobj|6:compound|2:cc	_
+7	to	to	PART	TO	_	0	det	0:det|1:det|9:advmod|2:acl|6:aux|4:mark	_
+8	win	win	VERB	VB	_	3	cop	3:cop|6:csubj|8:obl|4:advcl|0:appos	_
+9	gold	gold	NOUN	NN	_	9	csubj	9:csubj|5:ccomp|6:punct|2:cop	_
+
+# format = sdp
+# sent_id = 4
+# gen_from = neg.change_dep_token
+# text = ROOT Canada 's Old Bear mauls Norway to win gold
+0	ROOT	root	ROOT	ROOT	_	4	nmod	4:nmod	_
+1	Canada	Canada	PROPN	NNP	_				_
+2	's	's	PART	POS	_	8	mark	8:mark	_
+3	Old	Old	ADJ	NNP	_	4	amod	4:amod|8:obj	_
+4	Bear	Bear	PROPN	NNP	_	5	nsubj	5:nsubj|5:obj	_
+5	mauls	maul	VERB	VBZ	_	5	advcl	5:advcl	_
+6	Norway	Norway	PROPN	NNP	_	1	case	1:case	_
+7	to	to	PART	TO	_				_
+8	win	win	VERB	VB	_				_
+9	gold	gold	NOUN	NN	_	0	root	0:root	_
+
+# format = sdp
+# sent_id = 4
+# gen_from = neg.exchange_head_dep
+# text = ROOT Canada 's Old Bear mauls Norway to win gold
+0	ROOT	root	ROOT	ROOT	_	5	root	5:root	_
+1	Canada	Canada	PROPN	NNP	_	2	case	2:case	_
+2	's	's	PART	POS	_				_
+3	Old	Old	ADJ	NNP	_				_
+4	Bear	Bear	PROPN	NNP	_	1	nmod	1:nmod|3:amod	_
+5	mauls	maul	VERB	VBZ	_	4	nsubj	4:nsubj|6:obj|8:advcl	_
+6	Norway	Norway	PROPN	NNP	_				_
+7	to	to	PART	TO	_				_
+8	win	win	VERB	VB	_	7	mark	7:mark|9:obj	_
+9	gold	gold	NOUN	NN	_				_
+
+# format = sdp
+# sent_id = 5
+# gen_from = neg.add_edge
+# text = ROOT President Nicolas Sarkozy has made fighting unemployment a priority and his government has told Total it must guarantee jobs , in particular since it has been posting multi-billion - euro earnings despite the global slowdown .
+0	ROOT	root	ROOT	ROOT	_	16	case	16:case|4:root|31:parataxis|25:iobj|14:obj|7:cop|35:nummod|23:xcomp|13:nummod|30:conj|27:aux|5:advmod|33:compound|26:compound|22:root	_
+1	President	President	PROPN	NNP	_	13	compound	13:compound|32:nsubj|12:ccomp|24:advcl|33:nmod|35:ccomp|9:conj|15:appos|10:ccomp|6:ccomp|2:advcl|1:det|0:compound|27:advcl|28:parataxis|31:obj|26:ccomp|16:advcl|4:root|21:aux	_
+2	Nicolas	Nicolas	PROPN	NNP	_	27	advmod	27:advmod|22:cc|28:flat|32:conj|17:fixed|2:mark|11:case|18:parataxis|24:nmod|25:obj|16:nmod|9:obl|29:det|5:flat|12:root|15:advmod|3:vocative|8:compound|34:xcomp|6:fixed|10:advmod	_
+3	Sarkozy	Sarkozy	PROPN	NNP	_	27	nsubj	27:nsubj|8:conj|4:aux|24:fixed|36:xcomp|32:advmod|3:xcomp|13:ccomp|7:iobj|0:aux|17:fixed|11:appos|33:obj|9:acl|21:mark|35:nummod|16:flat	_
+4	has	have	AUX	VBZ	_	27	cop	27:cop|15:flat|36:advmod|29:advmod|20:nmod|17:advcl|1:acl|7:punct|30:advcl|0:xcomp|32:root|12:xcomp|26:fixed|9:acl|11:cc	_
+5	made	make	VERB	VBN	_	8	parataxis	8:parataxis|14:obl|7:conj|17:csubj|28:obl|33:det|19:fixed|36:iobj|24:cc|25:conj|1:punct|30:root|15:cc|4:cc|9:xcomp|34:ccomp|31:det|6:ccomp|26:case|35:cop	_
+6	fighting	fight	VERB	VBG	_	23	aux	23:aux|29:ccomp|12:det|19:conj|21:conj|8:nmod|0:mark|7:aux|30:nmod|3:vocative|32:mark|10:acl|14:root|17:mark|9:flat|20:nummod|1:xcomp|36:fixed	_
+7	unemployment	unemployment	NOUN	NN	_	26	amod	26:amod|21:appos|20:punct|34:fixed|29:advcl|0:nmod|7:ccomp|33:case|8:parataxis|25:cop|16:conj	_
+8	a	a	DET	DT	_	33	root	33:root|4:nmod|34:acl|27:obj|17:punct|14:cc|15:nmod|8:mark|5:fixed|20:csubj|19:cc|30:mark|1:vocative|36:case|32:vocative|3:xcomp	_
+9	priority	priority	NOUN	NN	_	32	aux	32:aux|20:nmod|26:punct|22:appos|31:fixed|28:fixed|27:fixed|1:root|10:csubj|34:det|36:obl|19:vocative|2:case|30:aux|14:punct|24:csubj|11:conj|21:aux|7:punct	_
+10	and	and	CCONJ	CC	_	8	nsubj	8:nsubj|4:nummod|16:nsubj|26:mark|35:parataxis|22:parataxis|3:punct|11:obl|19:amod|7:root|24:obj|30:advcl|33:nmod|36:mark|32:case|28:ccomp|27:appos|10:nummod|29:ccomp|31:obj	_
+11	his	he	PRON	PRP$	_	26	cop	26:cop|31:mark|28:root|33:cc|6:appos|34:ccomp|4:acl|18:punct|17:nsubj|3:iobj|36:cc|5:advmod|24:acl|8:mark|11:vocative|27:appos	_
+12	government	government	NOUN	NN	_	27	acl	27:acl|21:nsubj|6:fixed|7:mark|18:iobj|4:iobj|30:vocative|28:xcomp|33:ccomp|20:obl|19:aux|36:advcl|32:acl|13:fixed|25:det|10:mark|24:nummod|22:flat	_
+13	has	have	AUX	VBZ	_	35	aux	35:aux|24:parataxis|31:conj|3:advmod|11:xcomp|15:acl|5:csubj|36:vocative|19:parataxis|20:advmod|18:nummod|13:advmod|33:cc|16:cop|26:cop|28:ccomp|34:det|1:advcl	_
+14	told	tell	VERB	VBN	_	12	obj	12:obj|2:cop|21:cc|9:nmod|26:xcomp|24:nummod|0:vocative|1:conj|25:xcomp|6:advmod|15:punct|22:cop|28:advmod|7:flat|20:obj|23:flat	_
+15	Total	total	NOUN	NN	_	0	amod	0:amod|11:advmod|9:parataxis|20:ccomp|10:parataxis|34:vocative|16:cop|4:cc|15:csubj|35:amod|2:obl|26:punct|3:det|19:root|21:nummod|24:cop|22:aux|7:nmod|27:punct|32:advcl	_
+16	it	it	PRON	PRP	_	6	punct	6:punct|13:cop|35:flat|16:nmod|30:obl|24:aux|28:advcl|20:amod|12:amod|22:advmod|33:advcl|1:case|26:det|0:nummod|2:fixed|9:xcomp|8:cc|5:parataxis	_
+17	must	must	AUX	MD	_	17	nmod	17:nmod|27:vocative|25:cop|9:cop|5:ccomp|23:cop|26:det|8:advcl|11:xcomp|32:csubj|10:root|36:obj|22:case|24:det|16:cop|0:mark|1:obl|33:punct	_
+18	guarantee	guarantee	VERB	VB	_	23	obj	23:obj|27:amod|0:obl|18:advmod|35:xcomp|20:nsubj|26:det|8:vocative|6:vocative|12:advmod|36:nummod|5:fixed|9:conj|22:nmod|3:iobj|31:conj|32:appos|25:parataxis|21:flat|15:fixed	_
+19	jobs	job	NOUN	NNS	_	0	obl	0:obl|14:compound|3:cop|15:cop|22:mark|6:cop|29:conj|28:case|30:cop|8:nmod|32:det|11:mark|25:case|9:iobj|23:csubj|5:amod|27:obl|26:amod|7:iobj|35:advmod|33:cop|12:nummod	_
+20	,	,	PUNCT	,	_	16	iobj	16:iobj|2:aux|12:vocative|23:det|30:root|29:iobj|8:vocative|5:advmod|17:nummod|9:advmod|31:ccomp|3:nmod|34:root|36:aux|26:nsubj|13:root|32:appos|7:nummod|33:xcomp|14:xcomp|6:csubj|35:fixed|10:fixed|24:fixed	_
+21	in	in	ADP	IN	_	0	aux	0:aux|20:appos|7:parataxis|21:advmod|2:advmod|4:acl|5:punct|30:appos|6:parataxis|17:root|36:det|34:punct|29:conj|10:conj	_
+22	particular	particular	ADJ	JJ	_	12	cop	12:cop|33:advmod|16:obj|29:conj|15:ccomp|10:cop|32:aux|17:aux|20:nmod|5:flat|21:advmod|2:advmod|6:aux|18:root|9:obj|7:appos|11:cop	_
+23	since	since	SCONJ	IN	_	22	ccomp	22:ccomp|26:iobj|15:flat|12:xcomp|25:nsubj|3:cc|0:nsubj|33:iobj|31:ccomp|18:root|21:case|6:mark|19:advmod	_
+24	it	it	PRON	PRP	_	23	iobj	23:iobj|12:mark|16:fixed|2:flat|29:punct|25:csubj|17:conj|1:nsubj|8:vocative|26:case|15:vocative|13:amod|33:ccomp|7:mark|5:flat|4:nmod|21:flat|36:iobj|22:cc|14:amod	_
+25	has	have	AUX	VBZ	_	19	advmod	19:advmod|25:acl|2:parataxis|34:fixed|18:compound|15:ccomp|6:iobj|14:cc|4:parataxis|20:acl|30:case|29:mark|32:iobj|24:obj|5:cop	_
+26	been	be	AUX	VBN	_	8	obj	8:obj|12:flat|10:advcl|29:cc|2:case|32:appos|15:ccomp|23:nsubj|21:nsubj|35:cc|1:vocative|11:mark|16:amod|34:nmod|17:obj|14:parataxis|25:conj|18:advmod	_
+27	posting	post	VERB	VBG	_	32	cop	32:cop|35:flat|21:parataxis|20:aux|2:nsubj|10:obj|31:flat|30:obj|33:aux|27:csubj|6:nmod|1:punct|8:flat|34:cc|15:parataxis|5:xcomp|19:appos|4:obj|12:nmod|17:vocative	_
+28	multi-billion	multi-billion	NUM	CD	_	8	compound	8:compound|32:det|24:cc|16:obl|9:acl|20:aux|12:amod|28:flat|25:amod|19:amod|26:nmod|15:punct	_
+29	-	-	PUNCT	HYPH	_	15	aux	15:aux|27:advmod|21:vocative|34:ccomp|19:nummod|11:iobj|22:ccomp|4:cop|35:acl|16:mark|26:compound|24:det|12:xcomp|6:fixed|7:csubj|10:ccomp|0:advcl|33:amod	_
+30	euro	euro	NOUN	NN	_	10	cop	10:cop|36:compound|17:iobj|30:advcl|13:punct|7:flat|33:csubj|6:fixed|34:fixed|25:csubj|24:case|19:nsubj|16:flat|12:punct|18:obl|26:cc|2:advmod|27:amod	_
+31	earnings	earnings	NOUN	NNS	_	10	obj	10:obj|29:case|14:nmod|26:aux|0:obl|6:xcomp|12:amod|31:case|9:flat|13:det|23:cop|11:iobj|34:advmod|15:nsubj|18:case|36:compound|22:obj|25:conj|20:appos	_
+32	despite	despite	ADP	IN	_	23	det	23:det|14:fixed|5:case|32:compound|3:compound|19:aux|28:case|16:case|30:obl|29:nmod|9:punct|13:cop|8:conj|18:appos|34:fixed|11:advmod|21:advcl|26:cc|17:csubj|24:obj|22:parataxis	_
+33	the	the	DET	DT	_	1	appos	1:appos|18:aux|29:nmod|11:csubj|22:advcl|0:nummod|27:nsubj|9:appos|6:cop|17:nmod|33:punct|15:conj|2:vocative|10:nummod|23:nmod|13:xcomp|4:root|19:root|8:acl|5:appos|21:mark|25:xcomp	_
+34	global	global	ADJ	JJ	_	17	advcl	17:advcl|2:xcomp|23:xcomp|1:parataxis|7:aux|15:mark|16:csubj|19:fixed|21:nmod|28:nummod|6:fixed|33:vocative|5:aux|13:iobj|8:compound|24:acl	_
+35	slowdown	slowdown	NOUN	NN	_	0	nummod	0:nummod|26:nmod|19:amod|36:nsubj|16:parataxis|30:obl|4:acl|1:nsubj|9:nsubj|35:case|23:iobj|20:ccomp|33:xcomp|15:appos|7:punct|29:flat|5:punct|24:advmod|3:advmod	_
+36	.	.	PUNCT	.	_	32	advcl	32:advcl|3:iobj|20:iobj|26:case|4:aux|22:mark|8:fixed|10:acl|16:case|19:root|13:xcomp|36:appos|1:appos|23:nsubj|17:punct|28:parataxis|14:punct|29:nsubj|24:det|6:vocative|25:cop|2:det	_
+
+# format = sdp
+# sent_id = 5
+# gen_from = neg.change_dep_token
+# text = ROOT President Nicolas Sarkozy has made fighting unemployment a priority and his government has told Total it must guarantee jobs , in particular since it has been posting multi-billion - euro earnings despite the global slowdown .
+0	ROOT	root	ROOT	ROOT	_				_
+1	President	President	PROPN	NNP	_	6	obj	6:obj	_
+2	Nicolas	Nicolas	PROPN	NNP	_				_
+3	Sarkozy	Sarkozy	PROPN	NNP	_				_
+4	has	have	AUX	VBZ	_	18	aux	18:aux	_
+5	made	make	VERB	VBN	_				_
+6	fighting	fight	VERB	VBG	_	5	xcomp	5:xcomp|30:nummod	_
+7	unemployment	unemployment	NOUN	NN	_	18	punct	18:punct	_
+8	a	a	DET	DT	_				_
+9	priority	priority	NOUN	NN	_	14	nsubj	14:nsubj	_
+10	and	and	CCONJ	CC	_	18	nsubj	18:nsubj	_
+11	his	he	PRON	PRP$	_				_
+12	government	government	NOUN	NN	_	27	obl	27:obl	_
+13	has	have	AUX	VBZ	_	0	root	0:root|14:ccomp|27:aux	_
+14	told	tell	VERB	VBN	_	5	conj	5:conj	_
+15	Total	total	NOUN	NN	_	18	advcl	18:advcl|35:det	_
+16	it	it	PRON	PRP	_	28	punct	28:punct|5:punct	_
+17	must	must	AUX	MD	_	1	flat	1:flat|27:nsubj|35:case	_
+18	guarantee	guarantee	VERB	VB	_	9	det	9:det	_
+19	jobs	job	NOUN	NNS	_	27	obl	27:obl	_
+20	,	,	PUNCT	,	_	6	iobj	6:iobj	_
+21	in	in	ADP	IN	_	5	nsubj	5:nsubj|14:aux	_
+22	particular	particular	ADJ	JJ	_	12	nmod	12:nmod	_
+23	since	since	SCONJ	IN	_				_
+24	it	it	PRON	PRP	_	27	obj	27:obj	_
+25	has	have	AUX	VBZ	_				_
+26	been	be	AUX	VBN	_	14	cc	14:cc	_
+27	posting	post	VERB	VBG	_	1	flat	1:flat	_
+28	multi-billion	multi-billion	NUM	CD	_	14	iobj	14:iobj|35:amod	_
+29	-	-	PUNCT	HYPH	_				_
+30	euro	euro	NOUN	NN	_				_
+31	earnings	earnings	NOUN	NNS	_	31	compound	31:compound	_
+32	despite	despite	ADP	IN	_				_
+33	the	the	DET	DT	_	5	aux	5:aux	_
+34	global	global	ADJ	JJ	_	22	case	22:case	_
+35	slowdown	slowdown	NOUN	NN	_	18	obj	18:obj|27:mark	_
+36	.	.	PUNCT	.	_	27	aux	27:aux	_
+
+# format = sdp
+# sent_id = 5
+# gen_from = neg.exchange_head_dep
+# text = ROOT President Nicolas Sarkozy has made fighting unemployment a priority and his government has told Total it must guarantee jobs , in particular since it has been posting multi-billion - euro earnings despite the global slowdown .
+0	ROOT	root	ROOT	ROOT	_	5	root	5:root	_
+1	President	President	PROPN	NNP	_	2	flat	2:flat|3:flat	_
+2	Nicolas	Nicolas	PROPN	NNP	_				_
+3	Sarkozy	Sarkozy	PROPN	NNP	_				_
+4	has	have	AUX	VBZ	_				_
+5	made	make	VERB	VBN	_	1	nsubj	1:nsubj|4:aux|6:xcomp|14:conj|36:punct	_
+6	fighting	fight	VERB	VBG	_	7	iobj	7:iobj|9:obj	_
+7	unemployment	unemployment	NOUN	NN	_				_
+8	a	a	DET	DT	_				_
+9	priority	priority	NOUN	NN	_	8	det	8:det	_
+10	and	and	CCONJ	CC	_				_
+11	his	he	PRON	PRP$	_				_
+12	government	government	NOUN	NN	_	11	nmod	11:nmod	_
+13	has	have	AUX	VBZ	_				_
+14	told	tell	VERB	VBN	_	10	cc	10:cc|12:nsubj|13:aux|15:iobj|18:ccomp	_
+15	Total	total	NOUN	NN	_				_
+16	it	it	PRON	PRP	_				_
+17	must	must	AUX	MD	_				_
+18	guarantee	guarantee	VERB	VB	_	16	nsubj	16:nsubj|17:aux|19:obj|20:punct|27:advcl	_
+19	jobs	job	NOUN	NNS	_				_
+20	,	,	PUNCT	,	_				_
+21	in	in	ADP	IN	_				_
+22	particular	particular	ADJ	JJ	_	21	case	21:case	_
+23	since	since	SCONJ	IN	_				_
+24	it	it	PRON	PRP	_				_
+25	has	have	AUX	VBZ	_				_
+26	been	be	AUX	VBN	_				_
+27	posting	post	VERB	VBG	_	22	obl	22:obl|23:mark|24:nsubj|25:aux|26:aux|31:obj|35:obl	_
+28	multi-billion	multi-billion	NUM	CD	_	29	punct	29:punct	_
+29	-	-	PUNCT	HYPH	_				_
+30	euro	euro	NOUN	NN	_	28	nummod	28:nummod	_
+31	earnings	earnings	NOUN	NNS	_	30	compound	30:compound	_
+32	despite	despite	ADP	IN	_				_
+33	the	the	DET	DT	_				_
+34	global	global	ADJ	JJ	_				_
+35	slowdown	slowdown	NOUN	NN	_	32	case	32:case|33:det|34:amod	_
+36	.	.	PUNCT	.	_				_
+
+# format = sdp
+# sent_id = 6
+# gen_from = neg.add_edge
+# text = ROOT Here 's how semi- legalised piracy works : you wait until the cargo has been offloaded – the cargo 's owner and the boat 's owner are rarely one and the same , and you do n't want to confuse the issue legally – and then bribe a local court official to validate your claim .
+0	ROOT	root	ROOT	ROOT	_	40	obl	40:obl|29:acl|48:nsubj|19:conj|16:nsubj|36:det|33:nummod|6:obj|34:advmod|10:cop|44:advmod|49:nsubj|41:ccomp|43:cc|37:advcl|55:nmod|54:aux|28:case|23:obl|35:fixed|4:flat|46:root|3:obl|8:vocative|17:conj|27:iobj|11:ccomp|42:advcl|15:appos|22:appos	_
+1	Here	here	ADV	RB	_	53	nsubj	53:nsubj|4:xcomp|1:xcomp|25:flat|54:obl|33:nummod|15:punct|20:nmod|31:root|22:advmod|30:nsubj|5:acl|47:flat|13:amod|51:cop|21:cop|39:punct|55:flat|3:csubj|44:iobj|34:advmod	_
+2	's	be	AUX	VBZ	_	13	csubj	13:csubj|22:nsubj|24:amod|46:appos|51:cc|9:parataxis|30:cop|35:obl|11:compound|49:iobj|12:iobj|0:nummod|48:cop|31:xcomp|29:obl|15:nummod|33:flat|27:flat|23:cc|43:advmod|3:case|41:vocative|18:mark|56:iobj|25:case	_
+3	how	how	ADV	WRB	_	20	appos	20:appos|14:csubj|43:aux|48:det|45:root|44:cop|29:punct|23:obj|19:cop|46:amod|15:det|49:acl|30:flat|21:flat|35:vocative|3:vocative|7:cop|39:cc|53:flat|38:punct|2:mark|55:root	_
+4	semi-	semi-	ADJ	JJ	_	39	root	39:root|23:nmod|11:obj|29:obj|28:appos|44:cop|34:obl|31:mark|50:csubj|13:iobj|30:conj|36:iobj|26:advmod|24:root|4:conj|35:nmod|25:acl|51:cc|32:advmod|14:advmod|1:acl|7:nmod|41:advcl|42:cc|0:nsubj|2:parataxis|3:cop|18:obl|56:aux|21:obj|12:det|43:fixed|9:cc	_
+5	legalised	legalise	VERB	VBN	_	35	nmod	35:nmod|20:xcomp|40:det|45:nsubj|34:conj|22:fixed|19:xcomp|33:case|51:compound|48:nummod|28:punct|8:conj|46:punct|13:flat|38:cc|17:advmod|1:obj|3:nummod|44:acl|0:nummod|12:acl|23:aux|31:nummod|4:appos|54:aux|41:nmod|5:conj|43:iobj|56:appos	_
+6	piracy	piracy	NOUN	NN	_	43	mark	43:mark|33:advcl|3:advmod|48:appos|27:flat|49:advmod|13:appos|45:ccomp|55:vocative|56:ccomp|10:nmod|42:mark|41:xcomp|20:det|40:aux|1:det|4:parataxis|0:appos|52:det|17:nsubj|47:det|11:amod|24:xcomp|54:mark|8:root|39:vocative	_
+7	works	work	VERB	VBZ	_	19	advcl	19:advcl|35:nummod|21:iobj|44:parataxis|36:xcomp|27:mark|45:advcl|38:obj|18:nsubj|6:advcl|22:advmod|47:nsubj|41:parataxis|15:parataxis|51:punct|5:det|17:vocative|13:advcl|42:aux|7:xcomp|20:case|33:acl|46:iobj|50:det|52:flat|12:compound	_
+8	:	:	PUNCT	:	_	34	appos	34:appos|5:vocative|26:nummod|32:obl|40:compound|47:fixed|8:nummod|28:vocative|23:xcomp|43:acl|18:appos|15:nsubj|0:acl|29:punct|16:fixed|56:aux|27:iobj|17:nmod|22:fixed|25:parataxis|20:nsubj|14:parataxis|48:punct|50:case|41:aux|6:case|1:obj|30:flat	_
+9	you	you	PRON	PRP	_	25	fixed	25:fixed|42:compound|46:parataxis|50:advcl|5:compound|24:aux|20:nsubj|36:advmod|17:ccomp|37:det|33:iobj|0:punct|30:xcomp|32:obj|56:xcomp|27:fixed|2:nsubj|8:det|38:vocative|48:nummod|55:conj|51:nmod|31:nmod|35:iobj|13:obj|1:compound|6:cop	_
+10	wait	wait	VERB	VBP	_	12	punct	12:punct|55:iobj|31:xcomp|32:advmod|46:aux|49:obl|18:appos|37:mark|50:nsubj|8:appos|42:iobj|28:mark|20:flat|3:compound|10:advcl|38:nmod|22:parataxis|24:case|5:flat|4:mark|21:vocative|29:iobj|52:iobj|23:cop|26:root|39:amod|53:root|25:compound|56:vocative	_
+11	until	until	SCONJ	IN	_	22	flat	22:flat|20:flat|32:flat|1:flat|50:mark|12:case|17:advcl|8:root|27:conj|36:fixed|33:csubj|35:obj|39:punct|31:punct|18:case|41:case|14:iobj|42:det|19:fixed|48:cop|3:root|15:cc|47:nsubj|21:obj|40:advmod	_
+12	the	the	DET	DT	_	0	iobj	0:iobj|44:fixed|16:det|10:fixed|19:parataxis|28:case|41:obj|39:acl|20:acl|40:mark|46:root|53:advmod|21:parataxis|15:cc|51:aux|8:xcomp|17:det|35:vocative|31:amod|49:case|4:nsubj|56:nsubj|6:case|48:root|50:obj|52:flat|54:nsubj|11:flat|27:case|32:nsubj	_
+13	cargo	cargo	NOUN	NN	_	54	fixed	54:fixed|49:root|4:nsubj|40:nummod|1:csubj|3:advcl|13:compound|41:obl|55:nummod|31:xcomp|52:csubj|50:advcl|15:xcomp|23:csubj|9:cop|10:fixed|46:vocative|25:fixed|8:xcomp|36:amod|5:flat|32:csubj|37:advmod|6:mark|38:conj|19:root	_
+14	has	have	AUX	VBZ	_	15	case	15:case|52:advcl|20:acl|32:mark|49:appos|21:nummod|37:csubj|40:conj|19:advcl|45:iobj|22:aux|0:obl|35:xcomp|33:aux|55:obj|50:parataxis|1:iobj|14:vocative|28:nmod|6:ccomp|12:punct|53:obj|4:nsubj|36:cop|10:obl|30:cc|8:obl	_
+15	been	be	AUX	VBN	_	46	vocative	46:vocative|42:punct|2:punct|23:compound|54:nsubj|15:case|39:advcl|47:root|35:advmod|12:conj|44:case|27:root|20:aux|24:root|31:root|25:amod|52:nmod|21:obj|30:appos|49:compound|14:obl|37:advmod|3:csubj	_
+16	offloaded	offload	VERB	VBN	_	35	det	35:det|30:parataxis|1:cop|13:cop|29:acl|46:conj|3:nmod|14:root|6:nsubj|32:advcl|43:advcl|23:cop|7:flat|51:case|24:punct|26:csubj|48:mark|9:aux|37:xcomp|47:advmod|36:parataxis|11:punct|40:nummod|15:advmod|8:conj|42:root|18:case|0:compound	_
+17	–	-	PUNCT	:	_	46	advmod	46:advmod|1:fixed|28:appos|16:amod|35:xcomp|27:cop|53:ccomp|4:acl|56:obl|25:conj|21:obl|36:mark|12:iobj|33:flat|20:nummod|42:case|32:parataxis|23:conj|13:case|14:fixed|55:case|41:appos|45:nsubj|19:parataxis|51:det|44:appos|8:advmod|52:obl|31:compound|9:xcomp|11:conj	_
+18	the	the	DET	DT	_	44	nsubj	44:nsubj|53:vocative|27:compound|15:xcomp|42:csubj|20:case|13:punct|21:vocative|45:obl|23:nmod|54:punct|28:advmod|50:obj|10:mark|6:obj|7:mark|36:aux|8:fixed|9:conj|17:nsubj|22:cc	_
+19	cargo	cargo	NOUN	NN	_	41	iobj	41:iobj|14:case|35:det|11:root|52:obj|16:advcl|20:punct|27:aux|8:case|13:acl|9:ccomp|4:root|25:fixed|49:vocative|3:amod|42:aux|45:nmod|28:obj|22:acl|12:csubj|50:obl|0:fixed|38:punct|10:vocative|33:punct|47:aux|7:root|30:flat|48:vocative|51:obl|15:compound|29:advcl|31:root|39:appos	_
+20	's	's	PART	POS	_	51	acl	51:acl|30:parataxis|6:amod|23:csubj|44:aux|29:root|12:compound|32:mark|34:root|42:punct|22:punct|4:root|13:acl|25:mark|52:punct|54:compound|40:punct|31:obj|46:punct|14:punct|55:advcl|5:acl|18:obl|27:nummod|33:nmod|16:parataxis|20:amod|3:mark|49:obl|10:nmod|24:xcomp|15:conj|21:obl	_
+21	owner	owner	NOUN	NN	_	49	iobj	49:iobj|44:acl|17:mark|9:nsubj|4:nmod|24:root|6:iobj|22:csubj|26:advcl|13:aux|23:advcl|48:nummod|47:mark|16:nsubj|15:det|19:flat|34:parataxis|25:fixed|32:advcl|14:obj|46:case|27:vocative|28:nummod|30:root|3:amod	_
+22	and	and	CCONJ	CC	_	46	cc	46:cc|20:iobj|23:fixed|21:acl|33:advmod|48:amod|52:advcl|42:iobj|24:compound|45:flat|17:mark|40:compound|37:nmod|38:obj|51:root|2:advmod|41:advmod|9:parataxis|7:xcomp|5:obl|34:compound|11:punct|32:aux|12:det|15:root|31:amod|6:conj|35:appos|28:nsubj|22:appos|13:obl	_
+23	the	the	DET	DT	_	17	nsubj	17:nsubj|31:conj|39:nummod|36:nmod|51:compound|30:fixed|18:cc|41:nummod|35:parataxis|11:cc|5:obj|42:xcomp|45:det|21:obl|16:advmod|1:punct|12:case|33:compound|6:case|4:flat|53:case|9:obl|2:vocative|48:appos|37:ccomp|25:nummod|7:iobj|14:nummod	_
+24	boat	boat	NOUN	NN	_	23	aux	23:aux|40:advmod|17:advcl|34:cc|0:det|10:flat|11:det|24:flat|46:ccomp|3:conj|20:cc|22:csubj|47:det|9:obl|7:nsubj|45:nsubj|53:punct|31:root|4:flat|32:root|44:nummod|37:conj|30:punct|51:advmod	_
+25	's	's	PART	POS	_	45	iobj	45:iobj|13:iobj|4:nmod|41:amod|18:iobj|53:aux|9:flat|10:compound|1:xcomp|28:nmod|44:obl|8:conj|38:csubj|36:cop|23:amod|32:aux|54:flat|16:flat|40:mark|48:fixed|6:compound|43:nsubj|29:det|11:flat|0:root|56:vocative|42:nmod	_
+26	owner	owner	NOUN	NN	_	28	flat	28:flat|30:case|48:obl|5:amod|51:aux|40:advcl|13:ccomp|46:appos|19:parataxis|52:amod|56:case|12:det|25:flat|44:nmod|24:xcomp|26:advmod|2:cop|23:acl|11:acl|47:nmod|55:punct|54:punct|41:case|37:det|10:punct|42:advmod|43:parataxis|16:root	_
+27	are	be	AUX	VBP	_	19	conj	19:conj|14:punct|10:obl|13:cc|52:punct|38:det|1:root|48:fixed|26:nmod|46:csubj|5:appos|27:vocative|51:nummod|11:appos|34:root|12:amod|47:iobj|55:det|28:nsubj|30:vocative|54:advmod|17:mark|7:csubj|0:cc|43:acl|42:appos|36:punct|8:conj|20:ccomp|23:flat|45:flat|6:vocative	_
+28	rarely	rarely	ADV	RB	_	40	csubj	40:csubj|35:cc|10:vocative|38:cop|43:vocative|15:amod|27:advcl|31:ccomp|41:parataxis|7:amod|54:flat|6:csubj|45:root|46:ccomp|9:root|16:flat|49:nmod|1:xcomp|17:det|39:nmod|18:acl|21:compound|37:appos|22:nsubj|53:aux|26:fixed|19:csubj	_
+29	one	one	NUM	CD	_	26	fixed	26:fixed|41:nsubj|19:case|25:fixed|45:nsubj|16:ccomp|2:obl|20:fixed|50:acl|5:cc|23:advmod|29:mark|12:iobj|39:compound|37:nummod|13:det|53:case|4:cc|21:nsubj|27:obj|31:obl|48:nmod|49:obj|47:compound|38:csubj|14:det|54:flat|22:compound|46:punct|30:case|7:fixed|56:csubj	_
+30	and	and	CCONJ	CC	_	4	compound	4:compound|5:nummod|29:fixed|37:iobj|52:nsubj|41:advmod|23:cc|30:flat|18:acl|39:flat|46:compound|40:appos|17:appos|19:vocative|2:obj|33:acl|54:flat|48:csubj|6:obl|25:aux|38:punct|11:det|56:flat|36:cop|42:cop|7:csubj|24:amod|43:fixed|3:advmod|51:cop|22:obj|16:fixed|20:cc|31:fixed|45:flat|44:fixed	_
+31	the	the	DET	DT	_	19	mark	19:mark|38:advcl|55:aux|44:vocative|13:advcl|39:det|16:nsubj|22:punct|47:aux|51:conj|54:nmod|41:mark|36:case|49:nsubj|3:cc|28:nummod|45:ccomp|0:amod|30:parataxis|52:nummod|11:nsubj|20:obj|27:obj|18:flat|29:punct|46:det|48:acl|21:csubj|15:conj|33:fixed|43:csubj|14:nmod|7:aux|37:nsubj	_
+32	same	same	ADJ	JJ	_	41	fixed	41:fixed|11:case|4:fixed|31:mark|47:nmod|6:amod|12:vocative|49:obj|23:obl|55:nummod|53:parataxis|25:iobj|28:acl|56:compound|43:advmod|17:vocative|30:flat|14:case|32:ccomp|0:amod|50:case|9:xcomp|20:det|27:case|10:nummod|33:compound	_
+33	,	,	PUNCT	,	_	20	ccomp	20:ccomp|0:ccomp|1:aux|56:acl|6:iobj|42:nmod|31:ccomp|40:aux|14:compound|28:obl|33:flat|21:advcl|26:root|51:case|34:case|25:root|17:conj|4:fixed|45:advcl|32:cc|39:parataxis|49:iobj|5:root|7:amod|50:flat|23:aux|37:aux	_
+34	and	and	CCONJ	CC	_	11	det	11:det|9:compound|53:fixed|15:appos|54:nummod|10:aux|5:ccomp|28:amod|51:nmod|0:advcl|35:fixed|22:acl|14:nmod|12:iobj|16:appos|24:obj|48:fixed|13:acl|55:punct	_
+35	you	you	PRON	PRP	_	56	fixed	56:fixed|47:root|44:obj|31:acl|45:acl|25:obl|22:appos|13:acl|9:mark|7:compound|12:conj|23:advmod|4:root|46:conj|35:det|20:xcomp|26:parataxis|6:advcl|43:aux|28:root|55:parataxis|0:advcl|37:xcomp|34:appos|14:conj|50:advmod|39:det|27:fixed	_
+36	do	do	AUX	VBP	_	26	aux	26:aux|20:aux|28:aux|32:acl|7:xcomp|8:acl|51:case|37:xcomp|49:parataxis|9:vocative|56:flat|16:advcl|1:ccomp|5:conj|19:cc|42:parataxis|27:nsubj|39:root|23:ccomp|31:advcl|2:iobj|6:acl|4:det|33:cop|34:xcomp|17:compound|36:obj|48:compound|21:advmod|35:root|30:case|11:vocative|40:appos	_
+37	n't	not	PART	RB	_	6	fixed	6:fixed|17:fixed|23:vocative|7:nummod|39:nummod|43:iobj|29:parataxis|44:vocative|40:obj|2:nummod|15:iobj|22:advcl|9:compound|24:cc|11:csubj|45:root|26:nsubj|21:nummod|28:cc|18:fixed|27:obj|48:aux|12:nmod|34:advcl|13:cc|30:det|42:cop|8:fixed|25:iobj|5:appos|47:iobj|52:conj|4:case	_
+38	want	want	VERB	VB	_	12	fixed	12:fixed|26:csubj|56:appos|24:vocative|32:fixed|15:advmod|37:mark|10:amod|14:flat|38:appos|2:appos|54:appos|46:flat|43:root|44:obj|47:nummod|19:punct|35:iobj|18:nummod|21:nummod|39:det|0:advmod|49:ccomp|27:flat|7:case|5:nmod|52:csubj|50:iobj|30:iobj|41:punct|42:case	_
+39	to	to	PART	TO	_	5	fixed	5:fixed|56:flat|20:amod|19:nummod|54:nsubj|10:nummod|48:vocative|31:case|51:obj|2:csubj|46:case|8:amod|22:conj|28:amod|25:det|42:nmod|11:root|12:det|16:root|38:nummod|49:punct|55:compound|18:iobj|36:amod|27:iobj|47:xcomp|43:aux|33:punct|21:advcl	_
+40	confuse	confuse	VERB	VB	_	31	advmod	31:advmod|12:ccomp|45:mark|28:nummod|39:mark|37:vocative|48:compound|15:ccomp|33:vocative|51:vocative|36:det|19:nummod|27:case|14:iobj|35:nummod|25:advcl|7:obl|16:cc|34:cop|26:amod|47:nummod|17:fixed|52:aux|32:aux|24:root|4:parataxis|49:cop	_
+41	the	the	DET	DT	_	41	cop	41:cop|39:cc|45:flat|19:obl|27:mark|13:appos|21:nmod|34:parataxis|1:flat|3:root|43:obj|2:cc|9:punct|33:nsubj|20:cop|7:obj|55:conj|53:obl|10:iobj|31:aux|51:nummod|28:amod|12:punct|29:advmod|17:advmod|44:nsubj|38:vocative|52:iobj	_
+42	issue	issue	NOUN	NN	_	48	root	48:root|34:ccomp|9:nummod|10:root|50:case|49:obl|11:nmod|22:root|26:parataxis|46:iobj|39:advcl|20:obl|18:aux|44:obj|42:vocative|24:ccomp|32:iobj|2:ccomp|31:acl|29:appos|21:obl|47:obl|36:aux|13:compound|6:aux|53:csubj|54:det|16:advmod|55:conj|28:aux|56:case|3:fixed	_
+43	legally	legally	ADV	RB	_	47	nsubj	47:nsubj|39:det|7:mark|18:appos|51:csubj|17:csubj|13:flat|32:vocative|36:obl|10:vocative|28:nsubj|52:amod|34:appos|37:conj|16:advcl|11:cop|21:root|26:parataxis|35:root|46:root|33:det|0:fixed|48:parataxis|55:compound|23:nsubj|45:csubj	_
+44	–	-	PUNCT	:	_	38	compound	38:compound|40:parataxis|28:root|46:cop|5:advmod|31:csubj|19:conj|14:punct|36:conj|20:acl|2:appos|0:case|30:nmod|6:obj|27:nmod|39:parataxis|1:parataxis|13:csubj|47:compound|35:cc|16:cc|37:fixed|34:flat|41:nummod|26:acl|43:nmod|51:csubj|55:cop	_
+45	and	and	CCONJ	CC	_	34	nummod	34:nummod|50:xcomp|4:cop|40:iobj|6:iobj|3:amod|27:vocative|23:advcl|29:nsubj|24:parataxis|18:case|22:vocative|13:appos|53:aux|38:cop|35:vocative|9:fixed|16:nummod|36:det|31:mark|33:xcomp	_
+46	then	then	ADV	RB	_	44	punct	44:punct|51:obj|53:root|46:iobj|39:advcl|40:iobj|52:xcomp|41:iobj|14:parataxis|25:nmod|17:flat|56:conj|42:fixed|20:flat|19:advmod|0:mark|2:flat|49:mark|3:appos|34:ccomp|38:compound|10:compound|45:nmod|36:vocative|26:cc	_
+47	bribe	bribe	VERB	VB	_	38	compound	38:compound|37:advmod|1:ccomp|46:appos|40:obj|18:iobj|41:nmod|31:amod|23:advcl|22:csubj|29:obl|44:parataxis|39:nummod|47:flat|17:aux|51:compound|7:case|5:conj|13:iobj|50:advmod|16:advmod|43:compound|35:aux|11:amod|49:ccomp|54:cc|21:advmod|3:advmod|45:punct|42:root|12:case|56:cc	_
+48	a	a	DET	DT	_	33	flat	33:flat|18:aux|31:fixed|40:acl|52:amod|19:xcomp|34:flat|26:vocative|7:amod|27:flat|20:mark|0:appos|38:amod|44:nummod|1:nsubj|17:mark|24:fixed|12:conj|28:compound|22:advcl|21:csubj|56:cop|35:iobj|53:aux|55:vocative|46:appos|13:acl|3:root|43:fixed	_
+49	local	local	ADJ	JJ	_	48	nsubj	48:nsubj|4:amod|28:aux|7:advmod|40:cc|0:csubj|43:punct|26:cop|37:acl|2:punct|21:csubj|11:parataxis|53:compound|44:root|35:obl|46:det|19:ccomp|50:punct|9:mark|34:vocative|38:nmod|30:obl|52:iobj	_
+50	court	court	NOUN	NN	_	16	advmod	16:advmod|18:advmod|34:nsubj|0:aux|41:punct|54:nsubj|45:nummod|39:flat|24:acl|53:case|11:ccomp|10:root|6:acl|42:nummod|31:advmod|8:vocative|17:advmod|14:cop|9:mark|32:aux|50:acl|4:appos|37:root|49:obj|5:det|7:compound	_
+51	official	official	NOUN	NN	_	48	punct	48:punct|50:vocative|25:cop|49:vocative|45:advmod|9:vocative|37:cop|52:iobj|51:nmod|46:case|0:root|44:appos|20:csubj|56:vocative|30:advcl|40:iobj|55:aux|10:det|38:advcl|16:flat|31:mark|21:mark|2:fixed|26:root|42:parataxis|18:cc|41:acl|35:compound|43:nmod|29:ccomp|1:case|54:advmod|3:punct|23:xcomp	_
+52	to	to	PART	TO	_	54	cc	54:cc|30:nmod|10:appos|25:advmod|48:advmod|39:flat|5:nsubj|19:punct|33:obl|29:nummod|2:csubj|17:iobj|1:root|4:root|9:obj|18:punct|35:parataxis|3:amod|13:advcl|22:amod|47:punct|56:nmod|15:fixed|21:nummod|41:appos|38:flat|42:case|46:flat|36:flat|40:nsubj	_
+53	validate	validate	VERB	VB	_	8	obj	8:obj|26:compound|35:cop|13:cop|55:csubj|40:punct|18:aux|27:conj|15:root|0:cop|6:case|33:parataxis|38:vocative|2:xcomp|24:advmod|53:obl|43:cc|41:cc|17:nummod|5:advmod|52:aux|46:parataxis|34:fixed|42:nmod|22:appos|32:punct|7:parataxis|3:cop|14:obl|29:appos|12:amod	_
+54	your	you	PRON	PRP$	_	40	conj	40:conj|3:advmod|52:parataxis|47:amod|8:csubj|54:conj|28:punct|15:appos|25:acl|42:ccomp|56:nummod|39:det|16:advcl|20:ccomp|33:acl|9:cop|26:aux|14:obl|31:nmod|46:obj|53:nmod|41:vocative|45:ccomp|32:mark|7:case|0:acl	_
+55	claim	claim	NOUN	NN	_	33	obl	33:obl|38:vocative|3:compound|15:punct|40:parataxis|39:acl|45:aux|4:amod|7:mark|25:iobj|17:acl|10:compound|34:cop|21:iobj|43:compound|32:obl|8:advmod|37:cc|23:cop|14:det|19:det|49:conj|18:aux|11:cop|50:advcl|0:nummod|56:acl	_
+56	.	.	PUNCT	.	_	38	nummod	38:nummod|48:aux|32:fixed|51:aux|22:csubj|25:det|49:flat|15:xcomp|0:mark|29:compound|5:conj|44:conj|47:advcl|30:advcl|24:appos|31:aux|11:punct|26:mark|21:iobj|3:advmod|19:iobj|18:amod|54:advcl|2:obl|12:ccomp|40:mark|50:conj|33:compound	_
+
+# format = sdp
+# sent_id = 6
+# gen_from = neg.change_dep_token
+# text = ROOT Here 's how semi- legalised piracy works : you wait until the cargo has been offloaded – the cargo 's owner and the boat 's owner are rarely one and the same , and you do n't want to confuse the issue legally – and then bribe a local court official to validate your claim .
+0	ROOT	root	ROOT	ROOT	_				_
+1	Here	here	ADV	RB	_	1	punct	1:punct	_
+2	's	be	AUX	VBZ	_	29	punct	29:punct	_
+3	how	how	ADV	WRB	_				_
+4	semi-	semi-	ADJ	JJ	_	6	amod	6:amod	_
+5	legalised	legalise	VERB	VBN	_	10	parataxis	10:parataxis	_
+6	piracy	piracy	NOUN	NN	_				_
+7	works	work	VERB	VBZ	_	10	advcl	10:advcl|10:conj	_
+8	:	:	PUNCT	:	_				_
+9	you	you	PRON	PRP	_	29	nsubj	29:nsubj	_
+10	wait	wait	VERB	VBP	_	7	nsubj	7:nsubj	_
+11	until	until	SCONJ	IN	_	6	amod	6:amod|47:obj	_
+12	the	the	DET	DT	_				_
+13	cargo	cargo	NOUN	NN	_				_
+14	has	have	AUX	VBZ	_	19	case	19:case|32:det	_
+15	been	be	AUX	VBN	_	51	amod	51:amod	_
+16	offloaded	offload	VERB	VBN	_	38	cc	38:cc	_
+17	–	-	PUNCT	:	_				_
+18	the	the	DET	DT	_	51	compound	51:compound	_
+19	cargo	cargo	NOUN	NN	_				_
+20	's	's	PART	POS	_	1	csubj	1:csubj	_
+21	owner	owner	NOUN	NN	_				_
+22	and	and	CCONJ	CC	_	26	nmod	26:nmod	_
+23	the	the	DET	DT	_	47	advcl	47:advcl	_
+24	boat	boat	NOUN	NN	_				_
+25	's	's	PART	POS	_	21	nmod	21:nmod|40:obj|53:mark	_
+26	owner	owner	NOUN	NN	_	16	mark	16:mark	_
+27	are	be	AUX	VBP	_				_
+28	rarely	rarely	ADV	RB	_				_
+29	one	one	NUM	CD	_	16	aux	16:aux	_
+30	and	and	CCONJ	CC	_	38	advmod	38:advmod|29:conj|10:punct	_
+31	the	the	DET	DT	_				_
+32	same	same	ADJ	JJ	_	21	conj	21:conj|32:cc|38:xcomp	_
+33	,	,	PUNCT	,	_	29	cop	29:cop	_
+34	and	and	CCONJ	CC	_	24	case	24:case|47:cc	_
+35	you	you	PRON	PRP	_	10	nsubj	10:nsubj	_
+36	do	do	AUX	VBP	_	13	det	13:det	_
+37	n't	not	PART	RB	_				_
+38	want	want	VERB	VB	_				_
+39	to	to	PART	TO	_				_
+40	confuse	confuse	VERB	VB	_	1	cop	1:cop	_
+41	the	the	DET	DT	_	42	det	42:det	_
+42	issue	issue	NOUN	NN	_				_
+43	legally	legally	ADV	RB	_	47	advmod	47:advmod	_
+44	–	-	PUNCT	:	_	40	mark	40:mark	_
+45	and	and	CCONJ	CC	_	26	cc	26:cc|51:det	_
+46	then	then	ADV	RB	_	10	punct	10:punct|29:advmod|38:nsubj	_
+47	bribe	bribe	VERB	VB	_				_
+48	a	a	DET	DT	_				_
+49	local	local	ADJ	JJ	_				_
+50	court	court	NOUN	NN	_	16	aux	16:aux|29:conj	_
+51	official	official	NOUN	NN	_	1	advmod	1:advmod|38:punct	_
+52	to	to	PART	TO	_	19	det	19:det|53:obj	_
+53	validate	validate	VERB	VB	_	1	parataxis	1:parataxis	_
+54	your	you	PRON	PRP$	_	16	nsubj	16:nsubj|40:advmod	_
+55	claim	claim	NOUN	NN	_	24	det	24:det	_
+56	.	.	PUNCT	.	_	0	root	0:root|38:aux|55:nmod	_
+
+# format = sdp
+# sent_id = 6
+# gen_from = neg.exchange_head_dep
+# text = ROOT Here 's how semi- legalised piracy works : you wait until the cargo has been offloaded – the cargo 's owner and the boat 's owner are rarely one and the same , and you do n't want to confuse the issue legally – and then bribe a local court official to validate your claim .
+0	ROOT	root	ROOT	ROOT	_	1	root	1:root	_
+1	Here	here	ADV	RB	_	2	cop	2:cop|3:advmod|7:csubj|10:parataxis|56:punct	_
+2	's	be	AUX	VBZ	_				_
+3	how	how	ADV	WRB	_				_
+4	semi-	semi-	ADJ	JJ	_				_
+5	legalised	legalise	VERB	VBN	_				_
+6	piracy	piracy	NOUN	NN	_	4	amod	4:amod|5:amod	_
+7	works	work	VERB	VBZ	_	6	nsubj	6:nsubj	_
+8	:	:	PUNCT	:	_				_
+9	you	you	PRON	PRP	_				_
+10	wait	wait	VERB	VBP	_	8	punct	8:punct|9:nsubj|16:advcl|29:parataxis|44:punct|47:conj	_
+11	until	until	SCONJ	IN	_				_
+12	the	the	DET	DT	_				_
+13	cargo	cargo	NOUN	NN	_	12	det	12:det	_
+14	has	have	AUX	VBZ	_				_
+15	been	be	AUX	VBN	_				_
+16	offloaded	offload	VERB	VBN	_	11	mark	11:mark|13:nsubj|14:aux|15:aux	_
+17	–	-	PUNCT	:	_				_
+18	the	the	DET	DT	_				_
+19	cargo	cargo	NOUN	NN	_	18	det	18:det|20:case	_
+20	's	's	PART	POS	_				_
+21	owner	owner	NOUN	NN	_	19	nmod	19:nmod|26:conj	_
+22	and	and	CCONJ	CC	_				_
+23	the	the	DET	DT	_				_
+24	boat	boat	NOUN	NN	_	23	det	23:det|25:case	_
+25	's	's	PART	POS	_				_
+26	owner	owner	NOUN	NN	_	22	cc	22:cc|24:nmod	_
+27	are	be	AUX	VBP	_				_
+28	rarely	rarely	ADV	RB	_				_
+29	one	one	NUM	CD	_	17	punct	17:punct|21:nsubj|27:cop|28:advmod|32:conj|38:conj	_
+30	and	and	CCONJ	CC	_				_
+31	the	the	DET	DT	_				_
+32	same	same	ADJ	JJ	_	30	cc	30:cc|31:det	_
+33	,	,	PUNCT	,	_				_
+34	and	and	CCONJ	CC	_				_
+35	you	you	PRON	PRP	_				_
+36	do	do	AUX	VBP	_				_
+37	n't	not	PART	RB	_				_
+38	want	want	VERB	VB	_	33	punct	33:punct|34:cc|35:nsubj|36:aux|37:advmod|40:xcomp	_
+39	to	to	PART	TO	_				_
+40	confuse	confuse	VERB	VB	_	39	mark	39:mark|42:obj|43:advmod	_
+41	the	the	DET	DT	_				_
+42	issue	issue	NOUN	NN	_	41	det	41:det	_
+43	legally	legally	ADV	RB	_				_
+44	–	-	PUNCT	:	_				_
+45	and	and	CCONJ	CC	_				_
+46	then	then	ADV	RB	_				_
+47	bribe	bribe	VERB	VB	_	45	cc	45:cc|46:advmod|51:obj|53:advcl	_
+48	a	a	DET	DT	_				_
+49	local	local	ADJ	JJ	_				_
+50	court	court	NOUN	NN	_				_
+51	official	official	NOUN	NN	_	48	det	48:det|49:amod|50:compound	_
+52	to	to	PART	TO	_				_
+53	validate	validate	VERB	VB	_	52	mark	52:mark|55:obj	_
+54	your	you	PRON	PRP$	_				_
+55	claim	claim	NOUN	NN	_	54	nmod	54:nmod	_
+56	.	.	PUNCT	.	_				_
+
+# format = sdp
+# sent_id = 7
+# gen_from = neg.add_edge
+# text = ROOT If the trend holds , then the 2010 holiday driving season should be equally safe , experts say .
+0	ROOT	root	ROOT	ROOT	_	6	fixed	6:fixed|19:parataxis|18:aux|12:nummod|10:appos|7:det|0:obj|17:parataxis|16:appos|1:punct	_
+1	If	if	SCONJ	IN	_	7	vocative	7:vocative|12:punct|16:amod|8:compound|0:case|11:nummod|2:punct	_
+2	the	the	DET	DT	_	13	fixed	13:fixed|10:compound|9:csubj|14:vocative|6:amod|4:advcl|15:vocative|2:fixed	_
+3	trend	trend	NOUN	NN	_	12	advcl	12:advcl|9:iobj|7:advcl|5:advmod|8:appos|15:ccomp|3:mark|19:appos|6:obl|13:amod|14:vocative	_
+4	holds	hold	VERB	VBZ	_	9	csubj	9:csubj|8:advmod|12:case|10:case|3:acl|5:punct|0:punct|14:mark|2:xcomp	_
+5	,	,	PUNCT	,	_	7	det	7:det|2:advmod|13:conj|6:mark|5:nummod|1:nmod|0:cop	_
+6	then	then	ADV	RB	_	5	compound	5:compound|7:nmod|18:compound|12:aux|1:xcomp|10:parataxis|3:conj|0:compound|14:compound|11:vocative|8:compound|6:case	_
+7	the	the	DET	DT	_	18	flat	18:flat|9:cop|3:advcl|16:advmod|0:advmod|14:nsubj|4:punct|13:advmod	_
+8	2010	2010	NUM	CD	_	13	case	13:case|5:mark|7:cop|19:csubj|2:advcl|12:vocative|0:case|16:case	_
+9	holiday	holiday	NOUN	NN	_	16	iobj	16:iobj|19:fixed|7:fixed|14:advmod|1:case|2:acl|0:parataxis	_
+10	driving	driving	NOUN	NN	_	9	iobj	9:iobj|12:advcl|0:det|19:appos|15:obl|1:conj|2:iobj|13:parataxis|4:acl|16:aux|14:xcomp|18:cop|17:vocative	_
+11	season	season	NOUN	NN	_	17	root	17:root|4:advmod|5:xcomp|18:appos|11:vocative|10:advcl|19:mark|14:csubj	_
+12	should	should	AUX	MD	_	7	conj	7:conj|5:nmod|16:advmod|12:obj|17:obj|4:mark|2:vocative|9:parataxis|8:appos|13:cop|0:obj|6:cop	_
+13	be	be	AUX	VB	_	1	root	1:root|5:ccomp|14:nmod|18:conj|10:advcl|2:vocative|13:obl|9:csubj|19:nsubj|16:ccomp|3:cop	_
+14	equally	equally	ADV	RB	_	12	parataxis	12:parataxis|8:conj|17:nsubj|14:advmod|10:punct|16:punct|6:cop|2:cop|11:nummod|4:compound	_
+15	safe	safe	ADJ	JJ	_	2	compound	2:compound|17:nmod|16:fixed|15:flat|10:csubj|5:aux|3:acl|13:xcomp|4:appos|1:conj|0:nmod|6:flat|19:compound|14:nummod|12:vocative	_
+16	,	,	PUNCT	,	_	6	ccomp	6:ccomp|17:mark|19:parataxis|4:mark|8:vocative|13:nummod|0:det|5:compound|1:mark|18:acl	_
+17	experts	expert	NOUN	NNS	_	8	amod	8:amod|3:nsubj|0:csubj|10:nsubj|5:mark|16:mark|15:amod|2:iobj|4:amod|13:nsubj	_
+18	say	say	VERB	VBP	_	19	mark	19:mark|8:vocative|2:nsubj|16:nmod|7:nummod|3:conj|12:cop|4:ccomp|14:obj|6:obj	_
+19	.	.	PUNCT	.	_	7	cop	7:cop|5:obj|3:conj|10:ccomp|9:det|2:punct|16:advmod|8:parataxis	_
+
+# format = sdp
+# sent_id = 7
+# gen_from = neg.change_dep_token
+# text = ROOT If the trend holds , then the 2010 holiday driving season should be equally safe , experts say .
+0	ROOT	root	ROOT	ROOT	_	15	advmod	15:advmod	_
+1	If	if	SCONJ	IN	_	11	compound	11:compound	_
+2	the	the	DET	DT	_	15	punct	15:punct	_
+3	trend	trend	NOUN	NN	_				_
+4	holds	hold	VERB	VBZ	_				_
+5	,	,	PUNCT	,	_	3	det	3:det	_
+6	then	then	ADV	RB	_	4	nsubj	4:nsubj	_
+7	the	the	DET	DT	_	15	nsubj	15:nsubj	_
+8	2010	2010	NUM	CD	_	15	punct	15:punct|11:nummod|11:compound	_
+9	holiday	holiday	NOUN	NN	_	15	advcl	15:advcl|0:root	_
+10	driving	driving	NOUN	NN	_				_
+11	season	season	NOUN	NN	_				_
+12	should	should	AUX	MD	_	11	det	11:det|18:nsubj	_
+13	be	be	AUX	VB	_	15	cop	15:cop	_
+14	equally	equally	ADV	RB	_	15	aux	15:aux	_
+15	safe	safe	ADJ	JJ	_	4	mark	4:mark	_
+16	,	,	PUNCT	,	_				_
+17	experts	expert	NOUN	NNS	_	18	punct	18:punct	_
+18	say	say	VERB	VBP	_	15	advmod	15:advmod|18:ccomp	_
+19	.	.	PUNCT	.	_				_
+
+# format = sdp
+# sent_id = 7
+# gen_from = neg.exchange_head_dep
+# text = ROOT If the trend holds , then the 2010 holiday driving season should be equally safe , experts say .
+0	ROOT	root	ROOT	ROOT	_	18	root	18:root	_
+1	If	if	SCONJ	IN	_				_
+2	the	the	DET	DT	_				_
+3	trend	trend	NOUN	NN	_	2	det	2:det	_
+4	holds	hold	VERB	VBZ	_	1	mark	1:mark|3:nsubj	_
+5	,	,	PUNCT	,	_				_
+6	then	then	ADV	RB	_				_
+7	the	the	DET	DT	_				_
+8	2010	2010	NUM	CD	_				_
+9	holiday	holiday	NOUN	NN	_				_
+10	driving	driving	NOUN	NN	_				_
+11	season	season	NOUN	NN	_	7	det	7:det|8:nummod|9:compound|10:compound	_
+12	should	should	AUX	MD	_				_
+13	be	be	AUX	VB	_				_
+14	equally	equally	ADV	RB	_				_
+15	safe	safe	ADJ	JJ	_	4	advcl	4:advcl|5:punct|6:advmod|11:nsubj|12:aux|13:cop|14:advmod|16:punct	_
+16	,	,	PUNCT	,	_				_
+17	experts	expert	NOUN	NNS	_				_
+18	say	say	VERB	VBP	_	15	ccomp	15:ccomp|17:nsubj|19:punct	_
+19	.	.	PUNCT	.	_				_
+
+# format = sdp
+# sent_id = 8
+# gen_from = neg.add_edge
+# text = ROOT Trikes are a fairly big and therefore more visible , " said Jim McGrath , 75 , of Chula Vista , whose bright red , low - riding Rewaco trike measures 12 1 / 2 feet long and 6 feet wide .
+0	ROOT	root	ROOT	ROOT	_	29	nummod	29:nummod|21:fixed|26:advmod|17:appos|8:obl|2:advcl|6:nmod|0:mark|18:acl|20:cop|30:advcl|22:xcomp|42:obj|39:vocative|3:nsubj|33:csubj|25:compound|41:nmod|9:amod|34:obl	_
+1	Trikes	trike	NOUN	NNS	_	33	iobj	33:iobj|27:punct|29:obj|4:nummod|32:iobj|22:advmod|19:aux|1:compound|36:cop|6:advmod|34:cc|12:parataxis|11:flat|0:advmod|37:nsubj|24:amod|38:case|30:root|26:iobj|21:amod|20:conj|15:iobj|25:conj|8:nummod	_
+2	are	be	AUX	VBP	_	2	iobj	2:iobj|10:fixed|37:nsubj|42:conj|17:vocative|20:mark|14:root|22:obj|35:parataxis|6:iobj|27:nmod|19:flat|16:ccomp|9:amod|7:xcomp|8:cop|26:parataxis|40:compound	_
+3	a	a	DET	DT	_	37	nummod	37:nummod|16:parataxis|0:nmod|10:root|32:ccomp|36:mark|6:case|34:mark|26:advcl|17:advmod|25:conj|33:cop|13:nummod|1:amod	_
+4	fairly	fairly	ADV	RB	_	9	amod	9:amod|34:xcomp|23:appos|21:xcomp|25:det|16:compound|33:csubj|29:advmod|19:compound|24:vocative|4:nsubj|18:advcl|6:nsubj	_
+5	big	big	ADJ	JJ	_	29	aux	29:aux|16:cop|27:appos|7:appos|15:cop|33:iobj|35:nsubj|32:iobj|42:ccomp|10:ccomp|21:appos|6:appos|22:det|40:fixed|30:ccomp|39:obl|20:conj|36:nummod|17:acl|18:cc|0:vocative|2:nsubj	_
+6	and	and	CCONJ	CC	_	10	fixed	10:fixed|42:xcomp|3:det|23:fixed|14:obj|39:ccomp|1:nummod|16:advcl|18:root|17:conj|30:obj|13:cop|31:root|33:vocative	_
+7	therefore	therefore	ADV	RB	_	8	xcomp	8:xcomp|5:cop|10:mark|29:advcl|34:ccomp|12:parataxis|32:compound|18:root|21:nsubj|14:advmod|6:nmod|17:nsubj|40:amod|41:nsubj|2:obj|16:nmod|31:parataxis|33:amod|24:fixed|36:appos|25:parataxis|26:root|7:mark	_
+8	more	more	ADV	RBR	_	37	cc	37:cc|4:ccomp|28:compound|5:nummod|29:nummod|10:compound|20:obl|3:cc|31:fixed|21:obj|22:parataxis|36:cop|34:nsubj|14:mark|35:det|40:amod|32:mark|39:appos|24:obj	_
+9	visible	visible	ADJ	JJ	_	30	aux	30:aux|17:nmod|11:acl|28:obl|23:cop|33:det|4:obl|2:advcl|6:mark|32:obl|1:punct|21:case|24:obj|26:compound|39:ccomp|22:csubj|12:xcomp	_
+10	,	,	PUNCT	,	_	10	amod	10:amod|42:acl|32:mark|6:compound|40:parataxis|25:case|21:det|20:obl|35:iobj|41:obj|22:compound|7:compound|26:ccomp|38:fixed|37:root|29:aux|36:conj|15:nsubj|17:cc|27:advcl|0:advmod	_
+11	"	"	PUNCT	''	_	6	aux	6:aux|21:obl|22:nummod|15:ccomp|10:flat|28:mark|13:case|16:csubj|17:compound|30:csubj|36:compound|33:aux|18:mark|11:det|32:nsubj|24:obl|8:parataxis|29:nsubj|35:csubj|2:nsubj|7:punct|9:parataxis|31:mark|3:punct|39:obj	_
+12	said	say	VERB	VBD	_	37	det	37:det|28:case|22:case|14:punct|19:iobj|13:parataxis|36:amod|39:compound|26:parataxis|10:cc|16:vocative|4:case|34:aux|31:punct|11:flat|7:nmod|2:iobj|30:mark|42:parataxis|41:mark|33:nmod|29:parataxis|5:compound	_
+13	Jim	Jim	PROPN	NNP	_	7	ccomp	7:ccomp|41:det|2:fixed|14:nmod|39:vocative|31:case|0:obj|36:obl|27:root|28:obj|29:compound|25:obj|1:appos|42:compound	_
+14	McGrath	McGrath	PROPN	NNP	_	21	ccomp	21:ccomp|31:ccomp|36:nmod|37:obj|17:compound|30:root|2:obj|14:det|16:parataxis|15:acl|40:advmod|1:iobj|3:punct|9:nsubj|6:nummod|27:det|10:compound|5:fixed|41:fixed|4:acl|18:csubj|20:xcomp|34:acl|0:cc|8:appos|12:nmod|39:case	_
+15	,	,	PUNCT	,	_	28	amod	28:amod|35:csubj|17:fixed|29:parataxis|34:obl|0:flat|26:compound|16:fixed|39:advmod|1:parataxis|37:amod|23:flat|20:advcl|32:acl|7:case|33:obj|36:root|4:vocative	_
+16	75	75	NUM	CD	_	32	obj	32:obj|2:cc|39:flat|25:nummod|10:iobj|24:root|40:root|29:compound|12:flat|34:iobj|26:iobj|20:advmod|7:root|8:mark|1:amod|41:amod|4:csubj|31:nummod|38:xcomp|19:advcl|23:nummod|21:det|30:amod|42:acl|36:nummod	_
+17	,	,	PUNCT	,	_	10	iobj	10:iobj|6:obj|4:appos|21:xcomp|39:punct|15:obl|16:cop|2:advcl|38:mark|9:acl|11:conj|22:nmod|34:advcl|32:conj|1:appos|28:det|41:conj|7:aux|12:aux|35:iobj|23:iobj|37:advmod|20:aux	_
+18	of	of	ADP	IN	_	37	mark	37:mark|16:flat|14:amod|34:csubj|6:obl|28:obl|39:obl|2:xcomp|30:root|10:obj|22:vocative|7:cop|42:nmod|20:advcl|8:flat|18:fixed|33:nummod	_
+19	Chula	Chula	PROPN	NNP	_	12	obj	12:obj|17:fixed|40:xcomp|7:obl|6:appos|37:amod|36:vocative|28:cc|32:det|3:ccomp|39:nsubj|15:acl|9:punct|27:aux|38:obl|26:iobj|34:conj|31:csubj|18:cc	_
+20	Vista	Vista	PROPN	NNP	_	1	nummod	1:nummod|25:case|28:parataxis|12:vocative|36:root|32:punct|42:flat|3:case|10:appos|33:conj|4:csubj|15:cop|21:aux|39:cop|24:ccomp|29:parataxis|16:obj|35:nmod|9:iobj|34:advmod|31:vocative	_
+21	,	,	PUNCT	,	_	37	aux	37:aux|12:mark|2:xcomp|28:nmod|18:det|24:acl|20:obj|21:cc|40:compound|36:fixed|6:ccomp|16:mark|27:mark|0:obj|1:parataxis|5:obj|29:cop|9:det|17:fixed|38:aux|14:csubj	_
+22	whose	whose	PRON	WP$	_	8	parataxis	8:parataxis|27:punct|42:punct|2:iobj|26:advmod|37:mark|25:compound|4:det|29:punct|21:fixed|6:det|31:cop|11:compound|35:aux|20:acl	_
+23	bright	bright	ADJ	JJ	_	4	acl	4:acl|24:nmod|31:parataxis|32:cc|11:compound|0:punct|37:nummod|22:nmod|34:acl|3:aux|17:flat|10:nmod|36:amod|8:compound|5:advcl|14:case|27:advmod|9:det|16:appos|41:root|38:nmod|20:obj	_
+24	red	red	ADJ	JJ	_	25	nmod	25:nmod|36:advmod|10:fixed|17:conj|34:det|38:case|37:parataxis|22:root|2:fixed|3:conj|8:ccomp|1:fixed|12:fixed|4:vocative|28:parataxis|13:flat|19:punct|5:vocative|0:nsubj|24:cop|11:cc|35:obj|20:cop	_
+25	,	,	PUNCT	,	_	8	parataxis	8:parataxis|31:iobj|3:mark|10:acl|21:det|33:mark|30:mark|36:mark|18:root|22:nsubj|28:case|13:nmod|2:cc|29:punct|15:punct|20:flat|14:fixed|42:root|5:xcomp|27:nsubj|0:advcl|16:case|7:xcomp	_
+26	low	low	ADJ	JJ	_	25	mark	25:mark|40:xcomp|17:conj|32:csubj|38:cop|6:advmod|1:advmod|13:nsubj|24:compound|3:mark|19:obj|26:appos|31:advmod|12:xcomp|18:case|16:case|7:nummod|20:advmod|21:advcl|33:cop|11:det	_
+27	-	-	PUNCT	HYPH	_	39	fixed	39:fixed|42:amod|21:obl|6:cop|3:parataxis|37:acl|38:mark|33:parataxis|8:root|13:xcomp|35:advcl|19:obl|7:fixed|30:cc|0:ccomp|18:case|25:nsubj|20:root|24:case|17:det|14:case|4:compound	_
+28	riding	riding	NOUN	NN	_	25	obj	25:obj|3:mark|34:advcl|13:fixed|20:amod|27:compound|5:amod|19:mark|28:acl|4:nummod|32:compound|0:iobj|11:obl|22:parataxis|35:parataxis|24:amod|33:nsubj|6:cop|7:fixed|18:aux|2:punct|37:nsubj|23:appos	_
+29	Rewaco	Rewaco	PROPN	NNP	_	1	advcl	1:advcl|11:flat|27:nmod|28:fixed|41:nummod|6:mark|18:csubj|36:punct|19:conj|12:appos|29:obj|42:nmod|26:mark|31:det|13:csubj|4:mark|21:parataxis|9:mark|32:flat|25:cc|8:parataxis	_
+30	trike	trike	NOUN	NN	_	4	xcomp	4:xcomp|23:case|42:nsubj|25:fixed|8:nummod|10:nummod|24:vocative|34:obj|37:vocative|30:root|21:det|17:cc|9:advcl|20:ccomp|1:nsubj|13:vocative|0:amod|15:acl|39:parataxis|2:advcl|11:det|36:parataxis|41:cop|14:fixed|38:root	_
+31	measures	measure	VERB	VBZ	_	38	iobj	38:iobj|15:obj|30:appos|13:obl|16:ccomp|7:root|36:xcomp|23:advcl|6:flat|27:cc|24:iobj|42:flat|5:fixed|3:parataxis|0:advmod|32:nsubj|35:ccomp|29:mark|39:root	_
+32	12	12	NUM	CD	_	13	obl	13:obl|41:det|24:punct|35:advcl|26:nmod|21:appos|30:amod|33:nsubj|37:cop|18:compound|20:punct|7:aux|6:fixed|19:aux|8:obj|40:vocative|14:mark|31:advmod|3:vocative|23:punct|38:nmod|25:fixed	_
+33	1	1	NUM	CD	_	6	fixed	6:fixed|12:acl|23:obj|16:conj|10:punct|27:aux|7:advcl|11:cc|32:punct|24:compound|0:nsubj|30:nmod|19:obj|2:csubj|4:obl|13:cop|26:ccomp	_
+34	/	/	SYM	SYM	_	3	iobj	3:iobj|16:obj|1:flat|37:nsubj|27:acl|11:flat|29:case|34:amod|23:xcomp|38:parataxis|5:cop|40:aux|0:nummod|19:appos|7:det|26:flat|21:xcomp|42:aux|6:aux|4:xcomp|39:vocative|14:obl	_
+35	2	2	NUM	CD	_	22	aux	22:aux|24:root|0:det|42:ccomp|9:obj|8:det|41:obl|35:root|4:obj|17:parataxis|37:root|15:parataxis|20:aux|10:root|14:xcomp|25:aux|1:vocative|5:appos|23:csubj|21:appos	_
+36	feet	foot	NOUN	NNS	_	31	compound	31:compound|42:nmod|22:flat|30:root|9:csubj|38:conj|2:mark|6:det|23:compound|1:case|13:nummod|41:aux|20:csubj|34:advcl|35:compound|17:vocative|11:xcomp|16:ccomp|14:xcomp	_
+37	long	long	ADV	RB	_	2	nmod	2:nmod|13:compound|38:root|20:acl|39:fixed|16:nmod|26:obl|34:nummod|36:fixed|27:cop|35:nsubj|3:vocative|17:advmod|21:iobj|8:aux|30:compound|12:det|18:parataxis|9:flat|41:amod|42:cop|40:advcl|4:nsubj	_
+38	and	and	CCONJ	CC	_	10	parataxis	10:parataxis|27:iobj|21:mark|36:cop|18:acl|6:appos|38:aux|22:iobj|8:punct|23:obl|28:advcl|5:aux|0:advmod|4:flat|9:flat|17:appos|7:flat|26:compound|11:appos|42:nmod|29:case|13:cc|15:fixed	_
+39	6	6	NUM	CD	_	42	root	42:root|8:obj|29:det|20:cc|9:appos|34:nsubj|31:obl|26:csubj|33:vocative|15:nmod|4:flat|7:case|3:nmod|27:aux|19:csubj|12:cop|35:advcl|17:obl|37:cop|14:mark|28:cop|6:punct|18:mark|22:punct|23:nsubj|41:root|11:iobj|13:amod|2:nummod	_
+40	feet	foot	NOUN	NNS	_	26	advcl	26:advcl|20:punct|10:punct|15:conj|27:nmod|12:obj|8:conj|31:mark|38:case|9:nmod|42:aux|33:parataxis|14:mark|37:cop|25:nsubj|36:vocative|30:iobj|23:cop|40:iobj|22:amod|21:compound|34:fixed|28:advmod|1:det	_
+41	wide	wide	ADJ	JJ	_	2	parataxis	2:parataxis|29:nummod|42:fixed|31:acl|27:iobj|10:mark|22:case|18:fixed|26:iobj|33:nmod|6:advcl|24:det|17:appos|1:ccomp|13:nsubj|3:case|32:mark|25:obj|12:csubj|40:acl|11:nummod|4:acl|20:appos|15:advmod|14:case|36:mark|28:obl|0:det	_
+42	.	.	PUNCT	.	_	2	conj	2:conj|3:det|30:iobj|26:amod|7:obj|39:flat|8:nmod|35:obj|1:aux|10:advmod|9:vocative|14:det|32:csubj|29:conj|25:iobj|38:punct|18:obl|27:obj|20:compound|11:advcl|15:cop|31:root|33:advcl|13:cc|17:punct	_
+
+# format = sdp
+# sent_id = 8
+# gen_from = neg.change_dep_token
+# text = ROOT Trikes are a fairly big and therefore more visible , " said Jim McGrath , 75 , of Chula Vista , whose bright red , low - riding Rewaco trike measures 12 1 / 2 feet long and 6 feet wide .
+0	ROOT	root	ROOT	ROOT	_	13	punct	13:punct	_
+1	Trikes	trike	NOUN	NNS	_	19	case	19:case|28:punct|30:compound	_
+2	are	be	AUX	VBP	_	40	nummod	40:nummod	_
+3	a	a	DET	DT	_	37	obl	37:obl	_
+4	fairly	fairly	ADV	RB	_	36	nummod	36:nummod	_
+5	big	big	ADJ	JJ	_	9	cc	9:cc|13:flat|31:nsubj|12:punct	_
+6	and	and	CCONJ	CC	_				_
+7	therefore	therefore	ADV	RB	_	13	punct	13:punct|28:amod	_
+8	more	more	ADV	RBR	_	35	case	35:case	_
+9	visible	visible	ADJ	JJ	_				_
+10	,	,	PUNCT	,	_				_
+11	"	"	PUNCT	''	_				_
+12	said	say	VERB	VBD	_				_
+13	Jim	Jim	PROPN	NNP	_				_
+14	McGrath	McGrath	PROPN	NNP	_				_
+15	,	,	PUNCT	,	_	19	flat	19:flat	_
+16	75	75	NUM	CD	_	9	advmod	9:advmod	_
+17	,	,	PUNCT	,	_	5	det	5:det|30:nmod	_
+18	of	of	ADP	IN	_				_
+19	Chula	Chula	PROPN	NNP	_				_
+20	Vista	Vista	PROPN	NNP	_				_
+21	,	,	PUNCT	,	_				_
+22	whose	whose	PRON	WP$	_				_
+23	bright	bright	ADJ	JJ	_	5	cop	5:cop	_
+24	red	red	ADJ	JJ	_				_
+25	,	,	PUNCT	,	_	30	compound	30:compound	_
+26	low	low	ADJ	JJ	_				_
+27	-	-	PUNCT	HYPH	_	19	acl	19:acl	_
+28	riding	riding	NOUN	NN	_	12	ccomp	12:ccomp|33:nmod	_
+29	Rewaco	Rewaco	PROPN	NNP	_	5	advmod	5:advmod	_
+30	trike	trike	NOUN	NN	_	37	conj	37:conj	_
+31	measures	measure	VERB	VBZ	_	0	root	0:root|24:punct|41:obl	_
+32	12	12	NUM	CD	_	9	advmod	9:advmod|12:punct|13:nmod	_
+33	1	1	NUM	CD	_	36	nummod	36:nummod	_
+34	/	/	SYM	SYM	_				_
+35	2	2	NUM	CD	_	30	amod	30:amod|31:advmod	_
+36	feet	foot	NOUN	NNS	_				_
+37	long	long	ADV	RB	_	12	punct	12:punct|13:amod	_
+38	and	and	CCONJ	CC	_	22	punct	22:punct	_
+39	6	6	NUM	CD	_	5	nsubj	5:nsubj|5:conj|41:cc	_
+40	feet	foot	NOUN	NNS	_				_
+41	wide	wide	ADJ	JJ	_				_
+42	.	.	PUNCT	.	_	12	nsubj	12:nsubj|30:amod	_
+
+# format = sdp
+# sent_id = 8
+# gen_from = neg.exchange_head_dep
+# text = ROOT Trikes are a fairly big and therefore more visible , " said Jim McGrath , 75 , of Chula Vista , whose bright red , low - riding Rewaco trike measures 12 1 / 2 feet long and 6 feet wide .
+0	ROOT	root	ROOT	ROOT	_	12	root	12:root	_
+1	Trikes	trike	NOUN	NNS	_				_
+2	are	be	AUX	VBP	_				_
+3	a	a	DET	DT	_				_
+4	fairly	fairly	ADV	RB	_				_
+5	big	big	ADJ	JJ	_	1	nsubj	1:nsubj|2:cop|3:det|4:advmod|9:conj	_
+6	and	and	CCONJ	CC	_				_
+7	therefore	therefore	ADV	RB	_				_
+8	more	more	ADV	RBR	_				_
+9	visible	visible	ADJ	JJ	_	6	cc	6:cc|7:advmod|8:advmod	_
+10	,	,	PUNCT	,	_				_
+11	"	"	PUNCT	''	_				_
+12	said	say	VERB	VBD	_	5	ccomp	5:ccomp|10:punct|11:punct|13:nsubj|42:punct	_
+13	Jim	Jim	PROPN	NNP	_	14	flat	14:flat|15:punct|16:amod|17:punct|19:nmod	_
+14	McGrath	McGrath	PROPN	NNP	_				_
+15	,	,	PUNCT	,	_				_
+16	75	75	NUM	CD	_				_
+17	,	,	PUNCT	,	_				_
+18	of	of	ADP	IN	_				_
+19	Chula	Chula	PROPN	NNP	_	18	case	18:case|20:flat|31:acl	_
+20	Vista	Vista	PROPN	NNP	_				_
+21	,	,	PUNCT	,	_				_
+22	whose	whose	PRON	WP$	_	21	punct	21:punct	_
+23	bright	bright	ADJ	JJ	_				_
+24	red	red	ADJ	JJ	_	25	punct	25:punct	_
+25	,	,	PUNCT	,	_				_
+26	low	low	ADJ	JJ	_				_
+27	-	-	PUNCT	HYPH	_				_
+28	riding	riding	NOUN	NN	_	26	amod	26:amod|27:punct	_
+29	Rewaco	Rewaco	PROPN	NNP	_				_
+30	trike	trike	NOUN	NN	_	22	nmod	22:nmod|23:amod|24:amod|28:compound|29:compound	_
+31	measures	measure	VERB	VBZ	_	30	nsubj	30:nsubj|37:advmod	_
+32	12	12	NUM	CD	_				_
+33	1	1	NUM	CD	_	35	nmod	35:nmod	_
+34	/	/	SYM	SYM	_				_
+35	2	2	NUM	CD	_	34	case	34:case	_
+36	feet	foot	NOUN	NNS	_	32	nummod	32:nummod|33:nummod	_
+37	long	long	ADV	RB	_	36	obl	36:obl|41:conj	_
+38	and	and	CCONJ	CC	_				_
+39	6	6	NUM	CD	_				_
+40	feet	foot	NOUN	NNS	_	39	nummod	39:nummod	_
+41	wide	wide	ADJ	JJ	_	38	cc	38:cc|40:obl	_
+42	.	.	PUNCT	.	_				_
+
+# format = sdp
+# sent_id = 9
+# gen_from = neg.add_edge
+# text = ROOT Within a few months , she would be shooting in her own house as the main set from just a six - page outline -- the film itself has no writing credit on it , though Aselton is credited as screenwriter in the Sundance program guide -- as she and her actors would improvise the dialogue .
+0	ROOT	root	ROOT	ROOT	_	6	obj	6:obj|20:fixed|19:xcomp|24:flat|43:advmod|16:det|10:nmod|39:ccomp|14:parataxis|13:advcl|27:xcomp|28:amod|15:parataxis|50:aux|53:fixed|7:cc|23:nummod|2:appos|32:amod|40:mark|47:obj|9:cc|0:flat|52:csubj|37:mark|1:compound|41:ccomp|48:nummod|29:cop	_
+1	Within	within	ADP	IN	_	5	case	5:case|43:appos|34:vocative|25:root|53:csubj|54:cop|37:nsubj|50:case|1:iobj|14:fixed|6:xcomp|40:mark|28:parataxis|2:mark|55:nsubj|16:parataxis|41:advcl|27:xcomp|42:flat|24:nummod|11:cop|29:csubj|7:cc|46:cop|12:case|33:obl|49:amod|52:punct|19:iobj	_
+2	a	a	DET	DT	_	31	cc	31:cc|19:cop|1:mark|32:nummod|54:aux|45:fixed|33:acl|57:obl|29:root|44:acl|12:nummod|43:case|37:mark|21:cop|38:obj|17:nummod|18:nummod|6:ccomp|55:punct|36:xcomp|35:punct|24:fixed|10:vocative|30:xcomp|3:ccomp|7:xcomp|39:mark	_
+3	few	few	ADJ	JJ	_	40	nummod	40:nummod|55:obl|2:advmod|3:cc|27:punct|33:advcl|8:cc|42:nmod|6:nummod|39:nmod|22:xcomp|37:compound|31:xcomp|35:cop|38:compound|47:acl|51:xcomp|30:nmod|26:csubj|29:vocative|23:det|45:conj|56:xcomp|46:amod	_
+4	months	month	NOUN	NNS	_	3	acl	3:acl|53:det|10:root|42:xcomp|17:obl|52:fixed|28:conj|21:nsubj|49:csubj|47:aux|38:obj|30:det|50:advcl|4:aux|20:case|26:conj|6:csubj|25:advcl|33:nmod|14:cc|46:root|23:parataxis|7:csubj|41:compound|43:cop|29:xcomp|24:fixed|32:aux|36:nummod	_
+5	,	,	PUNCT	,	_	4	advmod	4:advmod|17:cc|45:aux|19:nmod|29:csubj|53:cop|55:vocative|5:advmod|46:punct|14:xcomp|37:case|50:iobj|13:appos|12:nmod|47:mark|35:conj|52:conj|51:appos|3:compound|38:advcl|10:aux|26:det|42:appos|2:cc|0:obl|57:acl|54:obj	_
+6	she	she	PRON	PRP	_	36	fixed	36:fixed|26:csubj|7:flat|12:case|35:flat|51:xcomp|4:fixed|19:xcomp|55:cc|10:nummod|0:flat|6:fixed|28:ccomp|56:conj|33:ccomp|11:conj|37:csubj|8:vocative|32:parataxis|13:cop|42:xcomp|41:csubj|1:nummod|20:amod|45:det	_
+7	would	would	AUX	MD	_	27	nmod	27:nmod|57:obj|23:obj|14:obj|47:appos|53:nmod|32:acl|11:case|22:conj|29:conj|2:mark|52:mark|20:aux|55:mark|25:csubj|44:obj|50:aux|19:cop|35:punct|15:vocative|13:csubj|18:advmod|54:vocative|43:ccomp|36:cop|1:vocative|38:vocative|0:case|31:cc	_
+8	be	be	AUX	VB	_	57	nmod	57:nmod|52:csubj|30:conj|47:appos|19:vocative|41:advcl|34:compound|10:nummod|14:advcl|53:aux|56:case|1:cop|0:advmod|31:compound|36:vocative|42:conj|23:obl|45:appos|39:det|44:advmod|20:punct|7:flat|35:obj|40:advmod|54:vocative|49:punct|38:det|50:nmod	_
+9	shooting	shoot	VERB	VBG	_	42	aux	42:aux|12:cc|27:punct|14:punct|47:aux|49:iobj|17:flat|32:obl|9:csubj|21:iobj|43:vocative|3:csubj|38:nummod|56:ccomp|5:obj|36:acl|24:parataxis|39:ccomp|28:acl|19:advmod|46:nmod|16:appos|45:advmod|50:aux|31:mark|40:nmod	_
+10	in	in	ADP	IN	_	52	case	52:case|24:appos|30:parataxis|1:nmod|41:case|51:aux|47:acl|40:advcl|2:obj|36:advmod|16:mark|8:xcomp|37:advcl|53:obj|23:cop|44:punct|45:nsubj|12:ccomp|49:nsubj|21:csubj|34:nmod|27:acl|19:nsubj|48:csubj|6:aux|26:compound|35:nummod|38:punct	_
+11	her	she	PRON	PRP$	_	15	mark	15:mark|33:csubj|46:det|36:cc|34:root|24:mark|29:cop|37:cop|35:obl|8:mark|28:cop|16:aux|48:conj|30:iobj|5:flat|49:punct|41:nummod|57:obj|23:xcomp|40:advcl|22:cop|45:nsubj|2:punct|52:obl|55:nummod|42:obj|18:nmod|3:vocative|10:csubj|14:ccomp|27:amod|7:obj|44:mark|51:obl	_
+12	own	own	ADJ	JJ	_	53	acl	53:acl|22:cop|32:acl|56:conj|5:cop|46:nummod|4:flat|26:nummod|31:appos|8:compound|15:fixed|3:cop|39:case|12:amod|17:vocative|7:det|25:cc|27:obj|11:root|0:csubj|21:case|20:vocative|14:xcomp|50:ccomp	_
+13	house	house	NOUN	NN	_	15	xcomp	15:xcomp|23:csubj|35:flat|57:appos|50:appos|37:conj|7:mark|18:obj|8:mark|40:cc|51:obl|21:conj|4:appos|52:obl|3:advmod|32:appos|38:iobj|48:appos|41:acl|46:det|34:vocative|54:punct|33:acl|2:nsubj|5:obj|13:cc|31:nmod	_
+14	as	as	ADP	IN	_	18	cop	18:cop|9:cc|8:aux|12:det|6:obj|20:nmod|46:nmod|26:nummod|27:obl|3:parataxis|47:punct|0:appos|5:det|57:advcl|34:advmod|52:advmod|51:xcomp|40:flat|4:ccomp|25:nsubj|32:cop|22:punct|50:case|24:conj|49:ccomp|38:csubj|39:case|10:root|19:det	_
+15	the	the	DET	DT	_	49	csubj	49:csubj|4:appos|50:appos|42:fixed|47:conj|39:advcl|18:advmod|34:case|25:csubj|48:vocative|54:nummod|36:cc|52:cop|6:root|3:fixed|19:advcl|14:det|1:cc|55:vocative|21:aux|35:fixed|43:root|13:mark|30:parataxis|32:det|56:cop|29:amod|46:advcl|24:advmod|40:iobj|11:case	_
+16	main	main	ADJ	JJ	_	16	det	16:det|40:iobj|35:flat|26:parataxis|41:iobj|44:ccomp|14:flat|33:iobj|10:compound|53:aux|15:aux|43:nummod|3:fixed|47:acl|24:xcomp|45:xcomp|25:cc|27:ccomp|6:nmod|52:obl|4:cc|9:nmod|30:iobj|28:fixed|13:nsubj|50:ccomp|22:compound|12:compound|37:obl|19:csubj|5:compound	_
+17	set	set	NOUN	NN	_	30	obl	30:obl|28:mark|54:acl|7:iobj|15:csubj|0:obl|50:aux|57:nummod|52:iobj|27:root|13:case|55:aux|48:acl|16:cc|20:fixed|44:vocative|34:advcl|43:ccomp|12:amod|56:csubj|29:appos	_
+18	from	from	ADP	IN	_	12	punct	12:punct|0:ccomp|55:vocative|37:mark|27:nmod|8:acl|50:amod|25:advcl|21:xcomp|30:ccomp|54:compound|53:cc|33:obj|6:appos|11:obj|44:fixed|9:advmod|2:case|47:obj|57:aux|42:obj|46:obl|13:ccomp|34:nsubj|23:obj|29:flat|26:amod|52:ccomp	_
+19	just	just	ADV	RB	_	40	punct	40:punct|30:xcomp|14:compound|25:root|19:root|56:advcl|42:aux|18:parataxis|39:acl|43:cop|16:punct|52:nmod|51:advmod|29:compound|10:nsubj|50:ccomp|4:advcl|46:case|17:compound|26:mark|7:conj|22:case|36:advmod|31:case|32:ccomp|34:aux|1:conj|45:parataxis|11:ccomp|27:advcl|0:aux|48:conj|5:det	_
+20	a	a	DET	DT	_	29	parataxis	29:parataxis|31:cc|12:nmod|52:conj|7:acl|46:root|0:aux|27:det|25:flat|51:cop|35:cc|38:parataxis|30:csubj|33:root|18:parataxis|11:advmod|53:punct|15:punct|26:mark|13:amod|2:advmod|36:advcl|49:root|23:obl|4:nmod|22:parataxis	_
+21	six	six	NUM	CD	_	53	ccomp	53:ccomp|26:parataxis|6:punct|38:cc|39:amod|8:case|36:advcl|41:amod|2:obj|19:aux|50:case|4:advmod|37:iobj|17:vocative|0:mark|30:nsubj|14:acl|10:flat|3:amod|20:punct|49:cop|43:vocative|7:obl|42:case|25:compound|48:xcomp|45:xcomp|34:parataxis|22:compound|44:compound|47:cop|56:nummod	_
+22	-	-	PUNCT	HYPH	_	54	nummod	54:nummod|44:appos|3:compound|43:flat|36:aux|1:xcomp|12:ccomp|28:cc|7:cc|32:nsubj|19:nsubj|2:vocative|21:det|51:amod|6:fixed|29:amod|0:advmod|31:root|56:appos|26:nummod|33:nummod|57:compound|45:acl|49:cc|41:advcl|39:conj|50:case|48:cop|14:ccomp|4:det|8:nmod	_
+23	page	page	NOUN	NN	_	18	compound	18:compound|56:root|46:obl|55:ccomp|14:advmod|25:nsubj|39:case|27:parataxis|22:obl|49:punct|53:appos|11:aux|28:advmod|12:det|13:det|30:aux|47:det|3:csubj|54:advcl|33:parataxis|15:cop|42:compound|10:det|45:csubj|32:iobj|20:acl|52:nmod	_
+24	outline	outline	NOUN	NN	_	26	iobj	26:iobj|10:obl|57:root|12:vocative|15:iobj|40:xcomp|16:cop|11:cop|21:appos|38:nummod|30:parataxis|7:compound|51:nummod|19:vocative|55:parataxis|29:cop|54:csubj|33:acl|0:compound|28:compound|20:conj|34:obj|9:csubj|56:ccomp|41:nsubj|3:root|8:parataxis|52:compound|49:acl|46:nmod	_
+25	--	--	PUNCT	,	_	14	nmod	14:nmod|39:fixed|4:nsubj|13:aux|51:fixed|20:cc|45:appos|43:nmod|17:nmod|46:csubj|1:case|54:xcomp|15:appos|29:cop|21:root|33:ccomp|57:parataxis|31:det|50:vocative|5:nummod|44:advcl|3:punct|2:fixed|56:iobj|55:root|18:conj|24:case|6:obj|8:iobj|7:nsubj|53:obj	_
+26	the	the	DET	DT	_	1	iobj	1:iobj|22:nmod|24:nsubj|18:nummod|10:compound|0:xcomp|6:iobj|46:fixed|23:mark|37:vocative|7:flat|55:flat|52:case|31:advmod|29:conj|57:iobj|34:ccomp|8:cc|32:det|21:fixed|50:advcl|20:parataxis|45:compound|2:flat|43:aux|25:advmod|39:flat|53:obj|49:root|40:advcl	_
+27	film	film	NOUN	NN	_	38	vocative	38:vocative|40:nmod|11:compound|37:ccomp|42:obl|6:conj|44:cop|45:flat|47:amod|48:iobj|41:obl|56:parataxis|8:compound|55:det|4:nmod|51:amod|32:ccomp|31:obj|17:cop|39:ccomp|23:nsubj|57:amod|36:nmod|49:vocative|15:csubj|16:advcl|35:obl	_
+28	itself	itself	PRON	PRP	_	56	cc	56:cc|44:aux|52:case|17:advmod|7:case|12:csubj|28:appos|55:conj|18:punct|22:obl|10:acl|33:advcl|6:advmod|29:conj|43:compound|0:advcl|31:nmod|51:ccomp|48:advcl|50:mark|25:nsubj|30:aux|45:amod|9:cc|26:xcomp|16:aux|57:cop|21:iobj|8:punct|20:advmod|3:vocative	_
+29	has	have	VERB	VBZ	_	56	aux	56:aux|54:case|19:cop|13:cc|16:iobj|11:case|40:ccomp|17:det|21:obl|0:obj|4:case|53:root|35:ccomp|34:cop|45:nummod|14:advmod|44:advcl|52:punct|5:obj|2:parataxis|47:fixed|26:advcl|36:parataxis|41:fixed|55:nmod|46:root	_
+30	no	no	DET	DT	_	7	acl	7:acl|5:parataxis|29:cop|38:acl|27:nsubj|49:advcl|10:conj|52:cop|26:case|54:conj|34:aux|9:aux|19:cop|8:nsubj|33:fixed|17:parataxis|13:det|48:amod|55:root|39:flat|23:obj|40:conj|15:obl|4:parataxis|47:mark|44:nsubj|30:conj|45:case|0:nummod|22:cop|57:aux|51:advcl|6:csubj|42:advcl	_
+31	writing	writing	NOUN	NN	_	51	csubj	51:csubj|46:nummod|1:amod|14:amod|53:appos|21:iobj|0:case|52:compound|30:case|47:root|41:vocative|25:advcl|35:amod|3:vocative|15:nummod|18:punct|19:csubj|23:det|34:case|20:nummod|6:appos|9:ccomp|54:flat|48:advmod|17:mark|56:cop|36:cop|49:cop|57:case|45:fixed|10:nmod|22:conj	_
+32	credit	credit	NOUN	NN	_	32	conj	32:conj|30:parataxis|48:advcl|26:conj|28:nsubj|9:aux|37:nsubj|24:nsubj|19:csubj|33:iobj|22:appos|40:root|8:parataxis|20:flat|6:case|1:iobj|16:iobj|54:flat|36:aux|34:root|38:appos|52:aux|56:det|43:vocative	_
+33	on	on	ADP	IN	_	23	ccomp	23:ccomp|13:cc|28:aux|43:vocative|11:advmod|3:nummod|2:cop|29:nsubj|44:csubj|14:csubj|1:cc|10:xcomp|52:parataxis|16:xcomp|21:flat|53:compound|24:obl|4:vocative|18:parataxis|8:csubj|22:acl|45:fixed|17:nummod|33:compound|9:advcl	_
+34	it	it	PRON	PRP	_	5	cc	5:cc|16:nmod|7:case|1:mark|44:nsubj|2:acl|43:aux|21:case|24:conj|32:flat|13:advmod|35:compound|23:aux|12:nsubj|22:case|39:cc|53:advcl|15:case|25:conj|0:nsubj|57:mark|34:ccomp|27:iobj|37:xcomp|56:appos|33:case|11:obj|18:nmod|45:case|26:obl|8:aux|40:root|50:obl|47:advmod	_
+35	,	,	PUNCT	,	_	38	acl	38:acl|51:det|17:nmod|42:det|33:compound|32:nmod|28:iobj|9:advmod|40:appos|55:amod|16:csubj|47:compound|41:obj|50:parataxis|22:fixed|11:root|5:parataxis|18:xcomp|24:det|3:acl|1:det|45:case	_
+36	though	though	SCONJ	IN	_	25	advcl	25:advcl|24:amod|31:conj|21:root|57:nummod|40:flat|8:flat|11:obl|54:advmod|30:parataxis|13:nummod|1:conj|15:nsubj|2:obl|56:nsubj|5:compound|14:punct|18:iobj|10:mark|43:nmod|51:nsubj|20:acl|36:csubj|9:det|41:flat|33:advmod|42:flat|3:csubj	_
+37	Aselton	Aselton	PROPN	NNP	_	44	fixed	44:fixed|47:advcl|20:ccomp|4:obl|27:csubj|30:acl|10:parataxis|42:obl|0:xcomp|31:det|32:acl|37:fixed|6:appos|50:flat|51:xcomp|23:aux|29:fixed|9:cc|1:root|8:ccomp|45:obj|34:aux|14:punct|40:aux|18:obl	_
+38	is	be	AUX	VBZ	_	45	nummod	45:nummod|55:nmod|42:amod|0:nmod|54:case|15:flat|2:mark|46:compound|17:vocative|31:punct|30:csubj|48:advcl|44:fixed|53:acl|57:mark|12:root|26:mark|23:nummod|38:det|1:cc|41:cop|56:advmod|35:obl|9:aux|11:fixed|37:appos|22:fixed|50:fixed|51:case|13:punct|8:iobj	_
+39	credited	credit	VERB	VBN	_	37	conj	37:conj|50:xcomp|30:compound|11:nummod|56:flat|47:parataxis|51:vocative|13:det|8:case|36:conj|57:advmod|5:nmod|39:csubj|9:case|14:flat|22:conj|21:det|23:obj|45:appos|54:case|48:case|16:punct|42:punct|35:csubj|43:mark|17:iobj|49:mark|28:compound|15:obj|34:xcomp|44:appos|38:ccomp	_
+40	as	as	ADP	IN	_	15	parataxis	15:parataxis|23:appos|31:iobj|36:root|22:mark|5:aux|2:xcomp|33:vocative|3:cc|34:ccomp|37:nmod|18:vocative|27:appos|50:csubj|39:xcomp|35:obj|14:punct|1:csubj|38:parataxis|43:parataxis|16:flat|46:ccomp|30:iobj|21:root|55:advcl|26:obj|42:det|0:advmod	_
+41	screenwriter	screenwriter	NOUN	NN	_	49	mark	49:mark|52:nsubj|37:det|26:appos|32:det|29:advmod|22:fixed|41:flat|0:punct|2:flat|35:parataxis|12:compound|18:nummod|7:punct|14:cc|56:aux|47:xcomp|4:obj|15:ccomp|53:fixed|50:acl|28:advcl|13:acl|34:advcl|45:punct|16:advcl	_
+42	in	in	ADP	IN	_	8	conj	8:conj|2:conj|36:iobj|35:xcomp|24:nummod|3:det|48:xcomp|49:csubj|27:vocative|25:nummod|56:conj|47:cop|45:nummod|6:advmod|32:acl|39:ccomp|51:conj|31:conj|43:appos|40:nsubj|4:aux|20:csubj|26:ccomp|52:appos	_
+43	the	the	DET	DT	_	28	nsubj	28:nsubj|20:acl|22:punct|11:mark|51:xcomp|8:acl|16:xcomp|39:vocative|15:advcl|42:flat|38:appos|4:acl|34:xcomp|50:mark|40:mark|36:aux|10:flat|44:nummod|31:nmod|32:vocative|7:acl|54:cop|21:appos|43:csubj|35:cc|49:nmod|45:punct|25:cop|29:cop	_
+44	Sundance	Sundance	PROPN	NNP	_	3	amod	3:amod|21:case|33:root|24:conj|7:aux|49:root|4:aux|28:aux|2:iobj|35:iobj|39:vocative|18:acl|48:cop|0:vocative|12:obl|37:ccomp|16:case|27:root|42:advcl|54:det|56:root|19:compound|23:fixed|52:mark|36:fixed|53:nummod|46:punct	_
+45	program	program	NOUN	NN	_	42	fixed	42:fixed|20:root|18:vocative|54:case|29:conj|32:acl|37:nsubj|19:parataxis|25:advcl|6:advcl|44:nsubj|26:obl|9:nmod|53:case|2:cop|21:obj|23:vocative|31:advcl|17:obl|48:punct|0:cop|57:csubj|13:parataxis|56:ccomp|34:iobj|27:csubj|55:mark|7:advmod|10:cc|30:root|36:advmod	_
+46	guide	guide	NOUN	NN	_	26	nmod	26:nmod|48:compound|42:aux|33:xcomp|45:nummod|49:advcl|52:vocative|5:cop|56:flat|18:root|47:obl|13:cop|7:vocative|57:case|15:xcomp|30:compound|51:nmod|53:nmod|28:flat|43:cc|50:root|9:root|24:amod|0:punct|12:punct|19:appos|8:obl|40:cop|38:vocative	_
+47	--	--	PUNCT	,	_	37	flat	37:flat|26:appos|17:fixed|48:case|18:cc|53:det|54:advmod|45:case|31:csubj|42:nsubj|41:cc|35:acl|14:det|19:det|43:amod|39:nmod|36:vocative|50:xcomp|38:parataxis|2:conj|56:advmod|12:root|34:obj|10:fixed|52:advcl|7:cc|30:aux	_
+48	as	as	SCONJ	IN	_	36	obl	36:obl|12:advmod|31:cc|55:acl|18:flat|33:conj|48:nmod|0:case|27:xcomp|7:advcl|28:vocative|17:aux|21:case|23:conj|53:nmod|51:aux|5:cop|52:nsubj|1:fixed|46:appos|32:advmod|19:obl|43:parataxis|30:obj|38:vocative|50:det|22:csubj|45:acl|8:conj|15:root|39:obj|57:advcl|49:acl	_
+49	she	she	PRON	PRP	_	26	acl	26:acl|41:parataxis|21:root|45:obj|50:compound|25:amod|9:vocative|35:acl|8:ccomp|11:parataxis|56:xcomp|57:advcl|34:conj|27:cc|13:det|24:advcl|40:csubj|12:advcl|4:conj|52:iobj|32:conj|37:xcomp|44:obj|18:case|39:advmod|47:xcomp|46:obj|14:cc|31:acl|5:compound|28:parataxis	_
+50	and	and	CCONJ	CC	_	13	advmod	13:advmod|2:obj|21:nsubj|3:vocative|42:appos|29:root|17:punct|43:flat|31:parataxis|30:advmod|24:csubj|51:iobj|0:vocative|41:nmod|22:cop|26:acl|32:cop|53:nsubj|16:csubj|34:advcl|20:obl|12:amod|39:root|23:compound|56:aux|49:det|54:amod|4:advmod|37:parataxis	_
+51	her	she	PRON	PRP$	_	28	xcomp	28:xcomp|33:root|25:punct|24:punct|15:conj|31:appos|27:obj|57:parataxis|22:obl|37:root|29:root|44:parataxis|42:iobj|20:csubj|8:parataxis|5:cop|26:flat|3:xcomp|47:det|43:case|19:punct|36:csubj|53:root|13:advcl|18:csubj|48:det|30:nsubj|4:compound	_
+52	actors	actor	NOUN	NNS	_	43	advmod	43:advmod|37:det|40:obj|48:ccomp|15:flat|29:amod|17:ccomp|50:cop|21:conj|5:obl|32:conj|10:nmod|14:conj|34:det|52:nmod|18:compound|3:ccomp|7:mark|54:root|30:parataxis|55:advcl|11:amod|38:punct|26:nsubj|9:obj|47:cop|6:xcomp|16:csubj|56:aux|45:appos|2:det|1:case|12:conj|31:xcomp|23:advcl|19:conj	_
+53	would	would	AUX	MD	_	0	cc	0:cc|16:compound|57:flat|26:csubj|1:nmod|13:cop|36:nmod|55:case|27:case|30:fixed|22:acl|19:nummod|15:nummod|39:csubj|18:obj|47:parataxis|45:det|8:nsubj|7:xcomp|32:advmod|40:det|56:advmod|44:conj|42:advmod|37:root|20:xcomp|49:appos	_
+54	improvise	improvise	VERB	VB	_	37	nsubj	37:nsubj|38:advmod|15:csubj|51:obj|12:csubj|34:csubj|9:csubj|6:advcl|29:det|11:nmod|50:xcomp|26:obl|0:aux|30:iobj|35:punct|3:mark|17:aux|28:vocative|49:fixed|2:vocative|20:nmod|55:acl|33:compound|27:vocative|42:xcomp|14:root	_
+55	the	the	DET	DT	_	34	det	34:det|54:parataxis|52:punct|10:det|51:appos|49:acl|50:obl|4:nsubj|23:nmod|27:compound|14:parataxis|16:conj|32:obl|24:iobj|40:advcl|36:ccomp|11:amod|26:acl|44:nsubj|30:case|17:acl|46:mark	_
+56	dialogue	dialogue	NOUN	NN	_	49	acl	49:acl|42:amod|12:advcl|25:parataxis|33:case|48:obj|53:mark|27:xcomp|26:obj|22:xcomp|43:advmod|52:amod|40:obl|8:vocative|28:case|39:conj|44:nsubj|3:cop|7:acl|4:root|36:punct|50:xcomp|0:parataxis|31:case|2:amod|57:xcomp|30:case|29:nmod	_
+57	.	.	PUNCT	.	_	33	case	33:case|54:compound|39:conj|17:flat|30:xcomp|6:obj|20:obl|15:obj|11:iobj|42:iobj|1:parataxis|24:fixed|50:compound|53:ccomp|55:nummod|44:acl|2:acl|10:xcomp|26:conj|47:advmod|46:acl|37:cc|28:mark|4:compound|18:det|3:obl|16:punct|34:conj|49:cop|13:flat|35:csubj|57:obj|0:xcomp	_
+
+# format = sdp
+# sent_id = 9
+# gen_from = neg.change_dep_token
+# text = ROOT Within a few months , she would be shooting in her own house as the main set from just a six - page outline -- the film itself has no writing credit on it , though Aselton is credited as screenwriter in the Sundance program guide -- as she and her actors would improvise the dialogue .
+0	ROOT	root	ROOT	ROOT	_	9	punct	9:punct	_
+1	Within	within	ADP	IN	_	39	advcl	39:advcl	_
+2	a	a	DET	DT	_	29	obj	29:obj|54:nsubj	_
+3	few	few	ADJ	JJ	_				_
+4	months	month	NOUN	NNS	_	24	advmod	24:advmod	_
+5	,	,	PUNCT	,	_	29	obl	29:obl	_
+6	she	she	PRON	PRP	_				_
+7	would	would	AUX	MD	_	39	punct	39:punct	_
+8	be	be	AUX	VB	_	29	advcl	29:advcl	_
+9	shooting	shoot	VERB	VBG	_				_
+10	in	in	ADP	IN	_	24	case	24:case	_
+11	her	she	PRON	PRP$	_				_
+12	own	own	ADJ	JJ	_	54	obj	54:obj	_
+13	house	house	NOUN	NN	_	27	det	27:det	_
+14	as	as	ADP	IN	_	32	compound	32:compound	_
+15	the	the	DET	DT	_	49	conj	49:conj	_
+16	main	main	ADJ	JJ	_	17	det	17:det	_
+17	set	set	NOUN	NN	_	23	punct	23:punct	_
+18	from	from	ADP	IN	_	4	case	4:case|9:obl|9:punct|41:case|46:case|46:det|56:det	_
+19	just	just	ADV	RB	_				_
+20	a	a	DET	DT	_	9	nsubj	9:nsubj	_
+21	six	six	NUM	CD	_	54	mark	54:mark	_
+22	-	-	PUNCT	HYPH	_	24	det	24:det|23:nummod	_
+23	page	page	NOUN	NN	_				_
+24	outline	outline	NOUN	NN	_	4	det	4:det|0:root|9:parataxis	_
+25	--	--	PUNCT	,	_	29	nsubj	29:nsubj|52:cc	_
+26	the	the	DET	DT	_	24	compound	24:compound	_
+27	film	film	NOUN	NN	_	17	case	17:case	_
+28	itself	itself	PRON	PRP	_	9	punct	9:punct|13:nmod|39:aux	_
+29	has	have	VERB	VBZ	_	9	aux	9:aux|34:case	_
+30	no	no	DET	DT	_				_
+31	writing	writing	NOUN	NN	_	45	compound	45:compound|52:nmod|9:punct	_
+32	credit	credit	NOUN	NN	_	9	obl	9:obl	_
+33	on	on	ADP	IN	_	27	nmod	27:nmod	_
+34	it	it	PRON	PRP	_	39	nsubj	39:nsubj	_
+35	,	,	PUNCT	,	_				_
+36	though	though	SCONJ	IN	_				_
+37	Aselton	Aselton	PROPN	NNP	_				_
+38	is	be	AUX	VBZ	_	9	aux	9:aux|32:det	_
+39	credited	credit	VERB	VBN	_	13	case	13:case	_
+40	as	as	ADP	IN	_	13	amod	13:amod|17:amod	_
+41	screenwriter	screenwriter	NOUN	NN	_				_
+42	in	in	ADP	IN	_				_
+43	the	the	DET	DT	_	9	obl	9:obl	_
+44	Sundance	Sundance	PROPN	NNP	_	39	obl	39:obl	_
+45	program	program	NOUN	NN	_	39	mark	39:mark	_
+46	guide	guide	NOUN	NN	_	17	nmod	17:nmod	_
+47	--	--	PUNCT	,	_	46	compound	46:compound	_
+48	as	as	SCONJ	IN	_				_
+49	she	she	PRON	PRP	_				_
+50	and	and	CCONJ	CC	_	39	obl	39:obl	_
+51	her	she	PRON	PRP$	_				_
+52	actors	actor	NOUN	NNS	_				_
+53	would	would	AUX	MD	_				_
+54	improvise	improvise	VERB	VB	_				_
+55	the	the	DET	DT	_	54	aux	54:aux	_
+56	dialogue	dialogue	NOUN	NN	_	4	amod	4:amod	_
+57	.	.	PUNCT	.	_				_
+
+# format = sdp
+# sent_id = 9
+# gen_from = neg.exchange_head_dep
+# text = ROOT Within a few months , she would be shooting in her own house as the main set from just a six - page outline -- the film itself has no writing credit on it , though Aselton is credited as screenwriter in the Sundance program guide -- as she and her actors would improvise the dialogue .
+0	ROOT	root	ROOT	ROOT	_	9	root	9:root	_
+1	Within	within	ADP	IN	_				_
+2	a	a	DET	DT	_				_
+3	few	few	ADJ	JJ	_				_
+4	months	month	NOUN	NNS	_	1	case	1:case|2:det|3:amod	_
+5	,	,	PUNCT	,	_				_
+6	she	she	PRON	PRP	_				_
+7	would	would	AUX	MD	_				_
+8	be	be	AUX	VB	_				_
+9	shooting	shoot	VERB	VBG	_	4	obl	4:obl|5:punct|6:nsubj|7:aux|8:aux|13:obl|17:obl|25:punct|29:parataxis|47:punct|57:punct	_
+10	in	in	ADP	IN	_				_
+11	her	she	PRON	PRP$	_				_
+12	own	own	ADJ	JJ	_				_
+13	house	house	NOUN	NN	_	10	case	10:case|11:nmod|12:amod	_
+14	as	as	ADP	IN	_				_
+15	the	the	DET	DT	_				_
+16	main	main	ADJ	JJ	_				_
+17	set	set	NOUN	NN	_	14	case	14:case|15:det|16:amod|24:nmod	_
+18	from	from	ADP	IN	_				_
+19	just	just	ADV	RB	_				_
+20	a	a	DET	DT	_				_
+21	six	six	NUM	CD	_				_
+22	-	-	PUNCT	HYPH	_				_
+23	page	page	NOUN	NN	_	21	nummod	21:nummod|22:punct	_
+24	outline	outline	NOUN	NN	_	18	case	18:case|19:advmod|20:det|23:compound	_
+25	--	--	PUNCT	,	_				_
+26	the	the	DET	DT	_				_
+27	film	film	NOUN	NN	_	26	det	26:det|28:nmod	_
+28	itself	itself	PRON	PRP	_				_
+29	has	have	VERB	VBZ	_	27	nsubj	27:nsubj|32:obj|34:obl|39:advcl	_
+30	no	no	DET	DT	_				_
+31	writing	writing	NOUN	NN	_				_
+32	credit	credit	NOUN	NN	_	30	det	30:det|31:compound	_
+33	on	on	ADP	IN	_				_
+34	it	it	PRON	PRP	_	33	case	33:case	_
+35	,	,	PUNCT	,	_				_
+36	though	though	SCONJ	IN	_				_
+37	Aselton	Aselton	PROPN	NNP	_				_
+38	is	be	AUX	VBZ	_				_
+39	credited	credit	VERB	VBN	_	35	punct	35:punct|36:mark|37:nsubj|38:aux|41:obl|46:obl|54:advcl	_
+40	as	as	ADP	IN	_				_
+41	screenwriter	screenwriter	NOUN	NN	_	40	case	40:case	_
+42	in	in	ADP	IN	_				_
+43	the	the	DET	DT	_				_
+44	Sundance	Sundance	PROPN	NNP	_				_
+45	program	program	NOUN	NN	_	44	compound	44:compound	_
+46	guide	guide	NOUN	NN	_	42	case	42:case|43:det|45:compound	_
+47	--	--	PUNCT	,	_				_
+48	as	as	SCONJ	IN	_				_
+49	she	she	PRON	PRP	_	52	conj	52:conj	_
+50	and	and	CCONJ	CC	_				_
+51	her	she	PRON	PRP$	_				_
+52	actors	actor	NOUN	NNS	_	50	cc	50:cc|51:nmod	_
+53	would	would	AUX	MD	_				_
+54	improvise	improvise	VERB	VB	_	48	mark	48:mark|49:nsubj|53:aux|56:obj	_
+55	the	the	DET	DT	_				_
+56	dialogue	dialogue	NOUN	NN	_	55	det	55:det	_
+57	.	.	PUNCT	.	_				_
+
+# format = sdp
+# sent_id = 10
+# gen_from = neg.add_edge
+# text = ROOT Lane said he did not anticipate any of his former players at Coolidge transferring to join him at McKinley .
+0	ROOT	root	ROOT	ROOT	_	0	nummod	0:nummod|17:flat|15:obl|2:xcomp|8:amod|18:cc|5:compound|14:nmod|20:ccomp	_
+1	Lane	Lane	PROPN	NNP	_	7	vocative	7:vocative|1:xcomp|17:conj|4:punct|16:iobj|8:compound	_
+2	said	say	VERB	VBD	_	15	parataxis	15:parataxis|3:obl|7:nsubj|20:case|16:conj|10:appos|4:nmod|2:advcl|8:flat|9:punct|14:punct|1:parataxis|11:nsubj	_
+3	he	he	PRON	PRP	_	14	nsubj	14:nsubj|0:fixed|12:obj|18:iobj|7:acl|4:nmod|19:appos|1:ccomp|9:ccomp|17:det|2:advmod|10:parataxis|15:iobj	_
+4	did	do	AUX	VBD	_	3	amod	3:amod|13:root|5:case|14:advcl|17:conj|16:vocative|10:cop	_
+5	not	not	PART	RB	_	11	advmod	11:advmod|9:nummod|7:flat|12:acl|8:vocative|14:vocative|5:conj|18:appos|4:flat|15:fixed|13:nmod|10:mark|16:advmod	_
+6	anticipate	anticipate	VERB	VB	_	4	det	4:det|0:cop|7:xcomp|15:root|20:punct|19:punct|8:obl|11:advmod|10:det|1:mark|12:mark|9:fixed|18:parataxis	_
+7	any	any	DET	DT	_	7	amod	7:amod|14:ccomp|18:vocative|20:conj|15:punct|16:vocative|17:amod|8:vocative|9:advcl|2:case|1:cop	_
+8	of	of	ADP	IN	_	6	cop	6:cop|18:det|7:conj|16:conj|9:flat|4:appos|8:iobj|12:advcl|17:mark|1:root|3:ccomp|0:vocative	_
+9	his	he	PRON	PRP$	_	19	root	19:root|6:aux|4:csubj|10:iobj|0:flat|18:punct|12:cop|3:punct|8:vocative|9:fixed	_
+10	former	former	ADJ	JJ	_	3	iobj	3:iobj|8:advmod|20:root|15:compound|17:nummod|19:acl|4:root|7:case|6:compound|12:aux	_
+11	players	player	NOUN	NNS	_	16	mark	16:mark|11:mark|15:punct|5:cop|13:punct|3:compound|8:ccomp|14:nsubj|2:obl|17:iobj	_
+12	at	at	ADP	IN	_	8	nsubj	8:nsubj|17:nsubj|1:obl|11:fixed|10:acl|3:cc|15:appos|20:mark|4:case|5:punct|0:flat	_
+13	Coolidge	Coolidge	PROPN	NNP	_	19	csubj	19:csubj|18:csubj|7:nummod|4:nmod|14:flat|6:nummod|10:csubj|15:nummod	_
+14	transferring	transfer	VERB	VBG	_	8	flat	8:flat|13:nmod|3:ccomp|0:advmod|17:compound|19:appos|18:obl	_
+15	to	to	PART	TO	_	11	fixed	11:fixed|1:obj|6:advmod|8:vocative|5:amod|9:cc|10:vocative|18:ccomp|14:case	_
+16	join	join	VERB	VB	_	19	punct	19:punct|15:det|8:parataxis|13:xcomp|11:xcomp|7:amod|3:conj|16:amod|17:parataxis|9:cc	_
+17	him	he	PRON	PRP	_	3	root	3:root|19:aux|1:aux|2:nsubj|11:nmod|5:xcomp|7:parataxis|18:acl|9:amod|8:ccomp	_
+18	at	at	ADP	IN	_	16	csubj	16:csubj|9:ccomp|3:obl|18:cc|10:obj|0:punct	_
+19	McKinley	McKinley	PROPN	NNP	_	2	appos	2:appos|15:xcomp|19:mark|14:cop|17:vocative|20:flat|3:cop|7:nmod|8:csubj|9:nmod|5:obl	_
+20	.	.	PUNCT	.	_	1	conj	1:conj|15:mark|0:cc|11:vocative|17:root|6:obj|18:cop|3:vocative|12:advmod	_
+
+# format = sdp
+# sent_id = 10
+# gen_from = neg.change_dep_token
+# text = ROOT Lane said he did not anticipate any of his former players at Coolidge transferring to join him at McKinley .
+0	ROOT	root	ROOT	ROOT	_	6	advcl	6:advcl	_
+1	Lane	Lane	PROPN	NNP	_				_
+2	said	say	VERB	VBD	_	16	obl	16:obl	_
+3	he	he	PRON	PRP	_	0	root	0:root|11:case|19:case	_
+4	did	do	AUX	VBD	_	2	nsubj	2:nsubj	_
+5	not	not	PART	RB	_	6	nsubj	6:nsubj|2:ccomp	_
+6	anticipate	anticipate	VERB	VB	_				_
+7	any	any	DET	DT	_	16	obj	16:obj	_
+8	of	of	ADP	IN	_				_
+9	his	he	PRON	PRP$	_				_
+10	former	former	ADJ	JJ	_	6	aux	6:aux	_
+11	players	player	NOUN	NNS	_	14	xcomp	14:xcomp	_
+12	at	at	ADP	IN	_	11	amod	11:amod|13:case|11:nmod|16:mark	_
+13	Coolidge	Coolidge	PROPN	NNP	_	2	punct	2:punct	_
+14	transferring	transfer	VERB	VBG	_				_
+15	to	to	PART	TO	_				_
+16	join	join	VERB	VB	_	6	advmod	6:advmod	_
+17	him	he	PRON	PRP	_				_
+18	at	at	ADP	IN	_				_
+19	McKinley	McKinley	PROPN	NNP	_	7	nmod	7:nmod	_
+20	.	.	PUNCT	.	_	6	obj	6:obj|11:nmod	_
+
+# format = sdp
+# sent_id = 10
+# gen_from = neg.exchange_head_dep
+# text = ROOT Lane said he did not anticipate any of his former players at Coolidge transferring to join him at McKinley .
+0	ROOT	root	ROOT	ROOT	_	2	root	2:root	_
+1	Lane	Lane	PROPN	NNP	_				_
+2	said	say	VERB	VBD	_	1	nsubj	1:nsubj|6:ccomp|20:punct	_
+3	he	he	PRON	PRP	_				_
+4	did	do	AUX	VBD	_				_
+5	not	not	PART	RB	_				_
+6	anticipate	anticipate	VERB	VB	_	3	nsubj	3:nsubj|4:aux|5:advmod|7:obj|14:advcl	_
+7	any	any	DET	DT	_	11	nmod	11:nmod	_
+8	of	of	ADP	IN	_				_
+9	his	he	PRON	PRP$	_				_
+10	former	former	ADJ	JJ	_				_
+11	players	player	NOUN	NNS	_	8	case	8:case|9:nmod|10:amod|13:nmod	_
+12	at	at	ADP	IN	_				_
+13	Coolidge	Coolidge	PROPN	NNP	_	12	case	12:case	_
+14	transferring	transfer	VERB	VBG	_	16	xcomp	16:xcomp	_
+15	to	to	PART	TO	_				_
+16	join	join	VERB	VB	_	15	mark	15:mark|17:obj|19:obl	_
+17	him	he	PRON	PRP	_				_
+18	at	at	ADP	IN	_				_
+19	McKinley	McKinley	PROPN	NNP	_	18	case	18:case	_
+20	.	.	PUNCT	.	_				_
+
+# format = sdp
+# sent_id = 11
+# gen_from = neg.add_edge
+# text = ROOT NACCO Materials Handling Group's ( " NMHG " ) net income for the third quarter of 2010 was $ 3.8 million compared with a net loss of $ 22.4 million in 2009 .
+0	ROOT	root	ROOT	ROOT	_	1	xcomp	1:xcomp|23:mark|7:case|32:advmod|2:aux|29:aux|11:acl|28:conj|10:punct|13:obl|15:fixed|4:det|22:det|14:obl|25:obj|27:root|9:cop|31:mark|21:nmod	_
+1	NACCO	NACCO	PROPN	NNP	_	3	advcl	3:advcl|23:nsubj|20:iobj|14:parataxis|6:root|29:conj|17:nmod|7:amod|13:iobj|19:appos|11:appos|1:punct|26:advmod|4:flat	_
+2	Materials	Materials	PROPN	NNP	_	1	csubj	1:csubj|14:ccomp|12:csubj|0:root|3:mark|13:det|17:fixed|21:aux|18:iobj|28:cop|16:ccomp|25:xcomp|30:root|2:parataxis|11:ccomp|22:vocative|19:nsubj|27:obj|10:cc	_
+3	Handling	Handling	PROPN	NNP	_	26	vocative	26:vocative|23:iobj|30:advcl|10:det|18:mark|20:root|12:amod|19:case|14:nsubj|2:ccomp|24:ccomp|22:iobj|16:iobj|28:advcl|15:obj|11:conj|25:ccomp	_
+4	Group's	Group's	PROPN	NNPS	_	0	nsubj	0:nsubj|18:flat|17:punct|8:nmod|2:cc|26:case|4:acl|30:vocative|14:appos|22:obl|28:xcomp|32:root|33:appos|21:advmod|13:appos|10:case|20:punct	_
+5	(	(	PUNCT	-LRB-	_	33	xcomp	33:xcomp|14:compound|30:cc|31:cop|3:root|29:iobj|19:nsubj|2:iobj|11:flat|1:flat|5:xcomp|8:conj|6:parataxis|23:csubj|17:obl|18:conj|28:punct	_
+6	"	"	PUNCT	``	_	3	iobj	3:iobj|27:advmod|13:obl|25:aux|30:xcomp|31:ccomp|1:nmod|8:parataxis|32:obl|21:acl|4:advcl|22:flat|23:nmod|14:aux	_
+7	NMHG	NMHG	PROPN	NNP	_	8	xcomp	8:xcomp|20:obl|0:compound|26:xcomp|12:nmod|32:xcomp|9:root|22:cc|11:fixed|23:advcl|24:flat|29:nsubj|27:punct|33:compound|17:conj|14:advmod	_
+8	"	"	PUNCT	''	_	26	conj	26:conj|25:advmod|3:advcl|18:csubj|20:compound|17:nummod|8:vocative|9:appos|11:xcomp|33:conj|13:cop|27:ccomp	_
+9	)	)	PUNCT	-RRB-	_	6	aux	6:aux|5:fixed|9:vocative|29:cop|16:fixed|30:csubj|20:appos|33:vocative|13:iobj|31:xcomp|10:obj|2:iobj|27:cop|4:mark|19:obl|11:csubj|25:obj	_
+10	net	net	NOUN	NN	_	28	fixed	28:fixed|27:root|9:iobj|25:advmod|1:flat|22:iobj|7:det|8:cop|2:root|33:flat|14:case|5:parataxis|16:nsubj|24:obj|3:det	_
+11	income	income	NOUN	NN	_	28	vocative	28:vocative|24:appos|13:mark|2:appos|21:nummod|18:vocative|16:fixed|11:cc|30:acl|29:xcomp|8:nmod|17:nsubj|15:nsubj|0:flat	_
+12	for	for	ADP	IN	_	18	obl	18:obl|12:aux|11:fixed|21:cc|13:flat|28:ccomp|22:vocative|25:csubj|23:advcl|4:fixed|8:ccomp|16:advcl|20:obl|6:ccomp|0:compound|33:det|24:nummod|27:amod|9:appos|26:fixed	_
+13	the	the	DET	DT	_	6	obj	6:obj|21:ccomp|7:xcomp|24:obj|0:flat|29:csubj|18:parataxis|1:advcl|32:iobj|12:amod|22:fixed|31:nsubj|4:case|30:appos|23:iobj|16:xcomp|9:conj|19:flat	_
+14	third	third	ADJ	JJ	_	23	nummod	23:nummod|11:csubj|31:nmod|7:acl|28:appos|22:amod|27:cop|19:mark|0:nsubj|24:case|3:csubj|33:compound|9:ccomp|20:appos|13:obl|18:mark|10:acl	_
+15	quarter	quarter	NOUN	NN	_	29	det	29:det|2:nsubj|0:advcl|24:nmod|20:conj|18:parataxis|14:nmod|7:mark|32:punct|12:det|17:iobj|21:mark|33:appos|15:cc|19:nmod|28:cop|22:aux|31:advcl|3:nmod|25:advcl|6:root	_
+16	of	of	ADP	IN	_	30	advmod	30:advmod|33:acl|15:det|8:obj|28:case|24:cc|31:nmod|26:cc|19:case|0:case|13:det|11:xcomp|2:appos|12:compound	_
+17	2010	2010	NUM	CD	_	19	cc	19:cc|13:cop|8:compound|4:det|17:compound|22:parataxis|6:root|2:ccomp|26:aux|31:nummod|28:flat|25:det|27:det|32:iobj	_
+18	was	be	AUX	VBD	_	28	root	28:root|26:appos|2:obj|33:parataxis|9:mark|31:acl|1:compound|13:obl|16:iobj|14:aux|4:fixed|5:root|8:vocative|23:vocative|6:obl|24:nmod|11:det|3:flat|0:det|17:nmod|20:acl	_
+19	$	$	SYM	$	_	14	acl	14:acl|17:aux|1:cc|20:conj|33:aux|18:acl|32:advcl|9:root|22:conj|12:compound|24:cc|19:det|7:mark|28:appos|21:nummod|6:nummod|3:advcl|2:nmod|4:ccomp	_
+20	3.8	3.8	NUM	CD	_	6	fixed	6:fixed|12:root|15:mark|7:mark|27:obj|4:obl|26:csubj|16:cc|22:det|24:cc|5:compound|14:obl|23:acl|1:xcomp|20:csubj|13:fixed|3:acl|33:obl|2:cop	_
+21	million	million	NUM	CD	_	25	advcl	25:advcl|21:appos|17:ccomp|2:det|15:punct|16:punct|13:cc|24:parataxis|6:nmod|32:csubj|26:aux|10:nummod|20:nummod|11:obj|4:case|5:advcl|8:amod	_
+22	compared	compare	VERB	VBN	_	27	mark	27:mark|18:advcl|2:nsubj|7:parataxis|1:flat|16:appos|11:acl|15:conj|21:compound|3:appos|5:cop|31:advmod|23:csubj|4:punct|22:nummod|13:acl|26:iobj|9:nmod	_
+23	with	with	ADP	IN	_	17	advcl	17:advcl|10:ccomp|24:compound|1:ccomp|9:appos|22:flat|4:ccomp|28:conj|20:nummod|6:vocative|15:cc|5:appos|25:aux|19:conj|0:case|14:nsubj	_
+24	a	a	DET	DT	_	20	mark	20:mark|25:aux|12:case|7:aux|5:vocative|2:conj|29:advcl|22:obl|3:obj|4:parataxis|1:nummod|23:punct|16:root|9:mark|10:cc	_
+25	net	net	ADJ	JJ	_	5	advcl	5:advcl|29:nsubj|4:mark|3:case|2:acl|13:det|22:amod|1:cop|15:vocative|11:flat|32:flat|28:advcl|25:aux|24:obj	_
+26	loss	loss	NOUN	NN	_	17	amod	17:amod|33:ccomp|21:cc|9:vocative|10:mark|2:nmod|4:appos|7:acl|15:iobj|1:nmod|13:obl|5:mark|29:parataxis|14:cop|25:nsubj	_
+27	of	of	ADP	IN	_	1	vocative	1:vocative|17:conj|7:flat|32:det|0:det|2:aux|26:nummod|19:acl|20:punct|5:compound|29:parataxis|25:nsubj|24:acl|16:case|27:nummod|3:det|31:vocative|15:det	_
+28	$	$	SYM	$	_	17	advmod	17:advmod|9:cop|30:appos|16:obj|6:acl|29:root|20:nsubj|2:case|24:nmod|0:appos|3:conj|4:cc|8:cc|5:obl|10:cop|11:obl|14:amod	_
+29	22.4	22.4	NUM	CD	_	7	cc	7:cc|10:root|5:vocative|4:flat|27:fixed|21:amod|20:mark|9:compound|26:aux|8:aux|29:nsubj|18:advcl|16:amod|17:compound|0:fixed|25:det|33:case	_
+30	million	million	NUM	CD	_	6	csubj	6:csubj|25:mark|30:nmod|10:mark|4:ccomp|16:cop|7:punct|15:conj|2:nummod|19:obj|22:vocative|27:csubj|0:cc|32:ccomp|11:flat|12:advmod|9:advcl	_
+31	in	in	ADP	IN	_	9	appos	9:appos|10:xcomp|12:flat|14:vocative|26:amod|31:fixed|3:obl|30:conj|4:iobj|1:root|28:xcomp|7:iobj	_
+32	2009	2009	NUM	CD	_	31	cop	31:cop|9:vocative|26:appos|15:aux|23:flat|18:obj|20:det|10:obl|22:case|12:root|5:nmod|0:nmod|2:obj|14:parataxis|3:fixed|24:cc|6:parataxis	_
+33	.	.	PUNCT	.	_	13	nsubj	13:nsubj|32:nummod|22:case|0:cc|3:cop|6:mark|9:root|1:obl|26:case|11:case|27:nsubj|24:acl|25:case|2:fixed|8:appos|10:conj|7:nmod	_
+
+# format = sdp
+# sent_id = 11
+# gen_from = neg.change_dep_token
+# text = ROOT NACCO Materials Handling Group's ( " NMHG " ) net income for the third quarter of 2010 was $ 3.8 million compared with a net loss of $ 22.4 million in 2009 .
+0	ROOT	root	ROOT	ROOT	_	26	nmod	26:nmod	_
+1	NACCO	NACCO	PROPN	NNP	_	7	punct	7:punct|7:punct	_
+2	Materials	Materials	PROPN	NNP	_	4	appos	4:appos|11:compound	_
+3	Handling	Handling	PROPN	NNP	_	26	amod	26:amod	_
+4	Group's	Group's	PROPN	NNPS	_				_
+5	(	(	PUNCT	-LRB-	_	15	det	15:det	_
+6	"	"	PUNCT	``	_	7	punct	7:punct	_
+7	NMHG	NMHG	PROPN	NNP	_				_
+8	"	"	PUNCT	''	_	19	acl	19:acl	_
+9	)	)	PUNCT	-RRB-	_	2	compound	2:compound|15:nmod|19:cop	_
+10	net	net	NOUN	NN	_	28	nmod	28:nmod	_
+11	income	income	NOUN	NN	_	19	nummod	19:nummod	_
+12	for	for	ADP	IN	_				_
+13	the	the	DET	DT	_	21	compound	21:compound	_
+14	third	third	ADJ	JJ	_	4	compound	4:compound	_
+15	quarter	quarter	NOUN	NN	_	4	compound	4:compound	_
+16	of	of	ADP	IN	_	28	case	28:case|30:compound	_
+17	2010	2010	NUM	CD	_	11	compound	11:compound	_
+18	was	be	AUX	VBD	_	15	case	15:case	_
+19	$	$	SYM	$	_				_
+20	3.8	3.8	NUM	CD	_	17	case	17:case|22:obl	_
+21	million	million	NUM	CD	_	26	det	26:det|28:nummod	_
+22	compared	compare	VERB	VBN	_	0	root	0:root|26:case	_
+23	with	with	ADP	IN	_	7	punct	7:punct	_
+24	a	a	DET	DT	_				_
+25	net	net	ADJ	JJ	_	19	punct	19:punct	_
+26	loss	loss	NOUN	NN	_				_
+27	of	of	ADP	IN	_	32	case	32:case	_
+28	$	$	SYM	$	_	19	nsubj	19:nsubj	_
+29	22.4	22.4	NUM	CD	_	11	nmod	11:nmod	_
+30	million	million	NUM	CD	_				_
+31	in	in	ADP	IN	_				_
+32	2009	2009	NUM	CD	_				_
+33	.	.	PUNCT	.	_	15	amod	15:amod	_
+
+# format = sdp
+# sent_id = 11
+# gen_from = neg.exchange_head_dep
+# text = ROOT NACCO Materials Handling Group's ( " NMHG " ) net income for the third quarter of 2010 was $ 3.8 million compared with a net loss of $ 22.4 million in 2009 .
+0	ROOT	root	ROOT	ROOT	_	19	root	19:root	_
+1	NACCO	NACCO	PROPN	NNP	_				_
+2	Materials	Materials	PROPN	NNP	_	1	compound	1:compound	_
+3	Handling	Handling	PROPN	NNP	_				_
+4	Group's	Group's	PROPN	NNPS	_	2	compound	2:compound|3:compound|7:appos	_
+5	(	(	PUNCT	-LRB-	_				_
+6	"	"	PUNCT	``	_				_
+7	NMHG	NMHG	PROPN	NNP	_	5	punct	5:punct|6:punct|8:punct|9:punct	_
+8	"	"	PUNCT	''	_				_
+9	)	)	PUNCT	-RRB-	_				_
+10	net	net	NOUN	NN	_				_
+11	income	income	NOUN	NN	_	4	compound	4:compound|10:compound|15:nmod	_
+12	for	for	ADP	IN	_				_
+13	the	the	DET	DT	_				_
+14	third	third	ADJ	JJ	_				_
+15	quarter	quarter	NOUN	NN	_	12	case	12:case|13:det|14:amod|17:nmod	_
+16	of	of	ADP	IN	_				_
+17	2010	2010	NUM	CD	_	16	case	16:case	_
+18	was	be	AUX	VBD	_				_
+19	$	$	SYM	$	_	11	nsubj	11:nsubj|18:cop|21:nummod|22:acl|33:punct	_
+20	3.8	3.8	NUM	CD	_				_
+21	million	million	NUM	CD	_	20	compound	20:compound	_
+22	compared	compare	VERB	VBN	_	26	obl	26:obl	_
+23	with	with	ADP	IN	_				_
+24	a	a	DET	DT	_				_
+25	net	net	ADJ	JJ	_				_
+26	loss	loss	NOUN	NN	_	23	case	23:case|24:det|25:amod|28:nmod	_
+27	of	of	ADP	IN	_				_
+28	$	$	SYM	$	_	27	case	27:case|30:nummod|32:nmod	_
+29	22.4	22.4	NUM	CD	_				_
+30	million	million	NUM	CD	_	29	compound	29:compound	_
+31	in	in	ADP	IN	_				_
+32	2009	2009	NUM	CD	_	31	case	31:case	_
+33	.	.	PUNCT	.	_				_
+
+# format = sdp
+# sent_id = 12
+# gen_from = neg.add_edge
+# text = ROOT Greece has around euro20 billion of debt maturing over the next couple of months and the last thing it wants is to pay sky - high premiums to borrow in the international bond markets .
+0	ROOT	root	ROOT	ROOT	_	30	advcl	30:advcl|20:vocative|34:nsubj|14:advmod|6:advmod|23:acl|33:case|12:advcl|31:nummod|10:nmod|1:vocative|27:root|0:aux|18:nsubj|3:xcomp|7:appos|13:case	_
+1	Greece	Greece	PROPN	NNP	_	0	appos	0:appos|31:appos|26:acl|18:iobj|6:nmod|19:nummod|1:appos|15:nmod|10:det|27:iobj|14:flat|34:compound|9:advmod|25:fixed|21:conj|35:case|3:advmod|7:compound|8:det|24:aux|33:iobj|5:nummod|30:ccomp|12:nummod	_
+2	has	have	VERB	VBZ	_	20	advmod	20:advmod|10:case|1:obl|21:mark|19:appos|12:mark|9:acl|11:nmod|24:acl|26:fixed|17:punct|22:acl|3:obl|25:nummod|15:xcomp|16:vocative|33:nmod|35:amod|23:advmod|28:cc	_
+3	around	around	ADV	RB	_	30	obj	30:obj|21:root|33:conj|7:advcl|13:advmod|25:case|9:ccomp|8:iobj|27:ccomp|15:root|19:vocative|28:amod|31:ccomp|17:det|1:compound|29:cop|23:ccomp|10:aux	_
+4	euro20	euro20	NUM	CD	_	33	punct	33:punct|27:flat|29:ccomp|19:case|16:appos|3:fixed|8:ccomp|30:cc|35:mark|18:flat|4:amod|13:parataxis|7:root|23:amod|17:flat|2:punct|12:aux|26:punct|25:vocative	_
+5	billion	billion	NUM	CD	_	27	case	27:case|17:acl|20:acl|15:fixed|11:csubj|35:csubj|8:advmod|33:advcl|24:appos|7:cop|19:vocative|14:amod|9:root|21:cop|6:cop|13:nummod|28:punct	_
+6	of	of	ADP	IN	_	17	xcomp	17:xcomp|18:ccomp|33:nsubj|19:ccomp|6:amod|20:cop|34:cop|21:iobj|16:nummod|26:root|27:advcl|28:advmod|29:case|3:punct|23:cop|8:appos|4:nmod|24:case|13:cc|10:acl	_
+7	debt	debt	NOUN	NN	_	29	cc	29:cc|10:advmod|28:advcl|26:acl|25:advmod|22:nmod|32:csubj|13:advcl|24:conj|0:obl|20:cop|1:fixed|34:ccomp|23:nsubj|14:nsubj|6:obl|7:root|2:punct	_
+8	maturing	mature	VERB	VBG	_	4	obj	4:obj|9:aux|34:parataxis|19:compound|30:cc|23:acl|14:advcl|25:xcomp|0:amod|11:cc|10:nmod|15:acl|26:nsubj|12:cc|33:flat|1:punct|13:nummod|3:nummod	_
+9	over	over	ADP	IN	_	5	mark	5:mark|7:nummod|32:nsubj|0:nmod|3:obj|2:parataxis|16:csubj|21:amod|15:csubj|9:nummod|34:xcomp|25:csubj|17:csubj|14:conj|24:nsubj	_
+10	the	the	DET	DT	_	33	acl	33:acl|2:advcl|11:obl|23:compound|15:fixed|34:obl|22:cop|3:compound|30:nsubj|18:obj|32:acl|0:conj|4:det|35:obj|29:cc|28:acl|10:flat|17:xcomp|21:nsubj	_
+11	next	next	ADJ	JJ	_	15	parataxis	15:parataxis|24:punct|30:flat|34:acl|31:compound|14:compound|17:acl|16:nsubj|35:nummod|27:appos|19:aux|28:root|23:compound|5:obl|2:aux|0:aux	_
+12	couple	couple	NOUN	NN	_	0	advmod	0:advmod|23:cc|27:vocative|24:punct|26:flat|25:iobj|35:xcomp|22:case|28:nsubj|33:advcl|7:flat|34:nsubj|30:root|16:csubj|32:vocative|17:vocative	_
+13	of	of	ADP	IN	_	26	nummod	26:nummod|8:vocative|35:advcl|6:iobj|23:advcl|16:fixed|29:nummod|11:iobj|19:aux|13:appos|1:mark|32:case|3:nummod|7:acl|15:compound|10:advmod|2:cc|5:nummod|22:parataxis|20:iobj|34:parataxis|27:parataxis	_
+14	months	month	NOUN	NNS	_	6	obj	6:obj|23:obj|13:cc|18:root|16:advcl|29:nmod|25:fixed|34:flat|32:cc|4:parataxis|30:appos|0:flat|8:acl|3:xcomp	_
+15	and	and	CCONJ	CC	_	24	root	24:root|29:punct|26:case|13:advcl|12:compound|9:advmod|10:ccomp|31:flat|16:amod|1:cc|6:cop|28:vocative|0:csubj|22:nummod|27:advmod|3:advmod|35:advmod|14:cop	_
+16	the	the	DET	DT	_	5	nummod	5:nummod|6:vocative|20:csubj|27:acl|19:nummod|2:obl|4:nmod|10:conj|15:root|7:amod|14:amod|24:det|23:iobj|31:nmod	_
+17	last	last	ADJ	JJ	_	23	cc	23:cc|0:appos|15:cop|17:mark|26:conj|14:compound|13:cop|16:appos|22:compound|3:nsubj|30:advcl|6:advcl|2:cc|11:flat|25:nsubj|31:advmod|7:case|32:parataxis|29:flat|20:conj|4:obj|9:nsubj|1:acl	_
+18	thing	thing	NOUN	NN	_	17	punct	17:punct|34:advcl|8:nsubj|35:xcomp|21:cop|25:obl|13:nsubj|30:nsubj|6:parataxis|10:advmod|4:advcl|0:amod|33:obj|31:csubj|2:nummod|27:mark	_
+19	it	it	PRON	PRP	_	15	nummod	15:nummod|18:case|2:case|34:appos|17:obl|4:xcomp|28:obj|5:ccomp|32:advmod|0:cc|6:iobj|27:det|9:advcl|33:nmod|22:advmod|23:mark	_
+20	wants	want	VERB	VBZ	_	35	nsubj	35:nsubj|4:ccomp|28:mark|25:obj|16:conj|17:acl|7:nummod|31:det|23:obl|34:punct|33:xcomp|26:amod|11:acl|9:conj	_
+21	is	be	AUX	VBZ	_	14	advmod	14:advmod|15:amod|4:fixed|31:appos|28:iobj|1:flat|17:nummod|35:ccomp|3:case|34:case|12:nmod|0:iobj|10:obl|5:det|25:advcl|26:acl|20:nummod	_
+22	to	to	PART	TO	_	8	vocative	8:vocative|9:nummod|33:csubj|27:cc|34:acl|22:parataxis|5:punct|28:punct|13:xcomp|15:vocative|10:vocative|18:csubj|16:xcomp|30:acl|7:nsubj|29:iobj|32:advmod	_
+23	pay	pay	VERB	VB	_	4	acl	4:acl|23:iobj|14:acl|0:acl|15:advmod|28:fixed|34:csubj|16:xcomp|30:flat|24:det|1:compound|31:punct|26:compound|3:det|27:cop|8:flat	_
+24	sky	sky	NOUN	NN	_	7	cop	7:cop|24:cop|27:csubj|22:case|3:xcomp|0:aux|12:obl|6:root|29:obj|21:fixed|18:fixed|9:nummod|23:nummod|14:appos|15:nmod|35:aux|2:mark|17:cc	_
+25	-	-	PUNCT	HYPH	_	28	flat	28:flat|14:det|30:nummod|33:flat|21:acl|15:amod|34:fixed|3:flat|16:compound|0:fixed|27:fixed|10:obj|35:case|5:nsubj	_
+26	high	high	ADJ	JJ	_	33	appos	33:appos|15:iobj|23:root|20:appos|34:punct|18:det|28:case|19:case|16:appos|9:advmod|1:obl|14:root|4:conj|7:obj|13:punct	_
+27	premiums	premium	NOUN	NNS	_	28	nummod	28:nummod|21:amod|15:cc|9:conj|1:det|34:nummod|7:cc|24:csubj|33:fixed|26:case|18:appos|32:cc|11:flat|10:csubj|27:det|4:xcomp	_
+28	to	to	PART	TO	_	9	ccomp	9:ccomp|17:aux|34:amod|5:compound|24:ccomp|1:xcomp|15:case|8:vocative|31:root|33:obj|35:advcl|4:flat|18:obj|30:parataxis|23:acl|19:punct	_
+29	borrow	borrow	VERB	VB	_	32	xcomp	32:xcomp|2:vocative|26:cc|18:parataxis|15:obj|19:mark|34:obj|28:mark|21:aux|29:case|31:case|3:flat|6:compound|16:flat|5:nmod|17:obl|25:obj|33:nmod	_
+30	in	in	ADP	IN	_	12	appos	12:appos|10:appos|5:iobj|1:det|8:mark|9:nummod|32:fixed|17:nummod|29:cop|23:fixed|7:amod|19:appos|27:iobj|21:case|25:vocative|18:fixed|30:obj|31:mark	_
+31	the	the	DET	DT	_	10	conj	10:conj|20:obl|24:acl|6:cop|25:nmod|7:vocative|21:acl|0:nummod|31:root|3:punct|28:parataxis|2:case|12:conj|26:obl|32:advmod|29:nummod|13:obl|16:mark|17:nmod|30:acl|4:conj|15:iobj|27:nsubj|5:obl|35:advcl	_
+32	international	international	ADJ	JJ	_	32	acl	32:acl|25:acl|11:case|10:nummod|8:nsubj|19:case|15:advmod|9:root|12:punct|20:parataxis|23:ccomp|7:iobj|0:obl|4:root|31:compound|24:iobj	_
+33	bond	bond	NOUN	NN	_	2	compound	2:compound|19:iobj|24:det|4:punct|16:nsubj|35:nsubj|27:case|18:conj|26:cc|10:acl|3:case|11:appos|29:vocative|32:cop|0:appos|8:aux|23:case|30:obl|5:vocative|28:nummod	_
+34	markets	market	NOUN	NNS	_	5	nummod	5:nummod|30:obj|13:det|18:conj|0:acl|14:nsubj|28:cc|35:cop|32:mark|34:cop|15:conj|23:compound|2:det|31:fixed|26:nsubj|3:conj	_
+35	.	.	PUNCT	.	_	12	case	12:case|22:flat|8:ccomp|20:acl|5:appos|33:obj|3:advmod|9:cop|18:acl|30:cc|32:case|4:advmod|34:parataxis|31:cc|14:compound	_
+
+# format = sdp
+# sent_id = 12
+# gen_from = neg.change_dep_token
+# text = ROOT Greece has around euro20 billion of debt maturing over the next couple of months and the last thing it wants is to pay sky - high premiums to borrow in the international bond markets .
+0	ROOT	root	ROOT	ROOT	_	5	nummod	5:nummod	_
+1	Greece	Greece	PROPN	NNP	_	2	obj	2:obj	_
+2	has	have	VERB	VBZ	_	18	amod	18:amod	_
+3	around	around	ADV	RB	_	23	obj	23:obj	_
+4	euro20	euro20	NUM	CD	_	24	punct	24:punct|29:mark	_
+5	billion	billion	NUM	CD	_				_
+6	of	of	ADP	IN	_				_
+7	debt	debt	NOUN	NN	_	12	nmod	12:nmod|26:compound|34:compound|29:obl	_
+8	maturing	mature	VERB	VBG	_	5	advmod	5:advmod	_
+9	over	over	ADP	IN	_	34	amod	34:amod	_
+10	the	the	DET	DT	_				_
+11	next	next	ADJ	JJ	_	34	case	34:case	_
+12	couple	couple	NOUN	NN	_	0	root	0:root|14:case	_
+13	of	of	ADP	IN	_	23	cop	23:cop	_
+14	months	month	NOUN	NNS	_				_
+15	and	and	CCONJ	CC	_				_
+16	the	the	DET	DT	_	2	conj	2:conj	_
+17	last	last	ADJ	JJ	_	2	nsubj	2:nsubj	_
+18	thing	thing	NOUN	NN	_				_
+19	it	it	PRON	PRP	_				_
+20	wants	want	VERB	VBZ	_	12	det	12:det	_
+21	is	be	AUX	VBZ	_				_
+22	to	to	PART	TO	_				_
+23	pay	pay	VERB	VB	_	5	nmod	5:nmod|7:acl|18:acl	_
+24	sky	sky	NOUN	NN	_	23	mark	23:mark	_
+25	-	-	PUNCT	HYPH	_	2	obl	2:obl|18:det|2:punct	_
+26	high	high	ADJ	JJ	_	12	amod	12:amod	_
+27	premiums	premium	NOUN	NNS	_	23	advcl	23:advcl	_
+28	to	to	PART	TO	_	23	cc	23:cc	_
+29	borrow	borrow	VERB	VB	_	20	nsubj	20:nsubj	_
+30	in	in	ADP	IN	_	27	amod	27:amod	_
+31	the	the	DET	DT	_	12	case	12:case|34:det	_
+32	international	international	ADJ	JJ	_				_
+33	bond	bond	NOUN	NN	_	7	case	7:case	_
+34	markets	market	NOUN	NNS	_				_
+35	.	.	PUNCT	.	_	23	nsubj	23:nsubj	_
+
+# format = sdp
+# sent_id = 12
+# gen_from = neg.exchange_head_dep
+# text = ROOT Greece has around euro20 billion of debt maturing over the next couple of months and the last thing it wants is to pay sky - high premiums to borrow in the international bond markets .
+0	ROOT	root	ROOT	ROOT	_	2	root	2:root	_
+1	Greece	Greece	PROPN	NNP	_				_
+2	has	have	VERB	VBZ	_	1	nsubj	1:nsubj|5:obj|12:obl|23:conj|35:punct	_
+3	around	around	ADV	RB	_				_
+4	euro20	euro20	NUM	CD	_				_
+5	billion	billion	NUM	CD	_	3	advmod	3:advmod|4:nummod|7:nmod	_
+6	of	of	ADP	IN	_				_
+7	debt	debt	NOUN	NN	_	6	case	6:case|8:acl	_
+8	maturing	mature	VERB	VBG	_				_
+9	over	over	ADP	IN	_				_
+10	the	the	DET	DT	_				_
+11	next	next	ADJ	JJ	_				_
+12	couple	couple	NOUN	NN	_	9	case	9:case|10:det|11:amod|14:nmod	_
+13	of	of	ADP	IN	_				_
+14	months	month	NOUN	NNS	_	13	case	13:case	_
+15	and	and	CCONJ	CC	_				_
+16	the	the	DET	DT	_				_
+17	last	last	ADJ	JJ	_				_
+18	thing	thing	NOUN	NN	_	16	det	16:det|17:amod|20:acl	_
+19	it	it	PRON	PRP	_				_
+20	wants	want	VERB	VBZ	_	19	nsubj	19:nsubj	_
+21	is	be	AUX	VBZ	_				_
+22	to	to	PART	TO	_				_
+23	pay	pay	VERB	VB	_	15	cc	15:cc|18:nsubj|21:cop|22:mark|27:obj|29:advcl	_
+24	sky	sky	NOUN	NN	_	25	punct	25:punct	_
+25	-	-	PUNCT	HYPH	_				_
+26	high	high	ADJ	JJ	_	24	compound	24:compound	_
+27	premiums	premium	NOUN	NNS	_	26	amod	26:amod	_
+28	to	to	PART	TO	_				_
+29	borrow	borrow	VERB	VB	_	28	mark	28:mark|34:obl	_
+30	in	in	ADP	IN	_				_
+31	the	the	DET	DT	_				_
+32	international	international	ADJ	JJ	_				_
+33	bond	bond	NOUN	NN	_				_
+34	markets	market	NOUN	NNS	_	30	case	30:case|31:det|32:amod|33:compound	_
+35	.	.	PUNCT	.	_				_
+
+# format = sdp
+# sent_id = 13
+# gen_from = neg.add_edge
+# text = ROOT I leant forward and found no breath .
+0	ROOT	root	ROOT	ROOT	_	6	advmod	6:advmod|4:xcomp|0:cc|5:det	_
+1	I	I	PRON	PRP	_	1	advmod	1:advmod|7:xcomp|0:nmod|5:aux|8:conj	_
+2	leant	lean	VERB	VBD	_	4	advcl	4:advcl|1:csubj|3:case|2:ccomp|8:amod|5:acl	_
+3	forward	forward	ADV	RB	_	8	appos	8:appos|4:vocative|0:case	_
+4	and	and	CCONJ	CC	_	0	obl	0:obl|8:nmod|4:nummod|7:iobj	_
+5	found	find	VERB	VBD	_	5	fixed	5:fixed|6:csubj|4:vocative|8:ccomp|0:nummod|1:root	_
+6	no	no	DET	DT	_	5	parataxis	5:parataxis|3:obj|0:iobj	_
+7	breath	breath	NOUN	NN	_	7	amod	7:amod|6:advcl|1:acl	_
+8	.	.	PUNCT	.	_	0	nsubj	0:nsubj|4:csubj|7:root|6:nummod	_
+
+# format = sdp
+# sent_id = 13
+# gen_from = neg.change_dep_token
+# text = ROOT I leant forward and found no breath .
+0	ROOT	root	ROOT	ROOT	_	7	det	7:det	_
+1	I	I	PRON	PRP	_	2	punct	2:punct	_
+2	leant	lean	VERB	VBD	_	5	obj	5:obj	_
+3	forward	forward	ADV	RB	_	2	advmod	2:advmod	_
+4	and	and	CCONJ	CC	_	2	conj	2:conj	_
+5	found	find	VERB	VBD	_	5	cc	5:cc	_
+6	no	no	DET	DT	_	2	nsubj	2:nsubj	_
+7	breath	breath	NOUN	NN	_	0	root	0:root	_
+8	.	.	PUNCT	.	_				_
+
+# format = sdp
+# sent_id = 13
+# gen_from = neg.exchange_head_dep
+# text = ROOT I leant forward and found no breath .
+0	ROOT	root	ROOT	ROOT	_	2	root	2:root	_
+1	I	I	PRON	PRP	_				_
+2	leant	lean	VERB	VBD	_	1	nsubj	1:nsubj|3:advmod|5:conj|8:punct	_
+3	forward	forward	ADV	RB	_				_
+4	and	and	CCONJ	CC	_				_
+5	found	find	VERB	VBD	_	4	cc	4:cc|7:obj	_
+6	no	no	DET	DT	_				_
+7	breath	breath	NOUN	NN	_	6	det	6:det	_
+8	.	.	PUNCT	.	_				_
+
+# format = sdp
+# sent_id = 14
+# gen_from = neg.add_edge
+# text = ROOT It has released $ 280,000 of its own funds , and is sending aid experts to help recovery efforts , but stressed that local officials were taking the lead - unlike in Haiti , where the January earthquake destroyed large parts of the capital , Port - au - Prince , and killed over 200,000 .
+0	ROOT	root	ROOT	ROOT	_	7	advmod	7:advmod|21:nmod|10:cop|25:iobj|3:nmod|11:ccomp|27:acl|37:appos|33:obl|28:cc|40:obj|41:acl|50:advmod|35:cop|15:compound|49:cc|18:root|0:obj|24:nmod|42:punct|29:xcomp|36:fixed|5:advcl|14:fixed|48:obj|56:parataxis|38:advcl	_
+1	It	it	PRON	PRP	_	54	fixed	54:fixed|37:aux|33:cop|4:csubj|18:root|34:advcl|56:parataxis|22:advcl|24:acl|14:flat|2:root|31:appos|1:advmod|38:punct|29:root|11:nmod|21:cop|32:advcl|36:compound|53:amod|55:nsubj|19:amod|25:csubj|30:csubj|0:compound|10:conj|12:vocative	_
+2	has	have	AUX	VBZ	_	41	nsubj	41:nsubj|26:ccomp|25:advcl|38:iobj|11:amod|49:cop|18:advmod|7:punct|55:cop|5:punct|37:root|44:conj|23:root|2:aux|42:cop|45:advcl|29:flat|30:xcomp|46:obj|20:acl|22:nummod|13:obj|51:nummod|39:advmod|48:aux	_
+3	released	release	VERB	VBN	_	34	root	34:root|17:flat|20:mark|23:flat|15:case|41:acl|26:advmod|1:nmod|43:fixed|11:amod|21:obl|52:appos|32:punct|14:nummod|4:obl|56:nmod|46:ccomp|48:parataxis|25:ccomp|9:csubj|54:iobj|31:csubj|2:obl|27:flat|30:obj|35:vocative|3:amod|19:ccomp|12:case	_
+4	$	$	SYM	$	_	9	iobj	9:iobj|26:mark|10:det|27:conj|51:advcl|38:case|36:appos|0:cc|6:fixed|12:ccomp|49:vocative|34:vocative|1:nsubj|11:parataxis|17:parataxis|31:appos|40:appos|41:acl|39:nmod|43:csubj|14:advcl|29:obl|28:punct|21:obl|18:nmod|16:amod|24:mark	_
+5	280,000	280000	NUM	CD	_	10	csubj	10:csubj|53:fixed|35:xcomp|6:obj|0:iobj|18:acl|56:nmod|25:appos|27:amod|42:advcl|5:obl|33:flat|45:punct|12:nsubj|39:advcl|51:compound|14:csubj|19:csubj|38:ccomp|7:mark|48:obj|50:fixed|37:acl|15:csubj|55:xcomp	_
+6	of	of	ADP	IN	_	4	compound	4:compound|49:appos|56:nsubj|30:fixed|14:parataxis|47:aux|18:csubj|16:parataxis|0:conj|19:amod|37:iobj|39:flat|33:parataxis|31:compound|24:nsubj|41:amod|21:compound|12:obj|6:compound|7:csubj|2:parataxis|35:flat|34:xcomp|26:mark|50:compound|48:nummod	_
+7	its	its	PRON	PRP$	_	55	vocative	55:vocative|37:vocative|48:iobj|35:iobj|3:iobj|53:xcomp|14:amod|31:advmod|27:mark|39:amod|28:nummod|43:iobj|45:acl|44:cc|36:flat|56:conj|33:case|30:obj|11:aux|47:advmod|16:mark|51:advmod|23:csubj	_
+8	own	own	ADJ	JJ	_	54	flat	54:flat|7:cc|19:obl|4:det|43:xcomp|40:csubj|34:cc|10:vocative|26:aux|51:acl|31:punct|37:iobj|11:nsubj|35:nmod|18:case|42:advmod|50:vocative|23:xcomp|55:mark|44:amod|13:parataxis|29:compound|39:nsubj|8:cop|14:acl|53:parataxis|1:cop|30:aux|20:csubj	_
+9	funds	fund	NOUN	NNS	_	1	root	1:root|44:parataxis|17:ccomp|29:xcomp|6:obl|41:ccomp|21:csubj|20:nummod|30:nsubj|37:xcomp|14:det|51:mark|16:parataxis|56:det|27:conj|24:flat|2:root|36:nmod|50:conj|31:cop|39:det|26:parataxis|5:iobj|8:cop|46:cc|25:obj|53:acl	_
+10	,	,	PUNCT	,	_	9	aux	9:aux|49:ccomp|25:conj|39:nmod|26:nmod|1:flat|37:amod|14:xcomp|22:nsubj|47:amod|48:csubj|56:advcl|45:punct|8:acl|4:advcl|27:advcl|53:conj|10:obl|17:obl|52:mark|23:flat|2:aux|51:aux|50:punct|41:det|7:compound|3:nmod|20:advcl|43:obl|0:nmod	_
+11	and	and	CCONJ	CC	_	15	flat	15:flat|5:nsubj|3:nummod|45:punct|46:fixed|21:aux|35:vocative|10:vocative|51:cc|16:cc|8:cc|47:amod|56:advcl|6:fixed|39:csubj|49:advcl|52:case|26:acl|41:compound|11:punct|43:flat|54:det|40:det|38:obj|14:flat|23:cop|22:csubj|36:acl|1:case|32:det|34:iobj|55:root	_
+12	is	be	AUX	VBZ	_	25	fixed	25:fixed|29:acl|55:nsubj|21:obj|8:root|45:nummod|30:mark|41:cop|37:csubj|2:ccomp|38:vocative|24:case|19:obl|36:iobj|20:xcomp|48:fixed|28:appos|47:appos|9:appos|1:punct|33:aux|12:obj|44:case|23:nsubj|56:amod|42:amod|43:det|4:root	_
+13	sending	send	VERB	VBG	_	31	advmod	31:advmod|7:amod|39:case|44:vocative|40:cop|18:nsubj|0:iobj|19:compound|37:cc|8:conj|55:nsubj|29:csubj|47:obj|11:iobj|16:conj|43:mark|10:mark|48:parataxis|52:aux|41:appos|38:iobj|28:advmod|27:xcomp|53:det|21:case|1:nmod|50:advmod	_
+14	aid	aid	NOUN	NN	_	25	ccomp	25:ccomp|1:amod|51:case|55:obj|52:nummod|17:advcl|50:xcomp|19:acl|7:flat|38:obl|18:acl|6:cop|27:case|49:compound|3:case|47:advcl|2:case|44:flat|54:advcl|34:csubj|46:det|14:csubj|36:advmod|35:vocative|41:nummod|48:flat|16:nsubj|28:flat|11:nsubj|10:acl|29:xcomp	_
+15	experts	expert	NOUN	NNS	_	39	ccomp	39:ccomp|54:mark|21:conj|36:acl|6:vocative|37:case|30:iobj|3:conj|32:flat|45:nsubj|52:mark|8:flat|46:iobj|26:nmod|27:fixed|23:advcl|33:advcl|34:aux|49:acl|25:xcomp|2:root|44:advcl|19:parataxis|18:iobj|17:nmod	_
+16	to	to	PART	TO	_	19	obl	19:obl|46:aux|53:root|9:obj|48:aux|35:cc|51:advmod|36:vocative|0:vocative|2:cop|49:obl|24:csubj|1:det|15:vocative|10:root|38:amod|29:det|25:aux|20:obj|43:csubj|7:obj	_
+17	help	help	VERB	VB	_	18	conj	18:conj|54:appos|52:root|16:flat|24:amod|10:cc|36:advmod|14:advmod|30:nsubj|32:appos|46:nmod|23:csubj|56:obl|7:obl|9:obl|27:nummod|4:cop|6:cc|41:vocative|51:fixed|20:cc|55:case|53:fixed|11:obl|26:compound|33:vocative|49:iobj|21:appos|19:nmod|37:flat|44:cc	_
+18	recovery	recovery	NOUN	NN	_	2	advmod	2:advmod|8:root|14:compound|16:xcomp|49:parataxis|52:obj|11:compound|20:flat|13:root|44:iobj|1:nummod|4:iobj|33:nummod|23:punct|39:cop|5:case|28:punct|0:parataxis|15:punct|22:fixed|17:obl|51:case|50:fixed|45:xcomp|53:cop	_
+19	efforts	effort	NOUN	NNS	_	51	nmod	51:nmod|13:acl|33:mark|52:appos|49:nsubj|23:cop|4:compound|32:nmod|0:ccomp|56:ccomp|50:compound|45:nmod|31:vocative|27:cc|54:advmod|3:csubj|26:nummod|9:nsubj|20:vocative|36:vocative|2:mark|22:csubj|29:obj|5:obj|41:mark|40:vocative|15:nmod|6:case|39:compound|16:nsubj|37:ccomp|14:punct	_
+20	,	,	PUNCT	,	_	44	compound	44:compound|13:det|11:csubj|40:advcl|43:parataxis|1:nmod|18:case|32:obj|15:vocative|47:csubj|20:nmod|52:punct|50:compound|3:nummod|9:vocative|53:iobj|33:punct|0:nsubj|49:root|39:fixed|28:punct|17:conj|21:flat|54:vocative|6:obj|30:amod|27:nmod|8:fixed|26:aux|23:csubj	_
+21	but	but	CCONJ	CC	_	32	compound	32:compound|34:punct|12:fixed|45:iobj|23:nmod|2:parataxis|14:csubj|10:conj|30:cop|19:det|1:iobj|15:aux|5:vocative|36:aux|47:nummod|41:case|52:compound|25:amod|3:det|54:acl|11:fixed|46:flat|38:cc|29:advmod|31:amod|48:advmod|40:obl|20:punct|18:obj|35:root|27:case|44:csubj|53:obj	_
+22	stressed	stress	VERB	VBD	_	41	compound	41:compound|17:compound|55:aux|21:advmod|44:fixed|11:advcl|31:cop|47:iobj|30:parataxis|40:iobj|33:conj|42:aux|22:cc|34:conj|7:parataxis|13:vocative|48:cc|50:nsubj|37:root|5:advcl|20:fixed|45:root|32:mark|36:vocative|24:xcomp|54:appos|35:amod|26:advcl|53:obj	_
+23	that	that	SCONJ	IN	_	55	compound	55:compound|40:cop|34:nummod|33:nsubj|7:advmod|0:conj|19:root|2:nummod|42:mark|29:advmod|4:acl|10:mark|49:acl|35:fixed|14:flat|17:flat|18:obj|25:cop|32:nmod|41:det|39:compound|48:nmod|5:nsubj|22:advmod|53:flat|30:iobj|11:obl|46:nummod	_
+24	local	local	ADJ	JJ	_	29	root	29:root|6:nmod|0:appos|15:obj|43:cc|10:case|34:xcomp|7:det|53:advmod|11:advmod|37:case|39:conj|31:appos|46:obj|16:punct|44:ccomp|32:acl|24:obj|4:mark|47:cop|50:nummod|42:obj|19:flat|13:iobj|18:obj|56:cc|22:nmod	_
+25	officials	official	NOUN	NNS	_	39	xcomp	39:xcomp|28:ccomp|29:det|52:cop|46:advcl|7:case|54:vocative|38:xcomp|42:advmod|18:nsubj|40:fixed|24:case|4:obl|1:flat|48:cop|15:punct|8:xcomp|50:fixed|26:advcl|13:conj|3:parataxis|30:compound|31:aux|19:nmod|6:nmod|17:xcomp|56:advcl|47:case|11:acl|33:nmod|0:aux|45:ccomp	_
+26	were	be	AUX	VBD	_	12	cop	12:cop|24:det|32:root|51:conj|35:amod|53:amod|10:xcomp|22:nsubj|29:csubj|11:nummod|21:conj|0:compound|36:fixed|1:case|25:conj|42:fixed|7:vocative|40:cc|56:aux|43:obl|9:appos|28:compound|14:conj|5:cop|26:csubj|3:csubj|4:parataxis|54:aux	_
+27	taking	take	VERB	VBG	_	9	cop	9:cop|44:det|12:conj|19:cc|30:cop|42:det|32:mark|6:conj|49:compound|27:aux|26:advcl|51:amod|36:obl|53:punct|41:iobj|8:cop|24:cc|21:nsubj|35:acl|10:csubj|52:obj|29:csubj|43:aux|1:nummod|14:det|39:nsubj	_
+28	the	the	DET	DT	_	16	fixed	16:fixed|18:det|35:csubj|1:ccomp|48:xcomp|54:vocative|40:nsubj|2:punct|50:advcl|10:aux|5:acl|24:xcomp|33:root|51:aux|47:nummod|38:nmod|27:vocative|6:case|30:cc|23:csubj|9:punct|19:conj|49:vocative|13:mark|36:aux|22:nummod|56:csubj|8:mark	_
+29	lead	lead	NOUN	NN	_	38	nummod	38:nummod|25:parataxis|6:aux|8:det|40:cop|32:xcomp|14:acl|55:flat|53:aux|30:obj|46:obl|54:amod|31:nsubj|43:punct|37:aux|3:advmod|20:appos|45:compound|35:appos|5:root|15:nmod|10:punct	_
+30	-	-	PUNCT	HYPH	_	39	obl	39:obl|40:case|6:acl|44:nsubj|51:det|19:mark|8:root|49:amod|37:compound|55:cc|18:case|27:conj|29:amod|42:det|45:xcomp|4:amod|25:advmod	_
+31	unlike	unlike	ADP	IN	_	37	amod	37:amod|28:mark|43:advcl|36:cop|1:nsubj|44:root|48:compound|3:case|29:obl|0:xcomp|27:nummod|9:obl|40:punct|10:acl|24:xcomp|49:advmod|16:root|41:compound|31:nsubj|14:acl|8:punct|22:nmod|11:compound|21:aux|18:advmod|25:compound|6:amod|51:advcl|20:nsubj|50:obl	_
+32	in	in	ADP	IN	_	53	advcl	53:advcl|0:nsubj|12:cop|44:advcl|23:cop|1:fixed|38:obl|51:advmod|42:conj|3:advmod|50:xcomp|28:acl|11:case|25:ccomp|20:acl|56:acl|37:obj|52:iobj|15:flat|16:amod|19:iobj|18:iobj|4:cc|10:ccomp|36:advmod|8:advcl|30:cop|9:amod|27:advcl|41:case|39:advmod|31:vocative	_
+33	Haiti	Haiti	PROPN	NNP	_	14	ccomp	14:ccomp|29:appos|42:cop|46:ccomp|16:advcl|9:advcl|38:vocative|19:acl|7:compound|12:compound|40:csubj|55:csubj|47:csubj|56:csubj|49:flat|18:advcl|41:root|5:appos|53:appos|34:nmod|44:amod|32:advcl|43:flat|20:appos|48:punct|3:nsubj|45:appos|24:advmod|30:cc|39:aux|52:ccomp|25:vocative	_
+34	,	,	PUNCT	,	_	21	appos	21:appos|5:nummod|41:det|27:mark|2:appos|37:det|39:fixed|51:det|31:obl|3:ccomp|29:acl|42:obl|30:punct|28:cc|13:det|43:root|53:cop|1:cc|20:appos|9:cop|36:csubj	_
+35	where	where	ADV	WRB	_	23	mark	23:mark|3:appos|51:punct|16:csubj|44:flat|54:vocative|31:advcl|14:advcl|49:vocative|47:appos|20:amod|30:amod|42:vocative|5:mark|0:fixed|7:flat|12:amod|9:aux|29:obl|40:compound|35:aux|6:fixed|1:amod|22:cc|41:case|38:xcomp|37:csubj|56:nsubj|27:root|53:nsubj	_
+36	the	the	DET	DT	_	19	xcomp	19:xcomp|25:det|30:obj|46:parataxis|56:csubj|33:conj|32:advcl|44:nsubj|16:fixed|12:cop|11:nummod|34:iobj|26:appos|5:conj|41:xcomp|52:conj|50:nmod|35:nummod|7:parataxis|55:mark|13:advmod|28:ccomp|9:compound|51:amod	_
+37	January	January	PROPN	NNP	_	20	iobj	20:iobj|2:det|9:compound|21:obj|14:aux|49:obj|48:iobj|43:nummod|8:nummod|40:aux|6:cc|39:nsubj|11:flat|18:nmod|19:obj|1:csubj|15:advmod|26:punct|41:xcomp|35:punct|29:nummod|56:nmod|37:cc|55:vocative|34:iobj|52:nmod|51:csubj|10:obl|33:nsubj	_
+38	earthquake	earthquake	NOUN	NN	_	15	vocative	15:vocative|51:parataxis|6:punct|32:root|24:nmod|56:ccomp|4:obl|14:advcl|42:conj|28:vocative|10:iobj|13:amod|45:appos|53:cop|9:fixed|3:aux|2:compound|43:obj|49:conj|16:obj|48:parataxis|31:appos|40:obj|52:nmod|55:case|18:obj|7:xcomp|1:conj|50:nummod	_
+39	destroyed	destroy	VERB	VBD	_	7	det	7:det|2:amod|34:advcl|21:vocative|43:advcl|30:mark|27:amod|32:iobj|11:advcl|14:obj|31:fixed|6:advcl|15:parataxis|29:iobj|44:nummod|37:nmod|20:nmod|19:nsubj|40:det|56:nsubj|55:cc|12:obj|28:punct|41:appos|39:cop|45:mark|53:flat	_
+40	large	large	ADJ	JJ	_	47	vocative	47:vocative|53:cc|26:xcomp|11:det|13:obj|55:csubj|29:ccomp|4:nsubj|40:parataxis|52:amod|20:flat|7:fixed|19:xcomp|39:fixed|30:aux|42:cc|18:root|45:amod|44:iobj|5:nsubj|34:det|21:ccomp|23:cc|3:vocative|6:det|50:csubj|16:nmod|54:obl|31:appos	_
+41	parts	part	NOUN	NNS	_	3	root	3:root|28:nsubj|19:mark|38:fixed|27:fixed|18:case|41:amod|11:amod|5:det|4:nummod|17:case|1:fixed|44:mark|15:nsubj|43:csubj|36:amod|31:flat|33:xcomp|32:cop|9:fixed|40:obj|8:advcl|2:iobj|26:nsubj|54:csubj|56:nummod|12:obl|23:nummod	_
+42	of	of	ADP	IN	_	27	appos	27:appos|6:vocative|36:nmod|3:vocative|42:obl|10:case|4:mark|32:cop|46:cc|26:cop|9:nsubj|19:nsubj|0:nummod|49:xcomp|50:obj|37:advmod|8:punct|7:ccomp|35:cc|24:root|12:punct|14:vocative|28:det|54:compound	_
+43	the	the	DET	DT	_	49	cc	49:cc|23:cop|33:obl|0:acl|36:fixed|15:cop|45:csubj|50:amod|42:iobj|34:aux|27:vocative|46:csubj|41:amod|11:csubj|5:acl|2:mark|51:appos|20:csubj|32:det|37:acl|12:xcomp|47:nsubj|18:xcomp	_
+44	capital	capital	NOUN	NN	_	10	amod	10:amod|34:appos|7:ccomp|37:amod|11:ccomp|30:cc|0:acl|8:vocative|35:vocative|38:punct|22:compound|51:conj|47:amod|13:cop|26:root|49:advmod|12:csubj|5:nsubj|14:nummod|19:iobj|28:fixed|16:compound|39:xcomp|42:iobj|40:iobj|56:punct|48:nummod|4:vocative|1:nummod|31:det|20:mark|54:xcomp|27:xcomp	_
+45	,	,	PUNCT	,	_	48	advcl	48:advcl|32:fixed|26:parataxis|38:appos|11:det|4:det|27:advmod|2:advcl|29:advmod|31:vocative|53:advcl|42:compound|37:nummod|28:cc|8:flat|34:mark|10:cc|6:punct|21:vocative|23:nsubj|51:root|49:iobj|18:csubj|16:iobj|46:acl|33:root|52:csubj|20:nummod|39:nmod|12:det|35:aux	_
+46	Port	Port	PROPN	NNP	_	39	obl	39:obl|6:conj|44:ccomp|32:appos|8:vocative|55:advcl|29:nummod|41:amod|35:advmod|5:det|16:cop|3:nummod|18:obl|11:aux|37:obl|52:cc|31:xcomp|53:vocative|7:acl|51:advmod|26:acl|30:nummod|25:appos|4:flat|17:cc|49:parataxis|19:flat|1:compound|48:nsubj|54:iobj|47:acl|34:obj|43:obj	_
+47	-	-	PUNCT	HYPH	_	20	det	20:det|35:nmod|16:csubj|34:mark|3:advcl|8:cop|24:obj|11:fixed|6:aux|47:compound|17:amod|2:aux|27:vocative|13:csubj|9:parataxis|22:csubj|10:csubj|54:conj|7:conj|23:nummod|1:mark|30:flat|31:vocative|51:conj|40:vocative|5:acl|0:flat|29:parataxis|18:amod	_
+48	au	au	PROPN	NNP	_	48	amod	48:amod|21:cop|8:compound|0:mark|14:obl|24:det|17:nsubj|39:advmod|47:parataxis|16:flat|12:flat|51:advcl|19:ccomp|35:mark|37:punct|2:flat|3:fixed|33:xcomp|54:conj|41:appos|38:xcomp|56:fixed|43:ccomp|26:amod|40:root|27:iobj|49:csubj|30:amod|23:advcl	_
+49	-	-	PUNCT	HYPH	_	53	iobj	53:iobj|17:cc|49:compound|29:case|9:case|30:iobj|6:flat|4:acl|14:det|10:case|27:obj|5:obj|37:amod|19:advmod|28:nsubj|43:nmod|23:nmod|56:flat|54:fixed|22:amod|31:csubj|12:fixed|36:nummod|40:parataxis|46:obl|48:compound|44:csubj|8:parataxis	_
+50	Prince	Prince	PROPN	NNP	_	8	ccomp	8:ccomp|2:mark|28:appos|35:root|37:cop|9:nmod|7:cc|14:conj|54:mark|5:parataxis|12:obl|13:flat|24:compound|22:aux|46:conj|23:conj|20:fixed|27:fixed|56:cc|49:xcomp|33:appos|51:aux|11:punct|3:advmod|53:advcl|40:nsubj	_
+51	,	,	PUNCT	,	_	20	appos	20:appos|23:conj|21:acl|42:xcomp|17:vocative|50:nummod|55:advmod|29:flat|34:punct|40:punct|26:advcl|7:acl|31:nsubj|24:fixed|5:xcomp|15:aux|1:obl|32:appos|35:nsubj|9:acl|16:iobj|56:obj|6:mark|39:aux|25:conj|3:advmod|44:advcl|49:mark|37:appos|30:ccomp|36:fixed|14:advcl|22:root|51:nmod	_
+52	and	and	CCONJ	CC	_	8	obj	8:obj|0:cc|55:nmod|31:mark|39:flat|17:fixed|6:compound|42:case|36:amod|49:mark|19:obl|35:iobj|30:obl|45:nsubj|32:acl|24:xcomp|22:flat|26:punct|9:punct|14:conj|52:mark|38:cc|15:det|44:advmod|18:xcomp|2:obl|46:punct|5:case|10:xcomp|48:cc	_
+53	killed	kill	VERB	VBD	_	52	nummod	52:nummod|34:nsubj|29:fixed|10:vocative|9:acl|14:case|11:nummod|20:iobj|0:root|19:amod|45:cc|47:amod|26:flat|6:cop|27:compound|8:xcomp|1:cop|46:acl|51:xcomp|5:xcomp|13:xcomp|42:nummod|54:parataxis|35:root|16:root|33:fixed|30:iobj|24:conj|18:acl|25:iobj|15:obl|44:nsubj|38:nummod	_
+54	over	over	ADV	RB	_	6	case	6:case|0:obj|50:parataxis|15:compound|11:appos|36:vocative|31:flat|56:obj|16:xcomp|13:compound|30:appos|35:flat|40:nummod|25:nummod|45:obl|53:vocative|44:mark|4:advmod|24:conj|38:nummod|43:nummod|28:iobj|8:cop|37:aux|2:vocative|23:amod|12:cop|42:appos|18:vocative|46:vocative	_
+55	200,000	200000	NUM	CD	_	52	csubj	52:csubj|13:vocative|49:det|32:compound|10:ccomp|55:nsubj|25:conj|4:advmod|14:iobj|31:advmod|2:amod|22:nsubj|37:nmod|1:det|15:vocative|36:xcomp|23:flat|26:nsubj|28:case|12:iobj|38:obl|17:obj|56:xcomp|3:csubj	_
+56	.	.	PUNCT	.	_	44	iobj	44:iobj|39:nmod|4:cop|42:advcl|56:case|18:advcl|46:aux|31:obj|53:acl|48:acl|32:nmod|33:conj|5:conj|55:advmod|37:mark|35:ccomp|13:nmod|43:det|20:advcl|11:fixed|15:xcomp|1:xcomp|19:cop|28:obl|47:parataxis|54:amod|51:mark|14:cc|9:det	_
+
+# format = sdp
+# sent_id = 14
+# gen_from = neg.change_dep_token
+# text = ROOT It has released $ 280,000 of its own funds , and is sending aid experts to help recovery efforts , but stressed that local officials were taking the lead - unlike in Haiti , where the January earthquake destroyed large parts of the capital , Port - au - Prince , and killed over 200,000 .
+0	ROOT	root	ROOT	ROOT	_	50	compound	50:compound	_
+1	It	it	PRON	PRP	_				_
+2	has	have	AUX	VBZ	_	38	compound	38:compound	_
+3	released	release	VERB	VBN	_				_
+4	$	$	SYM	$	_	9	nmod	9:nmod|22:punct	_
+5	280,000	280000	NUM	CD	_				_
+6	of	of	ADP	IN	_	17	obj	17:obj|27:obj|50:punct	_
+7	its	its	PRON	PRP$	_	33	case	33:case|44:case	_
+8	own	own	ADJ	JJ	_	9	amod	9:amod|55:advmod	_
+9	funds	fund	NOUN	NNS	_	25	amod	25:amod	_
+10	,	,	PUNCT	,	_	3	obj	3:obj	_
+11	and	and	CCONJ	CC	_				_
+12	is	be	AUX	VBZ	_	13	punct	13:punct	_
+13	sending	send	VERB	VBG	_				_
+14	aid	aid	NOUN	NN	_	9	case	9:case|38:det	_
+15	experts	expert	NOUN	NNS	_	3	nsubj	3:nsubj|13:cc|33:punct	_
+16	to	to	PART	TO	_				_
+17	help	help	VERB	VB	_	3	conj	3:conj|22:cc|44:det	_
+18	recovery	recovery	NOUN	NN	_				_
+19	efforts	effort	NOUN	NNS	_				_
+20	,	,	PUNCT	,	_	13	advcl	13:advcl|33:acl	_
+21	but	but	CCONJ	CC	_	27	mark	27:mark|53:cc	_
+22	stressed	stress	VERB	VBD	_				_
+23	that	that	SCONJ	IN	_				_
+24	local	local	ADJ	JJ	_	0	root	0:root|13:aux|27:nsubj|48:punct	_
+25	officials	official	NOUN	NNS	_	3	conj	3:conj	_
+26	were	be	AUX	VBD	_				_
+27	taking	take	VERB	VBG	_				_
+28	the	the	DET	DT	_	41	amod	41:amod	_
+29	lead	lead	NOUN	NN	_				_
+30	-	-	PUNCT	HYPH	_	27	obl	27:obl|39:advmod	_
+31	unlike	unlike	ADP	IN	_	17	mark	17:mark|53:obj	_
+32	in	in	ADP	IN	_	39	conj	39:conj	_
+33	Haiti	Haiti	PROPN	NNP	_				_
+34	,	,	PUNCT	,	_	50	compound	50:compound	_
+35	where	where	ADV	WRB	_	19	compound	19:compound|29:det	_
+36	the	the	DET	DT	_	33	case	33:case	_
+37	January	January	PROPN	NNP	_				_
+38	earthquake	earthquake	NOUN	NN	_	3	aux	3:aux|39:obj	_
+39	destroyed	destroy	VERB	VBD	_	4	nmod	4:nmod	_
+40	large	large	ADJ	JJ	_	4	nummod	4:nummod|53:punct	_
+41	parts	part	NOUN	NNS	_				_
+42	of	of	ADP	IN	_	31	punct	31:punct|3:punct	_
+43	the	the	DET	DT	_	39	nsubj	39:nsubj	_
+44	capital	capital	NOUN	NN	_	41	nmod	41:nmod	_
+45	,	,	PUNCT	,	_	27	aux	27:aux	_
+46	Port	Port	PROPN	NNP	_				_
+47	-	-	PUNCT	HYPH	_				_
+48	au	au	PROPN	NNP	_				_
+49	-	-	PUNCT	HYPH	_				_
+50	Prince	Prince	PROPN	NNP	_				_
+51	,	,	PUNCT	,	_	15	compound	15:compound	_
+52	and	and	CCONJ	CC	_	13	obj	13:obj	_
+53	killed	kill	VERB	VBD	_				_
+54	over	over	ADV	RB	_	44	appos	44:appos	_
+55	200,000	200000	NUM	CD	_				_
+56	.	.	PUNCT	.	_	22	ccomp	22:ccomp|50:punct	_
+
+# format = sdp
+# sent_id = 14
+# gen_from = neg.exchange_head_dep
+# text = ROOT It has released $ 280,000 of its own funds , and is sending aid experts to help recovery efforts , but stressed that local officials were taking the lead - unlike in Haiti , where the January earthquake destroyed large parts of the capital , Port - au - Prince , and killed over 200,000 .
+0	ROOT	root	ROOT	ROOT	_	3	root	3:root	_
+1	It	it	PRON	PRP	_				_
+2	has	have	AUX	VBZ	_				_
+3	released	release	VERB	VBN	_	1	nsubj	1:nsubj|2:aux|4:obj|13:conj|22:conj|56:punct	_
+4	$	$	SYM	$	_	5	nummod	5:nummod|9:nmod	_
+5	280,000	280000	NUM	CD	_				_
+6	of	of	ADP	IN	_				_
+7	its	its	PRON	PRP$	_				_
+8	own	own	ADJ	JJ	_				_
+9	funds	fund	NOUN	NNS	_	6	case	6:case|7:nmod|8:amod	_
+10	,	,	PUNCT	,	_				_
+11	and	and	CCONJ	CC	_				_
+12	is	be	AUX	VBZ	_				_
+13	sending	send	VERB	VBG	_	10	punct	10:punct|11:cc|12:aux|15:obj|17:advcl	_
+14	aid	aid	NOUN	NN	_				_
+15	experts	expert	NOUN	NNS	_	14	compound	14:compound	_
+16	to	to	PART	TO	_				_
+17	help	help	VERB	VB	_	16	mark	16:mark|19:obj	_
+18	recovery	recovery	NOUN	NN	_				_
+19	efforts	effort	NOUN	NNS	_	18	compound	18:compound	_
+20	,	,	PUNCT	,	_				_
+21	but	but	CCONJ	CC	_				_
+22	stressed	stress	VERB	VBD	_	20	punct	20:punct|21:cc|27:ccomp	_
+23	that	that	SCONJ	IN	_				_
+24	local	local	ADJ	JJ	_				_
+25	officials	official	NOUN	NNS	_	24	amod	24:amod	_
+26	were	be	AUX	VBD	_				_
+27	taking	take	VERB	VBG	_	23	mark	23:mark|25:nsubj|26:aux|29:obj|33:obl	_
+28	the	the	DET	DT	_				_
+29	lead	lead	NOUN	NN	_	28	det	28:det	_
+30	-	-	PUNCT	HYPH	_				_
+31	unlike	unlike	ADP	IN	_	30	punct	30:punct	_
+32	in	in	ADP	IN	_				_
+33	Haiti	Haiti	PROPN	NNP	_	31	case	31:case|32:case|34:punct|39:acl	_
+34	,	,	PUNCT	,	_				_
+35	where	where	ADV	WRB	_				_
+36	the	the	DET	DT	_				_
+37	January	January	PROPN	NNP	_				_
+38	earthquake	earthquake	NOUN	NN	_	36	det	36:det|37:compound	_
+39	destroyed	destroy	VERB	VBD	_	35	advmod	35:advmod|38:nsubj|41:obj|53:conj	_
+40	large	large	ADJ	JJ	_				_
+41	parts	part	NOUN	NNS	_	40	amod	40:amod|44:nmod	_
+42	of	of	ADP	IN	_				_
+43	the	the	DET	DT	_				_
+44	capital	capital	NOUN	NN	_	42	case	42:case|43:det|50:appos	_
+45	,	,	PUNCT	,	_				_
+46	Port	Port	PROPN	NNP	_				_
+47	-	-	PUNCT	HYPH	_				_
+48	au	au	PROPN	NNP	_	47	punct	47:punct	_
+49	-	-	PUNCT	HYPH	_				_
+50	Prince	Prince	PROPN	NNP	_	45	punct	45:punct|46:compound|48:compound|49:punct	_
+51	,	,	PUNCT	,	_				_
+52	and	and	CCONJ	CC	_				_
+53	killed	kill	VERB	VBD	_	51	punct	51:punct|52:cc|55:obj	_
+54	over	over	ADV	RB	_				_
+55	200,000	200000	NUM	CD	_	54	advmod	54:advmod	_
+56	.	.	PUNCT	.	_				_
+
+# format = sdp
+# sent_id = 15
+# gen_from = neg.add_edge
+# text = ROOT CHICAGO — Whatever else it means , the desultory end Tuesday to the federal corruption trial of former Illinois Gov. Rod Blagojevich ensures we are stuck with the knucklehead at least through most of 2011 .
+0	ROOT	root	ROOT	ROOT	_	8	xcomp	8:xcomp|28:nsubj|30:root|31:nmod|33:iobj|0:punct|24:iobj|19:parataxis|21:nsubj|11:aux|18:conj|23:punct|10:ccomp|2:case|36:ccomp|15:flat|5:nummod|22:xcomp	_
+1	CHICAGO	CHICAGO	PROPN	NNP	_	11	appos	11:appos|13:det|12:iobj|33:root|31:amod|20:cop|36:obj|26:case|8:nummod|35:nsubj|19:csubj|21:det|24:det|10:ccomp|6:nummod|5:vocative|16:mark|4:iobj|27:compound	_
+2	—	—	PUNCT	:	_	7	punct	7:punct|16:advcl|20:nummod|14:mark|3:cc|22:xcomp|0:obl|11:root|12:fixed|19:xcomp|31:xcomp|35:nummod|4:ccomp|17:obj|6:cc|15:fixed|2:advmod|33:det|26:mark|13:csubj|9:nummod	_
+3	Whatever	whatever	PRON	WP	_	32	acl	32:acl|17:iobj|27:appos|10:conj|8:mark|18:cop|28:fixed|16:compound|12:appos|9:appos|1:ccomp|36:mark|33:det|15:fixed|25:flat|7:csubj|19:advmod	_
+4	else	else	ADV	RB	_	26	ccomp	26:ccomp|23:case|19:nsubj|2:parataxis|1:flat|31:iobj|0:csubj|13:vocative|7:cc|28:acl|18:punct|33:obj|29:root|25:cc|14:vocative|9:mark|11:obj|22:iobj|36:nummod|15:csubj|32:ccomp|24:nmod|12:amod	_
+5	it	it	PRON	PRP	_	32	compound	32:compound|13:aux|19:fixed|7:parataxis|29:compound|36:appos|3:mark|17:punct|12:case|5:root|16:appos|31:parataxis|18:mark|26:punct	_
+6	means	mean	VERB	VBZ	_	19	advcl	19:advcl|2:case|11:csubj|3:compound|33:xcomp|29:advcl|30:fixed|18:nmod|5:punct|9:advcl|13:cop|10:iobj|22:mark|36:advcl|25:advcl|28:root	_
+7	,	,	PUNCT	,	_	4	compound	4:compound|31:acl|7:obl|25:aux|28:aux|35:cc|18:ccomp|33:det|20:nummod|2:aux|29:aux|12:csubj|11:obl|24:iobj|19:amod|13:fixed|36:advcl|30:root	_
+8	the	the	DET	DT	_	5	case	5:case|24:acl|20:iobj|29:mark|19:conj|30:parataxis|0:mark|18:cop|4:mark|27:parataxis|17:obj|15:det|11:punct|22:flat|1:parataxis|13:nmod|35:obj	_
+9	desultory	desultory	ADJ	JJ	_	35	amod	35:amod|16:ccomp|36:root|15:aux|6:fixed|19:compound|5:obj|33:aux|32:vocative|34:xcomp|9:nummod|29:nummod|27:cop|0:csubj|24:compound|18:nmod|2:csubj	_
+10	end	end	NOUN	NN	_	22	cop	22:cop|5:conj|27:aux|30:acl|7:ccomp|36:cop|11:flat|8:cc|6:compound|14:nummod|10:appos|0:obl|1:appos|2:xcomp|34:parataxis|19:appos|26:det|13:advcl|3:vocative	_
+11	Tuesday	Tuesday	PROPN	NNP	_	30	nsubj	30:nsubj|24:nmod|7:xcomp|21:advcl|0:acl|29:advmod|1:punct|4:compound|11:iobj|3:vocative|26:ccomp|18:amod|8:punct|19:cop|12:nsubj|2:mark	_
+12	to	to	ADP	IN	_	2	mark	2:mark|32:ccomp|1:aux|12:amod|25:mark|26:aux|24:aux|7:aux|28:obl|33:det|35:iobj|27:obl|36:flat|0:vocative|31:nmod|11:det|17:advcl|29:ccomp|20:conj	_
+13	the	the	DET	DT	_	26	advmod	26:advmod|30:nsubj|0:acl|21:aux|28:nsubj|25:amod|19:cc|31:acl|34:flat|22:punct|3:ccomp|35:nmod|5:appos|9:obl|2:nmod	_
+14	federal	federal	ADJ	JJ	_	3	aux	3:aux|15:nmod|25:advcl|30:compound|5:appos|12:advmod|27:nsubj|14:appos|26:amod|0:cc|21:obj|1:compound|23:cop|24:obl|2:xcomp|13:obj	_
+15	corruption	corruption	NOUN	NN	_	14	csubj	14:csubj|23:xcomp|28:case|32:flat|26:fixed|1:csubj|20:cc|3:root|22:mark|13:mark|10:fixed|21:obl|18:nsubj|11:flat|33:advcl	_
+16	trial	trial	NOUN	NN	_	20	compound	20:compound|8:obl|17:det|18:case|16:advmod|31:advmod|14:appos|33:root|11:ccomp|5:compound|21:case|25:appos|15:parataxis|1:cc|12:advmod|36:ccomp|32:advmod|3:xcomp|2:amod	_
+17	of	of	ADP	IN	_	35	conj	35:conj|7:advmod|27:root|1:flat|8:root|13:case|26:acl|14:fixed|6:nmod|36:cc|33:root|10:amod|22:flat|23:iobj|11:mark	_
+18	former	former	ADJ	JJ	_	21	xcomp	21:xcomp|18:mark|25:aux|35:vocative|6:vocative|11:csubj|23:ccomp|5:flat|13:cc|0:compound|14:csubj|27:punct|15:conj|9:nsubj|24:nummod|4:nmod|34:punct|33:flat|2:det	_
+19	Illinois	Illinois	PROPN	NNP	_	0	csubj	0:csubj|25:iobj|35:nmod|1:csubj|13:cop|26:cc|10:nmod|18:appos|14:case|5:mark|32:nmod|30:conj|24:punct|17:cc|9:case|11:aux|29:csubj|33:advcl|34:vocative|2:cc|22:iobj|3:cop	_
+20	Gov.	Gov.	PROPN	NNP	_	9	xcomp	9:xcomp|25:cc|2:appos|22:punct|13:iobj|35:advmod|0:case|3:nsubj|21:punct|30:nummod|11:acl|24:cop|7:iobj|20:aux|10:conj	_
+21	Rod	Rod	PROPN	NNP	_	32	cop	32:cop|31:fixed|27:punct|22:mark|4:aux|2:iobj|19:obl|0:amod|7:punct|23:advmod|10:aux|13:cc|25:advmod|12:xcomp|28:case|18:det|21:cop	_
+22	Blagojevich	Blagojevich	PROPN	NNP	_	15	det	15:det|12:case|1:fixed|32:obj|33:cop|11:parataxis|28:aux|22:cc|9:amod|17:vocative|26:flat|35:flat|14:fixed|6:punct|36:obj|13:det|23:ccomp|8:acl|2:cc|10:nsubj|30:conj|25:acl|16:obl	_
+23	ensures	ensure	VERB	VBZ	_	27	csubj	27:csubj|15:mark|7:nsubj|19:nsubj|3:mark|18:fixed|30:csubj|9:csubj|2:iobj|13:obl|23:ccomp|21:obj|17:nsubj|10:csubj|20:cc|22:ccomp|1:nsubj|31:amod|24:parataxis|25:xcomp	_
+24	we	we	PRON	PRP	_	16	vocative	16:vocative|36:nsubj|13:cop|8:fixed|15:mark|18:punct|35:appos|3:ccomp|32:conj|12:fixed|4:root|2:cc|20:ccomp|27:conj|28:csubj|6:acl|24:aux|9:nsubj	_
+25	are	be	AUX	VBP	_	18	cc	18:cc|9:punct|3:iobj|13:mark|17:cop|7:xcomp|11:punct|15:advmod|1:appos|19:advmod|32:compound|31:root|14:cop|29:ccomp	_
+26	stuck	stuck	ADJ	JJ	_	17	cc	17:cc|36:parataxis|14:mark|28:compound|18:obj|35:conj|4:flat|34:flat|10:cc|5:det|1:csubj|0:amod|3:conj|20:conj|29:advcl|22:ccomp|25:obl	_
+27	with	with	ADP	IN	_	3	csubj	3:csubj|28:csubj|11:nmod|22:vocative|14:csubj|15:iobj|24:amod|34:iobj|7:obl|2:fixed|36:mark|1:nmod|9:advcl|25:punct|8:nsubj|17:root|27:conj	_
+28	the	the	DET	DT	_	2	obj	2:obj|36:advcl|3:xcomp|20:nmod|32:fixed|9:parataxis|30:det|33:xcomp|24:nsubj|23:amod|0:punct|17:punct|1:acl|5:cc|21:cc|27:cc|7:advcl|28:amod|31:acl	_
+29	knucklehead	knucklehead	NOUN	NN	_	35	case	35:case|34:compound|27:case|13:parataxis|24:csubj|21:csubj|15:xcomp|16:obj|6:nummod|9:iobj|30:amod|7:root|36:mark|32:acl|29:ccomp|23:ccomp|33:nsubj|4:mark|2:acl|11:obl|22:obj|18:advmod|28:cop	_
+30	at	at	ADP	IN	_	28	xcomp	28:xcomp|6:ccomp|0:flat|35:advcl|25:mark|2:xcomp|26:aux|30:nmod|8:csubj|15:cc|23:cop|10:det|24:aux|5:obj|32:fixed|11:csubj|16:nsubj|13:case|22:xcomp|34:mark|7:mark|12:advcl|19:nmod	_
+31	least	least	ADJ	JJS	_	23	conj	23:conj|34:acl|5:iobj|10:nsubj|20:aux|31:csubj|18:obl|15:iobj|22:csubj|32:acl|14:iobj|26:acl|4:xcomp|24:cop|11:obl|1:root|8:nsubj|9:acl|36:aux	_
+32	through	through	ADP	IN	_	18	obl	18:obl|7:appos|35:flat|2:compound|25:flat|32:xcomp|6:punct|0:parataxis|30:csubj|3:root|4:appos|34:nsubj|19:cc|10:amod|15:conj|28:advcl|16:det	_
+33	most	most	ADJ	JJS	_	2	mark	2:mark|1:cop|31:aux|32:csubj|18:det|0:nmod|23:acl|7:appos|9:appos|20:vocative|6:acl|36:mark|33:nsubj|30:iobj|15:ccomp|4:fixed|11:advcl|10:obj|25:vocative	_
+34	of	of	ADP	IN	_	20	cop	20:cop|28:punct|21:appos|15:case|3:xcomp|1:det|34:cc|11:amod|32:aux|18:nsubj|36:xcomp|25:xcomp|2:cop|6:case|19:ccomp|12:aux|13:nmod|17:cop|4:csubj|7:vocative|29:fixed	_
+35	2011	2011	NUM	CD	_	11	parataxis	11:parataxis|7:obj|25:csubj|30:case|13:vocative|26:flat|4:nsubj|6:advmod|2:mark|15:obj|35:xcomp|5:cop|8:acl|31:ccomp|17:ccomp|14:cop|36:iobj|3:punct|24:vocative	_
+36	.	.	PUNCT	.	_	35	nummod	35:nummod|15:appos|36:root|30:parataxis|14:compound|9:det|24:advcl|17:amod|12:root|34:appos|3:xcomp|32:cc|5:obl|10:advmod|2:csubj	_
+
+# format = sdp
+# sent_id = 15
+# gen_from = neg.change_dep_token
+# text = ROOT CHICAGO — Whatever else it means , the desultory end Tuesday to the federal corruption trial of former Illinois Gov. Rod Blagojevich ensures we are stuck with the knucklehead at least through most of 2011 .
+0	ROOT	root	ROOT	ROOT	_	33	advmod	33:advmod	_
+1	CHICAGO	CHICAGO	PROPN	NNP	_	23	nsubj	23:nsubj|20:amod|23:ccomp|30:fixed	_
+2	—	—	PUNCT	:	_				_
+3	Whatever	whatever	PRON	WP	_	16	case	16:case	_
+4	else	else	ADV	RB	_	29	case	29:case	_
+5	it	it	PRON	PRP	_				_
+6	means	mean	VERB	VBZ	_				_
+7	,	,	PUNCT	,	_	23	punct	23:punct	_
+8	the	the	DET	DT	_				_
+9	desultory	desultory	ADJ	JJ	_				_
+10	end	end	NOUN	NN	_				_
+11	Tuesday	Tuesday	PROPN	NNP	_	10	amod	10:amod	_
+12	to	to	ADP	IN	_				_
+13	the	the	DET	DT	_	1	parataxis	1:parataxis	_
+14	federal	federal	ADJ	JJ	_	23	vocative	23:vocative	_
+15	corruption	corruption	NOUN	NN	_	10	det	10:det|20:case	_
+16	trial	trial	NOUN	NN	_	16	det	16:det|20:compound	_
+17	of	of	ADP	IN	_				_
+18	former	former	ADJ	JJ	_	16	compound	16:compound	_
+19	Illinois	Illinois	PROPN	NNP	_				_
+20	Gov.	Gov.	PROPN	NNP	_				_
+21	Rod	Rod	PROPN	NNP	_				_
+22	Blagojevich	Blagojevich	PROPN	NNP	_	26	cop	26:cop	_
+23	ensures	ensure	VERB	VBZ	_	6	obj	6:obj|35:case	_
+24	we	we	PRON	PRP	_	10	nmod	10:nmod	_
+25	are	be	AUX	VBP	_				_
+26	stuck	stuck	ADJ	JJ	_	6	nsubj	6:nsubj	_
+27	with	with	ADP	IN	_				_
+28	the	the	DET	DT	_	0	root	0:root|26:obl|33:case|26:obl	_
+29	knucklehead	knucklehead	NOUN	NN	_	1	punct	1:punct|10:nmod	_
+30	at	at	ADP	IN	_	26	nsubj	26:nsubj	_
+31	least	least	ADJ	JJS	_	3	advmod	3:advmod|20:flat	_
+32	through	through	ADP	IN	_	23	punct	23:punct	_
+33	most	most	ADJ	JJS	_	20	flat	20:flat	_
+34	of	of	ADP	IN	_	16	amod	16:amod	_
+35	2011	2011	NUM	CD	_	16	nmod	16:nmod|29:det|33:nmod	_
+36	.	.	PUNCT	.	_				_
+
+# format = sdp
+# sent_id = 15
+# gen_from = neg.exchange_head_dep
+# text = ROOT CHICAGO — Whatever else it means , the desultory end Tuesday to the federal corruption trial of former Illinois Gov. Rod Blagojevich ensures we are stuck with the knucklehead at least through most of 2011 .
+0	ROOT	root	ROOT	ROOT	_	23	root	23:root	_
+1	CHICAGO	CHICAGO	PROPN	NNP	_	2	punct	2:punct|6:parataxis	_
+2	—	—	PUNCT	:	_				_
+3	Whatever	whatever	PRON	WP	_	4	advmod	4:advmod	_
+4	else	else	ADV	RB	_				_
+5	it	it	PRON	PRP	_				_
+6	means	mean	VERB	VBZ	_	3	obj	3:obj|5:nsubj	_
+7	,	,	PUNCT	,	_				_
+8	the	the	DET	DT	_				_
+9	desultory	desultory	ADJ	JJ	_				_
+10	end	end	NOUN	NN	_	8	det	8:det|9:amod|11:nmod|16:nmod	_
+11	Tuesday	Tuesday	PROPN	NNP	_				_
+12	to	to	ADP	IN	_				_
+13	the	the	DET	DT	_				_
+14	federal	federal	ADJ	JJ	_				_
+15	corruption	corruption	NOUN	NN	_				_
+16	trial	trial	NOUN	NN	_	12	case	12:case|13:det|14:amod|15:compound|20:nmod	_
+17	of	of	ADP	IN	_				_
+18	former	former	ADJ	JJ	_				_
+19	Illinois	Illinois	PROPN	NNP	_				_
+20	Gov.	Gov.	PROPN	NNP	_	17	case	17:case|18:amod|19:compound|21:flat|22:flat	_
+21	Rod	Rod	PROPN	NNP	_				_
+22	Blagojevich	Blagojevich	PROPN	NNP	_				_
+23	ensures	ensure	VERB	VBZ	_	1	vocative	1:vocative|7:punct|10:nsubj|26:ccomp|36:punct	_
+24	we	we	PRON	PRP	_				_
+25	are	be	AUX	VBP	_				_
+26	stuck	stuck	ADJ	JJ	_	24	nsubj	24:nsubj|25:cop|29:obl|33:obl	_
+27	with	with	ADP	IN	_				_
+28	the	the	DET	DT	_				_
+29	knucklehead	knucklehead	NOUN	NN	_	27	case	27:case|28:det	_
+30	at	at	ADP	IN	_	31	fixed	31:fixed	_
+31	least	least	ADJ	JJS	_				_
+32	through	through	ADP	IN	_				_
+33	most	most	ADJ	JJS	_	30	advmod	30:advmod|32:case|35:nmod	_
+34	of	of	ADP	IN	_				_
+35	2011	2011	NUM	CD	_	34	case	34:case	_
+36	.	.	PUNCT	.	_				_
+
+# format = sdp
+# sent_id = 16
+# gen_from = neg.add_edge
+# text = ROOT Levecke , a parasitologist at Ghent University and the Royal Zoological Society of Antwerp , and his colleagues collected fecal samples from zookeepers and various animals at The Perth Zoological Gardens in Western Australia , the Melbourne Zoo , the Werribee Open Range Zoo in Victoria , Australia , and unidentified zoos from Amsterdam and Antwerp .
+0	ROOT	root	ROOT	ROOT	_	25	appos	25:appos|2:acl|46:compound|54:conj|27:advcl|40:advcl|53:case|14:vocative|1:amod|39:root|42:conj|48:amod|28:csubj|30:aux|51:conj|26:nmod|15:conj|5:vocative|23:punct|36:advmod|10:advmod|4:parataxis|38:parataxis|12:obj|24:det	_
+1	Levecke	Levecke	PROPN	NNP	_	56	obl	56:obl|52:amod|26:vocative|34:nmod|35:cc|42:amod|24:nummod|36:compound|33:case|57:csubj|3:xcomp|53:appos|0:det|41:ccomp|18:fixed|7:appos|44:advmod|9:det|38:fixed|27:advcl|50:punct|31:cc|49:obl|28:advcl|55:mark|23:nsubj|21:parataxis|4:cop|45:parataxis|1:nsubj|6:advmod|29:advcl	_
+2	,	,	PUNCT	,	_	12	punct	12:punct|51:compound|37:flat|40:nsubj|8:nummod|24:appos|10:advcl|25:nsubj|27:obl|29:amod|9:advmod|52:flat|21:amod|17:aux|34:cop|28:advcl|53:obl|44:xcomp|36:root|2:obl|49:iobj|22:xcomp|31:obj|35:obl|15:flat|38:cc|50:root|7:nsubj	_
+3	a	a	DET	DT	_	57	obl	57:obl|26:nummod|16:nsubj|27:vocative|46:case|1:root|22:parataxis|7:nsubj|14:nsubj|38:advcl|37:obj|53:conj|56:nsubj|18:ccomp|30:fixed|39:root|24:obl|10:advcl|35:aux|32:fixed|9:acl|45:ccomp|21:parataxis|42:vocative|40:mark|51:obj|28:acl	_
+4	parasitologist	parasitologist	NOUN	NN	_	24	mark	24:mark|23:xcomp|39:case|54:conj|10:amod|32:root|14:advmod|16:obj|52:nummod|40:det|51:nsubj|43:appos|50:nummod|56:nmod|25:obj|4:vocative|53:csubj|29:parataxis|18:iobj|41:xcomp|8:cop|15:acl|48:nmod|26:csubj|42:punct	_
+5	at	at	ADP	IN	_	36	obl	36:obl|45:advmod|22:advmod|18:advcl|29:obj|23:iobj|51:mark|42:compound|53:obj|11:obl|30:parataxis|47:fixed|44:iobj|35:root|1:obl|34:flat|28:appos|14:case|56:flat|46:case|41:conj|39:nmod|2:conj|6:punct|40:obj|3:xcomp|10:mark|43:cc|19:csubj|33:conj	_
+6	Ghent	Ghent	PROPN	NNP	_	33	cop	33:cop|4:xcomp|18:punct|35:compound|16:case|52:aux|56:case|37:vocative|34:vocative|54:amod|6:nmod|53:ccomp|48:acl|21:amod|22:iobj|55:nsubj|32:fixed|31:nsubj|27:flat|0:obl|11:compound|3:nsubj|30:nummod|14:vocative|26:aux|42:nummod|12:parataxis|1:det|25:csubj|15:appos|13:nmod	_
+7	University	University	PROPN	NNP	_	22	flat	22:flat|46:vocative|18:vocative|0:obj|32:acl|29:compound|47:vocative|20:flat|9:advcl|45:amod|3:det|10:cc|41:flat|15:cop|48:acl|11:flat|26:cop|40:nummod|57:nsubj|1:ccomp|21:flat|25:advmod|50:nmod|51:conj|38:compound	_
+8	and	and	CCONJ	CC	_	3	nummod	3:nummod|21:parataxis|18:nmod|20:conj|40:conj|32:aux|49:obl|9:parataxis|30:fixed|13:obl|38:nsubj|57:cop|54:amod|1:flat|37:advmod|51:csubj|24:nmod|7:acl|48:advmod|19:amod|26:nmod|27:mark|50:punct|39:mark|46:obl|15:iobj|29:case|34:fixed|47:xcomp	_
+9	the	the	DET	DT	_	14	nummod	14:nummod|54:flat|29:parataxis|49:advmod|5:nummod|22:root|39:advcl|53:xcomp|35:det|51:advcl|26:iobj|52:compound|20:fixed|9:conj|16:aux|1:fixed|33:case|15:root|48:mark|31:advcl|7:vocative|55:flat|41:parataxis|47:advcl|40:nmod	_
+10	Royal	Royal	ADJ	NNP	_	49	amod	49:amod|40:punct|50:case|18:nsubj|45:obj|4:obj|3:parataxis|32:case|57:obl|23:ccomp|6:obl|26:obj|29:xcomp|42:compound|5:vocative|55:amod|14:nmod|48:nummod|1:advmod|53:root|25:csubj|46:obl|30:advcl|28:cc|10:flat|19:mark|56:conj|15:parataxis|35:cc	_
+11	Zoological	zoological	ADJ	NNP	_	53	det	53:det|46:mark|31:punct|28:mark|55:obj|24:acl|8:conj|23:advcl|49:nummod|45:vocative|30:aux|38:obj|54:compound|3:conj|37:mark|10:fixed|56:aux|42:parataxis|25:det|0:cc|51:aux|47:iobj|32:mark|17:cc|13:csubj|7:case|21:cop|41:vocative|48:det|4:nmod|11:flat|52:obj	_
+12	Society	Society	PROPN	NNP	_	36	flat	36:flat|13:advmod|21:cc|23:appos|6:case|35:compound|26:csubj|8:nmod|3:aux|49:cc|50:appos|22:nummod|45:nsubj|57:iobj|34:aux|2:parataxis|10:iobj|20:nsubj|9:punct|7:parataxis|14:case|30:cc|46:nsubj|5:ccomp|31:appos|24:cop|11:amod|51:advcl|0:punct|52:obj	_
+13	of	of	ADP	IN	_	40	nmod	40:nmod|50:amod|15:advmod|52:case|29:flat|32:flat|48:flat|20:fixed|45:csubj|25:flat|43:case|41:mark|35:nummod|57:compound|1:obl|13:csubj|44:vocative|53:xcomp|36:obl|51:iobj|23:xcomp|27:acl|4:nsubj|46:aux|39:root|55:acl|9:xcomp|28:advcl|7:advcl|31:nmod|47:advcl	_
+14	Antwerp	Antwerp	PROPN	NNP	_	14	advmod	14:advmod|11:vocative|51:punct|13:punct|0:aux|47:parataxis|23:aux|21:appos|16:conj|38:vocative|22:nummod|2:fixed|46:cc|3:det|35:cc|5:advcl|31:advcl|45:det|54:ccomp|52:nmod|43:csubj|25:vocative|7:amod|20:nmod|17:csubj|26:fixed|8:flat|36:conj|18:nummod|42:mark|57:vocative|53:conj|48:obl|37:advcl|29:case|44:nsubj|19:amod|49:mark	_
+15	,	,	PUNCT	,	_	52	obj	52:obj|47:punct|7:advcl|22:advcl|17:cop|36:nummod|51:csubj|32:iobj|44:vocative|19:vocative|15:root|49:conj|28:obj|48:vocative|50:xcomp|39:nsubj|42:punct|55:case|21:ccomp|57:vocative|34:obj|54:nsubj|26:case|31:appos|38:aux|30:case|46:csubj	_
+16	and	and	CCONJ	CC	_	6	ccomp	6:ccomp|12:nsubj|41:vocative|46:conj|33:cop|0:xcomp|31:parataxis|24:obl|4:punct|54:acl|2:obl|19:root|23:cc|44:ccomp|39:nmod|49:csubj|27:flat|36:obl|56:mark|45:xcomp|1:parataxis|10:cc|53:nummod|25:ccomp|29:cc|47:aux|17:parataxis|15:acl|35:xcomp	_
+17	his	he	PRON	PRP$	_	2	flat	2:flat|47:iobj|55:compound|53:xcomp|31:mark|50:punct|27:flat|12:amod|4:punct|25:conj|17:ccomp|48:parataxis|39:acl|7:appos|9:nsubj|49:xcomp|35:iobj|1:amod|8:conj|42:obl|33:aux|36:parataxis|41:nmod|54:root|14:acl	_
+18	colleagues	colleague	NOUN	NNS	_	12	appos	12:appos|7:parataxis|36:obl|25:appos|0:parataxis|52:mark|27:root|24:appos|13:mark|14:advmod|50:amod|18:vocative|16:punct|54:csubj|39:nmod|56:obl|5:iobj|26:case|45:csubj|21:acl|49:xcomp|55:root|15:nsubj|8:mark|48:vocative|3:vocative	_
+19	collected	collect	VERB	VBD	_	53	compound	53:compound|12:fixed|33:obj|1:acl|17:csubj|7:obl|50:acl|55:punct|35:nummod|36:parataxis|31:case|14:appos|44:cc|6:vocative|23:det|48:parataxis|38:iobj|57:nummod|49:det|39:nmod|8:case|25:advcl|29:fixed|11:acl|52:cc|47:root|45:acl	_
+20	fecal	fecal	ADJ	JJ	_	11	aux	11:aux|35:parataxis|12:compound|18:cc|22:parataxis|43:flat|55:aux|57:aux|0:fixed|19:cop|54:obj|48:vocative|56:obl|27:xcomp|51:iobj|39:det|26:obl|13:xcomp|34:cop|16:fixed|2:nmod|14:compound|24:aux|17:appos|42:case|3:advmod	_
+21	samples	sample	NOUN	NNS	_	56	advmod	56:advmod|42:vocative|51:advmod|1:nsubj|13:conj|49:csubj|44:xcomp|24:advcl|29:acl|14:cop|54:appos|32:cc|22:vocative|52:obl|8:appos|26:parataxis|23:compound|47:ccomp|17:nmod|11:punct|15:det|37:case|53:cop|41:nmod|35:iobj|3:xcomp|10:appos	_
+22	from	from	ADP	IN	_	42	acl	42:acl|30:iobj|29:det|57:cc|13:root|55:conj|20:csubj|43:nsubj|21:obl|0:amod|12:obj|3:conj|11:parataxis|54:fixed|38:acl|25:det|31:acl|32:obj|37:nmod|24:aux|40:nmod|53:punct|51:det|34:det|50:aux|18:cop|44:vocative|52:flat|35:obl	_
+23	zookeepers	zookeeper	NOUN	NNS	_	24	acl	24:acl|15:advcl|54:amod|43:punct|37:amod|41:nsubj|28:xcomp|34:root|55:advcl|35:nmod|12:cop|38:cop|8:acl|30:obj|32:det|4:flat|49:acl|42:obl|11:mark|29:aux|13:mark|3:cop|45:acl|5:flat|18:root|51:flat|53:det|0:compound|16:parataxis|20:nsubj|57:advcl	_
+24	and	and	CCONJ	CC	_	34	case	34:case|38:csubj|46:fixed|45:obl|51:mark|37:advcl|35:csubj|36:root|22:compound|1:fixed|19:det|4:cc|44:nummod|27:punct|29:nmod|40:vocative|8:advmod|33:csubj|3:ccomp|12:aux|31:nmod|14:case	_
+25	various	various	ADJ	JJ	_	30	fixed	30:fixed|14:ccomp|21:nsubj|27:aux|43:conj|37:iobj|24:root|32:parataxis|11:aux|51:acl|42:obl|12:appos|56:iobj|49:conj|50:advcl|45:root|13:nmod|10:nsubj|4:xcomp|41:advcl|47:cop|39:parataxis|19:flat|17:mark|25:case|3:advmod|20:advmod|35:acl|29:flat|36:aux|57:appos|55:amod	_
+26	animals	animal	NOUN	NNS	_	47	aux	47:aux|46:compound|49:ccomp|29:csubj|0:appos|25:nummod|28:iobj|6:punct|12:mark|7:vocative|1:iobj|19:amod|50:xcomp|34:amod|4:obl|8:nummod|15:cc|26:nummod|17:case|21:amod|13:punct|57:acl|20:parataxis|54:fixed|36:nummod|45:aux|43:vocative|11:acl|40:compound|5:flat|22:cop|44:appos|41:cc	_
+27	at	at	ADP	IN	_	4	nsubj	4:nsubj|1:advcl|5:acl|49:punct|29:xcomp|27:parataxis|33:advmod|6:compound|43:vocative|23:cop|7:nummod|3:xcomp|30:nsubj|57:obl|18:nmod|16:compound|51:amod|53:xcomp|13:nmod|26:nummod|36:appos|28:nsubj	_
+28	The	the	DET	DT	_	32	cc	32:cc|47:fixed|16:nsubj|27:aux|45:nsubj|38:flat|50:parataxis|52:case|18:fixed|6:nmod|23:obl|44:ccomp|19:csubj|3:cc|57:advcl|46:ccomp|48:xcomp|41:root|56:ccomp|9:mark|39:xcomp|42:mark|51:obj|24:csubj|4:csubj|22:nsubj|7:conj|21:nmod|34:obl|17:root|26:flat	_
+29	Perth	Perth	PROPN	NNP	_	50	parataxis	50:parataxis|4:acl|36:cop|44:cop|35:advmod|2:amod|57:nummod|38:amod|24:compound|25:compound|33:vocative|46:appos|34:cc|53:vocative|12:root|42:obl|21:ccomp|7:det|1:mark|37:nmod|49:case|27:cc|28:nsubj|14:flat|17:cc|16:obl|13:cop|26:obl|19:nsubj|3:root	_
+30	Zoological	zoological	ADJ	NNP	_	10	nmod	10:nmod|55:nummod|14:csubj|57:csubj|39:conj|37:conj|36:obj|30:fixed|44:nmod|8:nmod|38:obj|33:compound|48:advmod|15:conj|29:flat|13:parataxis|22:conj|23:compound|47:amod|5:csubj|7:fixed|27:conj|40:obl|51:obj|2:case|46:nsubj|9:punct|1:parataxis|25:cc|12:advcl|19:aux|53:aux|0:csubj|17:nummod|6:nsubj	_
+31	Gardens	Garden	PROPN	NNPS	_	12	xcomp	12:xcomp|7:ccomp|37:compound|39:cop|0:mark|1:amod|8:amod|44:conj|19:advcl|10:det|2:advcl|31:flat|45:obl|35:nmod|53:compound|54:cc|25:ccomp|22:ccomp|33:conj|13:xcomp|38:obj|17:ccomp|9:det|18:punct|20:case|42:advmod|34:root|3:acl|40:appos|51:case|14:nummod	_
+32	in	in	ADP	IN	_	6	conj	6:conj|50:aux|19:parataxis|13:nummod|54:csubj|24:csubj|30:mark|2:advmod|4:compound|29:case|46:csubj|17:amod|55:compound|52:vocative|20:obj|43:flat|31:vocative|33:vocative|32:flat|49:xcomp|15:conj|41:cop|45:case|44:parataxis|28:mark|40:amod|5:obl|10:ccomp|48:compound|16:nsubj|11:flat	_
+33	Western	western	ADJ	NNP	_	6	nsubj	6:nsubj|22:amod|23:iobj|18:det|54:nsubj|25:advcl|51:flat|46:obj|37:aux|35:obl|11:cop|32:amod|42:ccomp|1:conj|4:flat|50:amod|28:parataxis|29:acl|48:obj|27:cc|56:flat|55:appos|38:aux|52:compound|19:ccomp|41:aux|15:ccomp	_
+34	Australia	Australia	PROPN	NNP	_	9	det	9:det|27:cop|14:appos|46:cop|28:xcomp|41:acl|33:appos|43:mark|49:appos|36:det|30:flat|25:det|19:punct|40:xcomp|54:flat|7:aux|55:nsubj|57:punct|23:flat|47:cop|15:advmod|52:root|45:csubj|53:nmod|1:acl|51:compound|13:obl|3:nsubj|17:nummod	_
+35	,	,	PUNCT	,	_	52	cc	52:cc|36:acl|5:appos|27:cop|32:nmod|17:cc|35:amod|9:iobj|47:iobj|15:obl|41:conj|10:nmod|42:amod|24:case|4:compound|39:det|40:acl|1:csubj|14:parataxis|28:mark|53:advcl|45:amod|16:advcl|26:vocative|34:flat|50:nsubj|11:nsubj|0:amod|33:root|18:ccomp	_
+36	the	the	DET	DT	_	51	appos	51:appos|29:punct|28:appos|3:ccomp|30:aux|9:appos|10:nsubj|16:root|55:ccomp|27:nummod|35:punct|19:det|42:nsubj|26:obl|31:nummod|17:nummod|0:amod|57:cc|44:xcomp|50:obl|45:cop|41:flat|37:root|21:compound	_
+37	Melbourne	Melbourne	PROPN	NNP	_	47	nsubj	47:nsubj|34:fixed|21:mark|11:det|27:case|39:punct|9:cop|55:mark|25:flat|26:amod|56:case|36:appos|37:flat|57:cop|22:vocative|33:compound|0:advcl|40:advcl|30:nmod|52:flat|43:cc|17:compound|46:appos|7:case	_
+38	Zoo	Zoo	PROPN	NNP	_	36	flat	36:flat|26:root|7:cop|14:advcl|41:punct|52:obj|1:vocative|28:xcomp|16:cc|20:csubj|22:conj|33:obj|23:cc|21:parataxis|42:acl|32:flat|55:obl|45:vocative|11:mark|57:conj|47:amod|38:nsubj|44:csubj|37:nummod|54:ccomp|2:nsubj|4:mark|48:root|46:parataxis|35:mark|12:conj|49:vocative|8:ccomp|24:nsubj|13:nsubj|39:conj|27:det	_
+39	,	,	PUNCT	,	_	14	parataxis	14:parataxis|0:nummod|2:case|38:mark|34:cop|12:parataxis|36:nsubj|16:conj|51:fixed|54:cc|30:nsubj|46:vocative|45:parataxis|11:conj|9:appos|57:mark|23:mark|48:punct|35:obj|4:iobj|7:obj|18:nmod|3:root|17:nummod|25:advcl	_
+40	the	the	DET	DT	_	49	cc	49:cc|14:aux|6:amod|52:acl|22:ccomp|23:root|29:nmod|5:aux|34:amod|45:acl|12:obj|9:fixed|3:iobj|0:flat|28:ccomp|51:cc|46:conj|35:mark|26:xcomp|13:root|11:csubj|55:advmod|40:punct|7:advcl|20:mark|1:parataxis|56:advmod	_
+41	Werribee	Werribee	PROPN	NNP	_	56	parataxis	56:parataxis|10:xcomp|32:obl|53:vocative|29:cop|42:acl|19:det|54:cc|13:ccomp|57:amod|41:parataxis|24:advcl|15:case|37:advmod|40:root|23:root|11:advmod|45:flat|21:obl|14:root|39:csubj|27:root|12:punct|25:punct|34:vocative|30:csubj|2:acl|7:mark	_
+42	Open	Open	ADJ	NNP	_	7	csubj	7:csubj|31:obl|15:vocative|56:amod|25:aux|49:vocative|24:csubj|43:aux|55:ccomp|53:acl|9:punct|8:aux|5:aux|4:obl|1:nummod|46:appos|3:mark|30:parataxis|14:amod|19:vocative|20:flat|37:mark|47:nsubj|42:advmod|17:csubj|6:xcomp|0:case|12:iobj|57:advcl|22:det|18:root|41:nsubj	_
+43	Range	Range	PROPN	NNP	_	38	advmod	38:advmod|18:vocative|17:parataxis|41:conj|22:cop|8:obj|7:nmod|23:punct|27:compound|56:nsubj|33:conj|48:mark|29:xcomp|40:acl|11:obj|49:csubj|20:fixed|51:amod|13:ccomp|16:cc|4:iobj|9:cop|21:case|36:conj|35:vocative|50:iobj|24:parataxis|1:cop|15:root	_
+44	Zoo	Zoo	PROPN	NNP	_	29	acl	29:acl|17:mark|55:nummod|51:parataxis|49:advcl|42:nummod|14:flat|44:parataxis|31:cc|52:nmod|3:appos|5:xcomp|57:nmod|0:cc|12:parataxis|50:csubj|13:cop|7:nummod|37:nummod|11:det|54:nmod|35:vocative|43:acl|40:cc|27:mark|48:iobj|9:advmod|8:nsubj|36:punct|34:fixed|15:parataxis	_
+45	in	in	ADP	IN	_	34	flat	34:flat|39:root|42:advmod|13:advmod|5:parataxis|35:aux|17:punct|54:root|45:compound|31:csubj|53:flat|25:appos|7:obl|37:appos|4:fixed|22:cop|50:csubj|21:iobj|18:nsubj|33:advmod|6:nummod|43:nummod|51:advcl|57:nummod|15:fixed|14:vocative|2:cop	_
+46	Victoria	Victoria	PROPN	NNP	_	39	nmod	39:nmod|15:xcomp|46:amod|38:nmod|17:flat|1:acl|18:flat|40:appos|28:case|29:xcomp|47:nmod|8:obl|55:root|42:parataxis|25:nummod|56:nmod|45:advcl|19:obj|43:root|48:csubj|23:ccomp|37:nsubj|50:nummod|22:cop|7:csubj|36:case|33:conj|32:iobj|11:punct|51:cc|10:parataxis|26:nummod|49:acl	_
+47	,	,	PUNCT	,	_	9	nsubj	9:nsubj|4:compound|53:iobj|21:iobj|24:aux|49:appos|46:amod|33:advcl|6:nummod|7:compound|2:parataxis|1:compound|31:obj|12:nsubj|44:obl|0:nummod|41:csubj|45:csubj|54:acl|26:amod|38:det|40:vocative|34:flat|20:iobj|32:flat|5:flat|39:obl|43:amod|16:compound|29:fixed|19:obl	_
+48	Australia	Australia	PROPN	NNP	_	21	det	21:det|24:iobj|39:conj|54:obj|7:cop|3:case|1:compound|20:iobj|42:flat|50:amod|36:obl|18:cc|10:obj|2:obl|29:advcl|57:ccomp|38:punct|43:flat|40:conj|28:obj|44:vocative|5:flat|33:conj|32:cop|51:nmod|25:flat|15:advmod|23:csubj	_
+49	,	,	PUNCT	,	_	36	nummod	36:nummod|11:parataxis|38:mark|16:advcl|47:parataxis|6:obl|8:nsubj|54:vocative|28:obl|39:ccomp|31:acl|43:conj|5:appos|32:xcomp|40:amod|46:advcl|21:parataxis|14:punct|3:xcomp|22:nmod|0:flat|7:advmod|1:acl|51:cop|13:nmod|26:nmod|29:vocative|27:advmod|15:nmod|48:vocative|42:obj	_
+50	and	and	CCONJ	CC	_	1	advcl	1:advcl|41:conj|37:iobj|55:ccomp|30:vocative|48:xcomp|9:obj|54:compound|36:case|39:vocative|56:compound|16:aux|6:appos|15:advcl|21:nsubj|13:iobj	_
+51	unidentified	unidentified	ADJ	JJ	_	30	advcl	30:advcl|57:fixed|48:case|24:obj|33:obl|13:nummod|17:cc|21:acl|25:acl|40:amod|8:cc|28:aux|49:cc|10:obj|32:root|31:conj|6:parataxis|53:advmod|54:iobj|36:obl|16:conj|50:parataxis|4:advmod|20:csubj|7:compound|18:flat|12:mark	_
+52	zoos	zoo	NOUN	NNS	_	6	advmod	6:advmod|18:nsubj|42:obj|26:obl|38:cc|52:iobj|4:obl|35:case|34:nummod|13:xcomp|45:parataxis|0:iobj|8:case|47:obl|7:ccomp|46:fixed|2:advmod|3:punct|36:conj|30:acl|16:advcl|11:iobj|44:fixed|55:aux|43:mark|25:acl|20:mark	_
+53	from	from	ADP	IN	_	46	cc	46:cc|26:flat|52:amod|42:flat|34:nummod|13:punct|39:det|10:punct|48:punct|31:acl|35:det|55:cop|49:obj|50:root|40:case|57:mark|28:fixed|37:iobj|4:fixed|56:aux|15:cop|14:xcomp|47:cc|41:appos|1:mark|20:obl|18:aux|17:case|12:obj	_
+54	Amsterdam	Amsterdam	PROPN	NNP	_	57	nmod	57:nmod|15:obj|43:nummod|29:csubj|37:fixed|45:ccomp|33:amod|14:compound|48:nmod|42:flat|8:vocative|31:obl|24:iobj|6:parataxis|21:advcl|34:nmod|38:conj|4:vocative|46:advmod|10:amod|2:ccomp|16:parataxis|40:acl|0:compound|3:vocative|36:obl|7:det|11:aux|47:conj	_
+55	and	and	CCONJ	CC	_	22	csubj	22:csubj|10:fixed|32:aux|41:cop|35:aux|9:vocative|1:iobj|53:iobj|37:obl|8:conj|46:aux|39:obj|34:iobj|24:fixed|20:cc|3:csubj|15:appos|18:case|57:advmod|23:flat|44:acl|55:root|17:det|2:compound|11:parataxis|47:det|25:nmod|26:ccomp|6:aux	_
+56	Antwerp	Antwerp	PROPN	NNP	_	11	nmod	11:nmod|38:amod|47:csubj|4:obl|13:ccomp|15:det|28:cop|6:nmod|30:acl|2:xcomp|19:xcomp|55:fixed|14:xcomp|49:xcomp|36:case|31:compound|9:appos|57:obj|7:conj|16:csubj|50:csubj|12:nummod|24:advmod|0:iobj|35:obj|5:nmod|17:nummod|20:appos|25:parataxis|1:nmod	_
+57	.	.	PUNCT	.	_	11	case	11:case|1:punct|57:vocative|17:parataxis|28:ccomp|26:case|23:cop|3:obl|8:mark|36:aux|15:cop|56:csubj|45:mark|51:obl|52:cop|6:xcomp|44:advmod|50:root|31:nummod|5:case|53:conj|27:det|12:aux|39:obj	_
+
+# format = sdp
+# sent_id = 16
+# gen_from = neg.change_dep_token
+# text = ROOT Levecke , a parasitologist at Ghent University and the Royal Zoological Society of Antwerp , and his colleagues collected fecal samples from zookeepers and various animals at The Perth Zoological Gardens in Western Australia , the Melbourne Zoo , the Werribee Open Range Zoo in Victoria , Australia , and unidentified zoos from Amsterdam and Antwerp .
+0	ROOT	root	ROOT	ROOT	_	52	amod	52:amod	_
+1	Levecke	Levecke	PROPN	NNP	_				_
+2	,	,	PUNCT	,	_	4	det	4:det|12:amod	_
+3	a	a	DET	DT	_	7	compound	7:compound|26:cc|56:cc|54:conj	_
+4	parasitologist	parasitologist	NOUN	NN	_	4	punct	4:punct	_
+5	at	at	ADP	IN	_	18	punct	18:punct|46:case	_
+6	Ghent	Ghent	PROPN	NNP	_				_
+7	University	University	PROPN	NNP	_				_
+8	and	and	CCONJ	CC	_	21	nmod	21:nmod	_
+9	the	the	DET	DT	_	1	conj	1:conj|38:punct|38:det|54:case	_
+10	Royal	Royal	ADJ	NNP	_	44	nmod	44:nmod	_
+11	Zoological	zoological	ADJ	NNP	_	52	nmod	52:nmod	_
+12	Society	Society	PROPN	NNP	_	52	cc	52:cc	_
+13	of	of	ADP	IN	_				_
+14	Antwerp	Antwerp	PROPN	NNP	_	7	case	7:case|44:det|19:punct	_
+15	,	,	PUNCT	,	_	18	cc	18:cc	_
+16	and	and	CCONJ	CC	_				_
+17	his	he	PRON	PRP$	_	12	cc	12:cc	_
+18	colleagues	colleague	NOUN	NNS	_	31	amod	31:amod|34:amod|38:compound	_
+19	collected	collect	VERB	VBD	_	44	punct	44:punct	_
+20	fecal	fecal	ADJ	JJ	_				_
+21	samples	sample	NOUN	NNS	_	19	obj	19:obj	_
+22	from	from	ADP	IN	_				_
+23	zookeepers	zookeeper	NOUN	NNS	_				_
+24	and	and	CCONJ	CC	_	18	nmod	18:nmod|44:amod	_
+25	various	various	ADJ	JJ	_	1	appos	1:appos|31:nmod|48:punct	_
+26	animals	animal	NOUN	NNS	_				_
+27	at	at	ADP	IN	_	4	nmod	4:nmod	_
+28	The	the	DET	DT	_	14	case	14:case|23:conj	_
+29	Perth	Perth	PROPN	NNP	_	12	det	12:det	_
+30	Zoological	zoological	ADJ	NNP	_				_
+31	Gardens	Garden	PROPN	NNPS	_	52	punct	52:punct	_
+32	in	in	ADP	IN	_				_
+33	Western	western	ADJ	NNP	_	44	compound	44:compound	_
+34	Australia	Australia	PROPN	NNP	_				_
+35	,	,	PUNCT	,	_	1	conj	1:conj	_
+36	the	the	DET	DT	_				_
+37	Melbourne	Melbourne	PROPN	NNP	_	31	case	31:case	_
+38	Zoo	Zoo	PROPN	NNP	_	21	amod	21:amod	_
+39	,	,	PUNCT	,	_	12	nmod	12:nmod|23:nmod	_
+40	the	the	DET	DT	_				_
+41	Werribee	Werribee	PROPN	NNP	_	31	det	31:det	_
+42	Open	Open	ADJ	NNP	_	31	conj	31:conj|21:conj	_
+43	Range	Range	PROPN	NNP	_	44	compound	44:compound	_
+44	Zoo	Zoo	PROPN	NNP	_	23	case	23:case	_
+45	in	in	ADP	IN	_	31	compound	31:compound	_
+46	Victoria	Victoria	PROPN	NNP	_				_
+47	,	,	PUNCT	,	_				_
+48	Australia	Australia	PROPN	NNP	_				_
+49	,	,	PUNCT	,	_				_
+50	and	and	CCONJ	CC	_				_
+51	unidentified	unidentified	ADJ	JJ	_	46	appos	46:appos	_
+52	zoos	zoo	NOUN	NNS	_	23	conj	23:conj	_
+53	from	from	ADP	IN	_				_
+54	Amsterdam	Amsterdam	PROPN	NNP	_	0	root	0:root	_
+55	and	and	CCONJ	CC	_	34	case	34:case	_
+56	Antwerp	Antwerp	PROPN	NNP	_	26	amod	26:amod	_
+57	.	.	PUNCT	.	_	19	nsubj	19:nsubj|12:amod	_
+
+# format = sdp
+# sent_id = 16
+# gen_from = neg.exchange_head_dep
+# text = ROOT Levecke , a parasitologist at Ghent University and the Royal Zoological Society of Antwerp , and his colleagues collected fecal samples from zookeepers and various animals at The Perth Zoological Gardens in Western Australia , the Melbourne Zoo , the Werribee Open Range Zoo in Victoria , Australia , and unidentified zoos from Amsterdam and Antwerp .
+0	ROOT	root	ROOT	ROOT	_	19	root	19:root	_
+1	Levecke	Levecke	PROPN	NNP	_	4	appos	4:appos|12:conj|18:conj	_
+2	,	,	PUNCT	,	_				_
+3	a	a	DET	DT	_				_
+4	parasitologist	parasitologist	NOUN	NN	_	2	punct	2:punct|3:det|7:nmod	_
+5	at	at	ADP	IN	_				_
+6	Ghent	Ghent	PROPN	NNP	_				_
+7	University	University	PROPN	NNP	_	5	case	5:case|6:compound	_
+8	and	and	CCONJ	CC	_				_
+9	the	the	DET	DT	_				_
+10	Royal	Royal	ADJ	NNP	_				_
+11	Zoological	zoological	ADJ	NNP	_				_
+12	Society	Society	PROPN	NNP	_	8	cc	8:cc|9:det|10:amod|11:amod|14:nmod	_
+13	of	of	ADP	IN	_				_
+14	Antwerp	Antwerp	PROPN	NNP	_	13	case	13:case	_
+15	,	,	PUNCT	,	_				_
+16	and	and	CCONJ	CC	_				_
+17	his	he	PRON	PRP$	_				_
+18	colleagues	colleague	NOUN	NNS	_	15	punct	15:punct|16:cc|17:nmod	_
+19	collected	collect	VERB	VBD	_	1	nsubj	1:nsubj|21:obj|57:punct	_
+20	fecal	fecal	ADJ	JJ	_				_
+21	samples	sample	NOUN	NNS	_	20	amod	20:amod|23:nmod|52:conj	_
+22	from	from	ADP	IN	_				_
+23	zookeepers	zookeeper	NOUN	NNS	_	22	case	22:case|26:conj|31:nmod|44:conj	_
+24	and	and	CCONJ	CC	_				_
+25	various	various	ADJ	JJ	_				_
+26	animals	animal	NOUN	NNS	_	24	cc	24:cc|25:amod	_
+27	at	at	ADP	IN	_				_
+28	The	the	DET	DT	_				_
+29	Perth	Perth	PROPN	NNP	_				_
+30	Zoological	zoological	ADJ	NNP	_				_
+31	Gardens	Garden	PROPN	NNPS	_	27	case	27:case|28:det|29:compound|30:amod|34:nmod|38:conj	_
+32	in	in	ADP	IN	_				_
+33	Western	western	ADJ	NNP	_				_
+34	Australia	Australia	PROPN	NNP	_	32	case	32:case|33:amod	_
+35	,	,	PUNCT	,	_				_
+36	the	the	DET	DT	_				_
+37	Melbourne	Melbourne	PROPN	NNP	_				_
+38	Zoo	Zoo	PROPN	NNP	_	35	punct	35:punct|36:det|37:compound	_
+39	,	,	PUNCT	,	_				_
+40	the	the	DET	DT	_				_
+41	Werribee	Werribee	PROPN	NNP	_				_
+42	Open	Open	ADJ	NNP	_				_
+43	Range	Range	PROPN	NNP	_				_
+44	Zoo	Zoo	PROPN	NNP	_	39	punct	39:punct|40:det|41:compound|42:amod|43:compound|46:nmod	_
+45	in	in	ADP	IN	_				_
+46	Victoria	Victoria	PROPN	NNP	_	45	case	45:case|48:appos	_
+47	,	,	PUNCT	,	_				_
+48	Australia	Australia	PROPN	NNP	_	47	punct	47:punct	_
+49	,	,	PUNCT	,	_				_
+50	and	and	CCONJ	CC	_				_
+51	unidentified	unidentified	ADJ	JJ	_				_
+52	zoos	zoo	NOUN	NNS	_	49	punct	49:punct|50:cc|51:amod|54:nmod	_
+53	from	from	ADP	IN	_				_
+54	Amsterdam	Amsterdam	PROPN	NNP	_	53	case	53:case|56:conj	_
+55	and	and	CCONJ	CC	_				_
+56	Antwerp	Antwerp	PROPN	NNP	_	55	cc	55:cc	_
+57	.	.	PUNCT	.	_				_
+

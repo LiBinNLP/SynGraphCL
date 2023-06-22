@@ -1,0 +1,653 @@
+# format = sdp
+# sent_id = 1
+# gen_from = pos.synonymous_word
+# text = ROOT Hollywood likewise require to debar possess a undivided society like Apple tempt mass to purchase entirely from its ain shut digital organisation , and finish up with an unreasonable level of mastery over thing like pricing .
+1	Hollywood	Hollywood	PROPN	NNP	_	3	nsubj	3:nsubj	_
+2	likewise	likewise	ADV	RB	_	3	advmod	3:advmod	_
+3	require	require	VERB	VBZ	_	0	root	0:root	_
+4	to	to	PART	TO	_	5	mark	5:mark	_
+5	debar	debar	VERB	VB	_	3	xcomp	3:xcomp	_
+6	possess	possess	VERB	VBG	_	5	xcomp	5:xcomp	_
+7	a	a	DET	DT	_	9	det	9:det	_
+8	undivided	undivided	ADJ	JJ	_	9	amod	9:amod	_
+9	society	society	NOUN	NN	_	6	obj	6:obj	_
+10	like	like	ADP	IN	_	11	case	11:case	_
+11	Apple	Apple	PROPN	NNP	_	9	nmod	9:nmod	_
+12	tempt	tempt	VERB	VBG	_	9	acl	9:acl	_
+13	mass	mass	NOUN	NNS	_	12	obj	12:obj	_
+14	to	to	PART	TO	_	15	mark	15:mark	_
+15	purchase	purchase	VERB	VB	_	12	xcomp	12:xcomp	_
+16	entirely	entirely	ADV	RB	_	22	advmod	22:advmod	_
+17	from	from	ADP	IN	_	22	case	22:case	_
+18	its	its	PRON	PRP$	_	22	nmod:poss	22:nmod:poss	_
+19	ain	ain	ADJ	JJ	_	22	amod	22:amod	_
+20	shut	shut	VERB	VBN	_	22	amod	22:amod	_
+21	digital	digital	ADJ	JJ	_	22	amod	22:amod	_
+22	organisation	organisation	NOUN	NN	_	15	obl	15:obl	_
+23	,	,	PUNCT	,	_	25	punct	25:punct	_
+24	and	and	CCONJ	CC	_	25	cc	25:cc	_
+25	finish	finish	VERB	VBG	_	6	conj	6:conj	_
+26	up	up	ADP	RP	_	25	compound:prt	25:compound:prt	_
+27	with	with	ADP	IN	_	30	case	30:case	_
+28	an	a	DET	DT	_	30	det	30:det	_
+29	unreasonable	unreasonable	ADJ	JJ	_	30	amod	30:amod	_
+30	level	level	NOUN	NN	_	25	obl	25:obl	_
+31	of	of	ADP	IN	_	32	case	32:case	_
+32	mastery	mastery	NOUN	NN	_	30	nmod	30:nmod	_
+33	over	over	ADP	IN	_	34	case	34:case	_
+34	thing	thing	NOUN	NNS	_	30	nmod	30:nmod	_
+35	like	like	ADP	IN	_	36	case	36:case	_
+36	pricing	pricing	NOUN	NN	_	34	nmod	34:nmod	_
+37	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# format = sdp
+# sent_id = 2
+# gen_from = pos.synonymous_word
+# text = ROOT " I sense like I let a unspoilt fortune , but I behave n't palpate like I 'm anyplace nigh to the front-runner , " Ligety state after a declivitous grooming ladder final workweek .
+1	"	"	PUNCT	``	_	3	punct	3:punct	_
+2	I	I	PRON	PRP	_	3	nsubj	3:nsubj	_
+3	sense	sense	VERB	VBP	_	0	root	0:root	_
+4	like	like	SCONJ	IN	_	6	mark	6:mark	_
+5	I	I	PRON	PRP	_	6	nsubj	6:nsubj	_
+6	let	let	VERB	VBP	_	3	advcl	3:advcl	_
+7	a	a	DET	DT	_	9	det	9:det	_
+8	unspoilt	unspoilt	ADJ	JJ	_	9	amod	9:amod	_
+9	fortune	fortune	NOUN	NN	_	6	obj	6:obj	_
+10	,	,	PUNCT	,	_	15	punct	15:punct	_
+11	but	but	CCONJ	CC	_	15	cc	15:cc	_
+12	I	I	PRON	PRP	_	15	nsubj	15:nsubj	_
+13	behave	behave	AUX	VBP	_	15	aux	15:aux	_
+14	n't	not	PART	RB	_	15	advmod	15:advmod	_
+15	palpate	palpate	VERB	VB	_	3	conj	3:conj	_
+16	like	like	SCONJ	IN	_	20	mark	20:mark	_
+17	I	I	PRON	PRP	_	20	nsubj	20:nsubj	_
+18	'm	be	AUX	VBP	_	20	cop	20:cop	_
+19	anyplace	anyplace	ADV	RB	_	20	advmod	20:advmod	_
+20	nigh	nigh	ADV	RB	_	15	advcl	15:advcl	_
+21	to	to	ADP	IN	_	23	case	23:case	_
+22	the	the	DET	DT	_	23	det	23:det	_
+23	front-runner	front-runner	NOUN	NN	_	20	obl	20:obl	_
+24	,	,	PUNCT	,	_	3	punct	3:punct	_
+25	"	"	PUNCT	''	_	3	punct	3:punct	_
+26	Ligety	Ligety	PROPN	NNP	_	27	nsubj	27:nsubj	_
+27	state	state	VERB	VBD	_	3	parataxis	3:parataxis	_
+28	after	after	ADP	IN	_	32	case	32:case	_
+29	a	a	DET	DT	_	32	det	32:det	_
+30	declivitous	declivitous	ADJ	JJ	_	32	amod	32:amod	_
+31	grooming	grooming	NOUN	NN	_	32	compound	32:compound	_
+32	ladder	ladder	NOUN	NN	_	27	obl	27:obl	_
+33	final	final	ADJ	JJ	_	34	amod	34:amod	_
+34	workweek	workweek	NOUN	NN	_	27	obl:tmod	27:obl:tmod	_
+35	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# format = sdp
+# sent_id = 3
+# gen_from = pos.synonymous_word
+# text = ROOT The supermarket grouping will likewise charge to a windfall in non-food sales , take capitalize on the crash of Woolworths and Zavvi to trade videodisk loge readiness , calendars , company gearing and shaver ’s plaything .
+1	The	the	DET	DT	_	3	det	3:det	_
+2	supermarket	supermarket	NOUN	NN	_	3	compound	3:compound	_
+3	grouping	grouping	NOUN	NN	_	6	nsubj	6:nsubj	_
+4	will	will	AUX	MD	_	6	aux	6:aux	_
+5	likewise	likewise	ADV	RB	_	6	advmod	6:advmod	_
+6	charge	charge	VERB	VB	_	0	root	0:root	_
+7	to	to	ADP	IN	_	9	case	9:case	_
+8	a	a	DET	DT	_	9	det	9:det	_
+9	windfall	windfall	NOUN	NN	_	6	obl	6:obl	_
+10	in	in	ADP	IN	_	12	case	12:case	_
+11	non-food	non-food	NOUN	NN	_	12	compound	12:compound	_
+12	sales	sale	NOUN	NNS	_	9	nmod	9:nmod	_
+13	,	,	PUNCT	,	_	15	punct	15:punct	_
+14	take	take	AUX	VBG	_	15	aux	15:aux	_
+15	capitalize	capitalize	VERB	VBN	_	6	advcl	6:advcl	_
+16	on	on	ADP	IN	_	18	case	18:case	_
+17	the	the	DET	DT	_	18	det	18:det	_
+18	crash	crash	NOUN	NN	_	15	obl	15:obl	_
+19	of	of	ADP	IN	_	20	case	20:case	_
+20	Woolworths	Woolworth	PROPN	NNP	_	18	nmod	18:nmod	_
+21	and	and	CCONJ	CC	_	22	cc	22:cc	_
+22	Zavvi	Zavvi	PROPN	NNP	_	20	conj	20:conj	_
+23	to	to	PART	TO	_	24	mark	24:mark	_
+24	trade	trade	VERB	VB	_	15	advcl	15:advcl	_
+25	videodisk	videodisk	NOUN	NN	_	26	compound	26:compound	_
+26	loge	loge	NOUN	NN	_	27	compound	27:compound	_
+27	readiness	readiness	NOUN	NNS	_	24	obj	24:obj	_
+28	,	,	PUNCT	,	_	29	punct	29:punct	_
+29	calendars	calendar	NOUN	NNS	_	27	conj	27:conj	_
+30	,	,	PUNCT	,	_	32	punct	32:punct	_
+31	company	company	NOUN	NN	_	32	compound	32:compound	_
+32	gearing	gearing	NOUN	NN	_	27	conj	27:conj	_
+33	and	and	CCONJ	CC	_	36	cc	36:cc	_
+34	shaver	shaver	NOUN	NNS	_	36	nmod:poss	36:nmod:poss	_
+35	’s	's	PART	POS	_	34	case	34:case	_
+36	plaything	plaything	NOUN	NNS	_	27	conj	27:conj	_
+37	.	.	PUNCT	.	_	6	punct	6:punct	_
+
+# format = sdp
+# sent_id = 4
+# gen_from = pos.synonymous_word
+# text = ROOT Canada 's Old Bear mangle Norge to advance amber
+1	Canada	Canada	PROPN	NNP	_	4	nmod:poss	4:nmod:poss	_
+2	's	's	PART	POS	_	1	case	1:case	_
+3	Old	Old	ADJ	NNP	_	4	amod	4:amod	_
+4	Bear	Bear	PROPN	NNP	_	5	nsubj	5:nsubj	_
+5	mangle	mangle	VERB	VBZ	_	0	root	0:root	_
+6	Norge	norge	PROPN	NNP	_	5	obj	5:obj	_
+7	to	to	PART	TO	_	8	mark	8:mark	_
+8	advance	advance	VERB	VB	_	5	advcl	5:advcl	_
+9	amber	amber	NOUN	NN	_	8	obj	8:obj	_
+
+# format = sdp
+# sent_id = 5
+# gen_from = pos.synonymous_word
+# text = ROOT chairwoman Nicolas Sarkozy deliver clear oppose unemployment a anteriority and his administration experience enjoin totality it must undertake business , in peculiar since it possess live place multi-billion - euro pay despite the world lag .
+1	chairwoman	chairwoman	PROPN	NNP	_	5	nsubj	5:nsubj	_
+2	Nicolas	Nicolas	PROPN	NNP	_	1	flat	1:flat	_
+3	Sarkozy	Sarkozy	PROPN	NNP	_	1	flat	1:flat	_
+4	deliver	deliver	AUX	VBZ	_	5	aux	5:aux	_
+5	clear	clear	VERB	VBN	_	0	root	0:root	_
+6	oppose	oppose	VERB	VBG	_	5	xcomp	5:xcomp	_
+7	unemployment	unemployment	NOUN	NN	_	6	iobj	6:iobj	_
+8	a	a	DET	DT	_	9	det	9:det	_
+9	anteriority	anteriority	NOUN	NN	_	6	obj	6:obj	_
+10	and	and	CCONJ	CC	_	14	cc	14:cc	_
+11	his	he	PRON	PRP$	_	12	nmod:poss	12:nmod:poss	_
+12	administration	administration	NOUN	NN	_	14	nsubj	14:nsubj	_
+13	experience	experience	AUX	VBZ	_	14	aux	14:aux	_
+14	enjoin	enjoin	VERB	VBN	_	5	conj	5:conj	_
+15	totality	totality	NOUN	NN	_	14	iobj	14:iobj	_
+16	it	it	PRON	PRP	_	18	nsubj	18:nsubj	_
+17	must	must	AUX	MD	_	18	aux	18:aux	_
+18	undertake	undertake	VERB	VB	_	14	ccomp	14:ccomp	_
+19	business	business	NOUN	NNS	_	18	obj	18:obj	_
+20	,	,	PUNCT	,	_	18	punct	18:punct	_
+21	in	in	ADP	IN	_	22	case	22:case	_
+22	peculiar	peculiar	ADJ	JJ	_	27	obl	27:obl	_
+23	since	since	SCONJ	IN	_	27	mark	27:mark	_
+24	it	it	PRON	PRP	_	27	nsubj	27:nsubj	_
+25	possess	possess	AUX	VBZ	_	27	aux	27:aux	_
+26	live	live	AUX	VBN	_	27	aux	27:aux	_
+27	place	place	VERB	VBG	_	18	advcl	18:advcl	_
+28	multi-billion	multi-billion	NUM	CD	_	30	nummod	30:nummod	_
+29	-	-	PUNCT	HYPH	_	28	punct	28:punct	_
+30	euro	euro	NOUN	NN	_	31	compound	31:compound	_
+31	pay	pay	NOUN	NNS	_	27	obj	27:obj	_
+32	despite	despite	ADP	IN	_	35	case	35:case	_
+33	the	the	DET	DT	_	35	det	35:det	_
+34	world	world	ADJ	JJ	_	35	amod	35:amod	_
+35	lag	lag	NOUN	NN	_	27	obl	27:obl	_
+36	.	.	PUNCT	.	_	5	punct	5:punct	_
+
+# format = sdp
+# sent_id = 6
+# gen_from = pos.synonymous_word
+# text = ROOT hither 's how semi- legitimate plagiarisation exploit : you expect until the shipment suffer represent unload – the consignment 's proprietor and the sauceboat 's proprietor follow seldom one and the like , and you perform n't need to obscure the issuance lawfully – and so buy a local courtroom functionary to formalize your title .
+1	hither	hither	ADV	RB	_	0	root	0:root	_
+2	's	be	AUX	VBZ	_	1	cop	1:cop	_
+3	how	how	ADV	WRB	_	1	advmod	1:advmod	_
+4	semi-	semi-	ADJ	JJ	_	6	amod	6:amod	_
+5	legitimate	legitimate	VERB	VBN	_	6	amod	6:amod	_
+6	plagiarisation	plagiarisation	NOUN	NN	_	7	nsubj	7:nsubj	_
+7	exploit	exploit	VERB	VBZ	_	1	csubj	1:csubj	_
+8	:	:	PUNCT	:	_	10	punct	10:punct	_
+9	you	you	PRON	PRP	_	10	nsubj	10:nsubj	_
+10	expect	expect	VERB	VBP	_	1	parataxis	1:parataxis	_
+11	until	until	SCONJ	IN	_	16	mark	16:mark	_
+12	the	the	DET	DT	_	13	det	13:det	_
+13	shipment	shipment	NOUN	NN	_	16	nsubj:pass	16:nsubj:pass	_
+14	suffer	suffer	AUX	VBZ	_	16	aux	16:aux	_
+15	represent	represent	AUX	VBN	_	16	aux:pass	16:aux:pass	_
+16	unload	unload	VERB	VBN	_	10	advcl	10:advcl	_
+17	–	-	PUNCT	:	_	29	punct	29:punct	_
+18	the	the	DET	DT	_	19	det	19:det	_
+19	consignment	consignment	NOUN	NN	_	21	nmod:poss	21:nmod:poss	_
+20	's	's	PART	POS	_	19	case	19:case	_
+21	proprietor	proprietor	NOUN	NN	_	29	nsubj	29:nsubj	_
+22	and	and	CCONJ	CC	_	26	cc	26:cc	_
+23	the	the	DET	DT	_	24	det	24:det	_
+24	sauceboat	sauceboat	NOUN	NN	_	26	nmod:poss	26:nmod:poss	_
+25	's	's	PART	POS	_	24	case	24:case	_
+26	proprietor	proprietor	NOUN	NN	_	21	conj	21:conj	_
+27	follow	follow	AUX	VBP	_	29	cop	29:cop	_
+28	seldom	seldom	ADV	RB	_	29	advmod	29:advmod	_
+29	one	one	NUM	CD	_	10	parataxis	10:parataxis	_
+30	and	and	CCONJ	CC	_	32	cc	32:cc	_
+31	the	the	DET	DT	_	32	det	32:det	_
+32	like	like	ADJ	JJ	_	29	conj	29:conj	_
+33	,	,	PUNCT	,	_	38	punct	38:punct	_
+34	and	and	CCONJ	CC	_	38	cc	38:cc	_
+35	you	you	PRON	PRP	_	38	nsubj	38:nsubj	_
+36	perform	perform	AUX	VBP	_	38	aux	38:aux	_
+37	n't	not	PART	RB	_	38	advmod	38:advmod	_
+38	need	need	VERB	VB	_	29	conj	29:conj	_
+39	to	to	PART	TO	_	40	mark	40:mark	_
+40	obscure	obscure	VERB	VB	_	38	xcomp	38:xcomp	_
+41	the	the	DET	DT	_	42	det	42:det	_
+42	issuance	issuance	NOUN	NN	_	40	obj	40:obj	_
+43	lawfully	lawfully	ADV	RB	_	40	advmod	40:advmod	_
+44	–	-	PUNCT	:	_	10	punct	10:punct	_
+45	and	and	CCONJ	CC	_	47	cc	47:cc	_
+46	so	so	ADV	RB	_	47	advmod	47:advmod	_
+47	buy	buy	VERB	VB	_	10	conj	10:conj	_
+48	a	a	DET	DT	_	51	det	51:det	_
+49	local	local	ADJ	JJ	_	51	amod	51:amod	_
+50	courtroom	courtroom	NOUN	NN	_	51	compound	51:compound	_
+51	functionary	functionary	NOUN	NN	_	47	obj	47:obj	_
+52	to	to	PART	TO	_	53	mark	53:mark	_
+53	formalize	formalize	VERB	VB	_	47	advcl	47:advcl	_
+54	your	you	PRON	PRP$	_	55	nmod:poss	55:nmod:poss	_
+55	title	title	NOUN	NN	_	53	obj	53:obj	_
+56	.	.	PUNCT	.	_	1	punct	1:punct	_
+
+# format = sdp
+# sent_id = 7
+# gen_from = pos.synonymous_word
+# text = ROOT If the course admit , so the 2010 vacation drive season should embody as dependable , experts pronounce .
+1	If	if	SCONJ	IN	_	4	mark	4:mark	_
+2	the	the	DET	DT	_	3	det	3:det	_
+3	course	course	NOUN	NN	_	4	nsubj	4:nsubj	_
+4	admit	admit	VERB	VBZ	_	15	advcl	15:advcl	_
+5	,	,	PUNCT	,	_	15	punct	15:punct	_
+6	so	so	ADV	RB	_	15	advmod	15:advmod	_
+7	the	the	DET	DT	_	11	det	11:det	_
+8	2010	2010	NUM	CD	_	11	nummod	11:nummod	_
+9	vacation	vacation	NOUN	NN	_	11	compound	11:compound	_
+10	drive	drive	NOUN	NN	_	11	compound	11:compound	_
+11	season	season	NOUN	NN	_	15	nsubj	15:nsubj	_
+12	should	should	AUX	MD	_	15	aux	15:aux	_
+13	embody	embody	AUX	VB	_	15	cop	15:cop	_
+14	as	as	ADV	RB	_	15	advmod	15:advmod	_
+15	dependable	dependable	ADJ	JJ	_	18	ccomp	18:ccomp	_
+16	,	,	PUNCT	,	_	15	punct	15:punct	_
+17	experts	expert	NOUN	NNS	_	18	nsubj	18:nsubj	_
+18	pronounce	pronounce	VERB	VBP	_	0	root	0:root	_
+19	.	.	PUNCT	.	_	18	punct	18:punct	_
+
+# format = sdp
+# sent_id = 8
+# gen_from = pos.synonymous_word
+# text = ROOT tricycle exist a jolly grownup and so more seeable , " read Jim McGrath , 75 , of Chula view , whose brilliant ruddy , low-spirited - equitation Rewaco velocipede mensurate 12 1 / 2 fundament long and 6 pes broad .
+1	tricycle	tricycle	NOUN	NNS	_	5	nsubj	5:nsubj	_
+2	exist	exist	AUX	VBP	_	5	cop	5:cop	_
+3	a	a	DET	DT	_	5	det	5:det	_
+4	jolly	jolly	ADV	RB	_	5	advmod	5:advmod	_
+5	grownup	grownup	ADJ	JJ	_	12	ccomp	12:ccomp	_
+6	and	and	CCONJ	CC	_	9	cc	9:cc	_
+7	so	so	ADV	RB	_	9	advmod	9:advmod	_
+8	more	more	ADV	RBR	_	9	advmod	9:advmod	_
+9	seeable	seeable	ADJ	JJ	_	5	conj	5:conj	_
+10	,	,	PUNCT	,	_	12	punct	12:punct	_
+11	"	"	PUNCT	''	_	12	punct	12:punct	_
+12	read	read	VERB	VBD	_	0	root	0:root	_
+13	Jim	Jim	PROPN	NNP	_	12	nsubj	12:nsubj	_
+14	McGrath	McGrath	PROPN	NNP	_	13	flat	13:flat	_
+15	,	,	PUNCT	,	_	13	punct	13:punct	_
+16	75	75	NUM	CD	_	13	amod	13:amod	_
+17	,	,	PUNCT	,	_	13	punct	13:punct	_
+18	of	of	ADP	IN	_	19	case	19:case	_
+19	Chula	Chula	PROPN	NNP	_	13	nmod	13:nmod	_
+20	view	view	PROPN	NNP	_	19	flat	19:flat	_
+21	,	,	PUNCT	,	_	22	punct	22:punct	_
+22	whose	whose	PRON	WP$	_	30	nmod:poss	30:nmod:poss	_
+23	brilliant	brilliant	ADJ	JJ	_	30	amod	30:amod	_
+24	ruddy	ruddy	ADJ	JJ	_	30	amod	30:amod	_
+25	,	,	PUNCT	,	_	24	punct	24:punct	_
+26	low-spirited	low-spirited	ADJ	JJ	_	28	amod	28:amod	_
+27	-	-	PUNCT	HYPH	_	28	punct	28:punct	_
+28	equitation	equitation	NOUN	NN	_	30	compound	30:compound	_
+29	Rewaco	Rewaco	PROPN	NNP	_	30	compound	30:compound	_
+30	velocipede	velocipede	NOUN	NN	_	31	nsubj	31:nsubj	_
+31	mensurate	mensurate	VERB	VBZ	_	19	acl:relcl	19:acl:relcl	_
+32	12	12	NUM	CD	_	36	nummod	36:nummod	_
+33	1	1	NUM	CD	_	36	nummod	36:nummod	_
+34	/	/	SYM	SYM	_	35	case	35:case	_
+35	2	2	NUM	CD	_	33	nmod	33:nmod	_
+36	fundament	fundament	NOUN	NNS	_	37	obl:npmod	37:obl:npmod	_
+37	long	long	ADV	RB	_	31	advmod	31:advmod	_
+38	and	and	CCONJ	CC	_	41	cc	41:cc	_
+39	6	6	NUM	CD	_	40	nummod	40:nummod	_
+40	pes	pes	NOUN	NNS	_	41	obl:npmod	41:obl:npmod	_
+41	broad	broad	ADJ	JJ	_	37	conj	37:conj	_
+42	.	.	PUNCT	.	_	12	punct	12:punct	_
+
+# format = sdp
+# sent_id = 9
+# gen_from = pos.synonymous_word
+# text = ROOT Within a few months , she would constitute charge in her ain home as the principal solidifying from simply a six - varlet scheme -- the celluloid itself deliver no authorship mention on it , though Aselton exist accredit as screenwriter in the Sundance programme templet -- as she and her worker would improvize the negotiation .
+1	Within	within	ADP	IN	_	4	case	4:case	_
+2	a	a	DET	DT	_	4	det	4:det	_
+3	few	few	ADJ	JJ	_	4	amod	4:amod	_
+4	months	month	NOUN	NNS	_	9	obl	9:obl	_
+5	,	,	PUNCT	,	_	9	punct	9:punct	_
+6	she	she	PRON	PRP	_	9	nsubj	9:nsubj	_
+7	would	would	AUX	MD	_	9	aux	9:aux	_
+8	constitute	constitute	AUX	VB	_	9	aux	9:aux	_
+9	charge	charge	VERB	VBG	_	0	root	0:root	_
+10	in	in	ADP	IN	_	13	case	13:case	_
+11	her	she	PRON	PRP$	_	13	nmod:poss	13:nmod:poss	_
+12	ain	ain	ADJ	JJ	_	13	amod	13:amod	_
+13	home	home	NOUN	NN	_	9	obl	9:obl	_
+14	as	as	ADP	IN	_	17	case	17:case	_
+15	the	the	DET	DT	_	17	det	17:det	_
+16	principal	principal	ADJ	JJ	_	17	amod	17:amod	_
+17	solidifying	solidifying	NOUN	NN	_	9	obl	9:obl	_
+18	from	from	ADP	IN	_	24	case	24:case	_
+19	simply	simply	ADV	RB	_	24	advmod	24:advmod	_
+20	a	a	DET	DT	_	24	det	24:det	_
+21	six	six	NUM	CD	_	23	nummod	23:nummod	_
+22	-	-	PUNCT	HYPH	_	23	punct	23:punct	_
+23	varlet	varlet	NOUN	NN	_	24	compound	24:compound	_
+24	scheme	scheme	NOUN	NN	_	17	nmod	17:nmod	_
+25	--	--	PUNCT	,	_	9	punct	9:punct	_
+26	the	the	DET	DT	_	27	det	27:det	_
+27	celluloid	celluloid	NOUN	NN	_	29	nsubj	29:nsubj	_
+28	itself	itself	PRON	PRP	_	27	nmod:npmod	27:nmod:npmod	_
+29	deliver	deliver	VERB	VBZ	_	9	parataxis	9:parataxis	_
+30	no	no	DET	DT	_	32	det	32:det	_
+31	authorship	authorship	NOUN	NN	_	32	compound	32:compound	_
+32	mention	mention	NOUN	NN	_	29	obj	29:obj	_
+33	on	on	ADP	IN	_	34	case	34:case	_
+34	it	it	PRON	PRP	_	29	obl	29:obl	_
+35	,	,	PUNCT	,	_	39	punct	39:punct	_
+36	though	though	SCONJ	IN	_	39	mark	39:mark	_
+37	Aselton	Aselton	PROPN	NNP	_	39	nsubj:pass	39:nsubj:pass	_
+38	exist	exist	AUX	VBZ	_	39	aux:pass	39:aux:pass	_
+39	accredit	accredit	VERB	VBN	_	29	advcl	29:advcl	_
+40	as	as	ADP	IN	_	41	case	41:case	_
+41	screenwriter	screenwriter	NOUN	NN	_	39	obl	39:obl	_
+42	in	in	ADP	IN	_	46	case	46:case	_
+43	the	the	DET	DT	_	46	det	46:det	_
+44	Sundance	Sundance	PROPN	NNP	_	45	compound	45:compound	_
+45	programme	programme	NOUN	NN	_	46	compound	46:compound	_
+46	templet	templet	NOUN	NN	_	39	obl	39:obl	_
+47	--	--	PUNCT	,	_	9	punct	9:punct	_
+48	as	as	SCONJ	IN	_	54	mark	54:mark	_
+49	she	she	PRON	PRP	_	54	nsubj	54:nsubj	_
+50	and	and	CCONJ	CC	_	52	cc	52:cc	_
+51	her	she	PRON	PRP$	_	52	nmod:poss	52:nmod:poss	_
+52	worker	worker	NOUN	NNS	_	49	conj	49:conj	_
+53	would	would	AUX	MD	_	54	aux	54:aux	_
+54	improvize	improvize	VERB	VB	_	39	advcl	39:advcl	_
+55	the	the	DET	DT	_	56	det	56:det	_
+56	negotiation	negotiation	NOUN	NN	_	54	obj	54:obj	_
+57	.	.	PUNCT	.	_	9	punct	9:punct	_
+
+# format = sdp
+# sent_id = 10
+# gen_from = pos.synonymous_word
+# text = ROOT Lane articulate he fare non forestall any of his one-time instrumentalist at Coolidge transplant to conjoin him at Denali .
+1	Lane	Lane	PROPN	NNP	_	2	nsubj	2:nsubj	_
+2	articulate	articulate	VERB	VBD	_	0	root	0:root	_
+3	he	he	PRON	PRP	_	6	nsubj	6:nsubj	_
+4	fare	fare	AUX	VBD	_	6	aux	6:aux	_
+5	non	non	PART	RB	_	6	advmod	6:advmod	_
+6	forestall	forestall	VERB	VB	_	2	ccomp	2:ccomp	_
+7	any	any	DET	DT	_	6	obj	6:obj	_
+8	of	of	ADP	IN	_	11	case	11:case	_
+9	his	he	PRON	PRP$	_	11	nmod:poss	11:nmod:poss	_
+10	one-time	one-time	ADJ	JJ	_	11	amod	11:amod	_
+11	instrumentalist	instrumentalist	NOUN	NNS	_	7	nmod	7:nmod	_
+12	at	at	ADP	IN	_	13	case	13:case	_
+13	Coolidge	Coolidge	PROPN	NNP	_	11	nmod	11:nmod	_
+14	transplant	transplant	VERB	VBG	_	6	advcl	6:advcl	_
+15	to	to	PART	TO	_	16	mark	16:mark	_
+16	conjoin	conjoin	VERB	VB	_	14	xcomp	14:xcomp	_
+17	him	he	PRON	PRP	_	16	obj	16:obj	_
+18	at	at	ADP	IN	_	19	case	19:case	_
+19	Denali	denali	PROPN	NNP	_	16	obl	16:obl	_
+20	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# format = sdp
+# sent_id = 11
+# gen_from = pos.synonymous_word
+# text = ROOT NACCO material manipulation Group's ( " NMHG " ) lucre income for the 3rd tail of 2010 embody $ 3.8 million liken with a final deprivation of $ 22.4 million in 2009 .
+1	NACCO	NACCO	PROPN	NNP	_	2	compound	2:compound	_
+2	material	material	PROPN	NNP	_	4	compound	4:compound	_
+3	manipulation	manipulation	PROPN	NNP	_	4	compound	4:compound	_
+4	Group's	Group's	PROPN	NNPS	_	11	compound	11:compound	_
+5	(	(	PUNCT	-LRB-	_	7	punct	7:punct	_
+6	"	"	PUNCT	``	_	7	punct	7:punct	_
+7	NMHG	NMHG	PROPN	NNP	_	4	appos	4:appos	_
+8	"	"	PUNCT	''	_	7	punct	7:punct	_
+9	)	)	PUNCT	-RRB-	_	7	punct	7:punct	_
+10	lucre	lucre	NOUN	NN	_	11	compound	11:compound	_
+11	income	income	NOUN	NN	_	19	nsubj	19:nsubj	_
+12	for	for	ADP	IN	_	15	case	15:case	_
+13	the	the	DET	DT	_	15	det	15:det	_
+14	3rd	3rd	ADJ	JJ	_	15	amod	15:amod	_
+15	tail	tail	NOUN	NN	_	11	nmod	11:nmod	_
+16	of	of	ADP	IN	_	17	case	17:case	_
+17	2010	2010	NUM	CD	_	15	nmod	15:nmod	_
+18	embody	embody	AUX	VBD	_	19	cop	19:cop	_
+19	$	$	SYM	$	_	0	root	0:root	_
+20	3.8	3.8	NUM	CD	_	21	compound	21:compound	_
+21	million	million	NUM	CD	_	19	nummod	19:nummod	_
+22	liken	liken	VERB	VBN	_	19	acl	19:acl	_
+23	with	with	ADP	IN	_	26	case	26:case	_
+24	a	a	DET	DT	_	26	det	26:det	_
+25	final	final	ADJ	JJ	_	26	amod	26:amod	_
+26	deprivation	deprivation	NOUN	NN	_	22	obl	22:obl	_
+27	of	of	ADP	IN	_	28	case	28:case	_
+28	$	$	SYM	$	_	26	nmod	26:nmod	_
+29	22.4	22.4	NUM	CD	_	30	compound	30:compound	_
+30	million	million	NUM	CD	_	28	nummod	28:nummod	_
+31	in	in	ADP	IN	_	32	case	32:case	_
+32	2009	2009	NUM	CD	_	28	nmod	28:nmod	_
+33	.	.	PUNCT	.	_	19	punct	19:punct	_
+
+# format = sdp
+# sent_id = 12
+# gen_from = pos.synonymous_word
+# text = ROOT Ellas own about euro20 billion of debt ripen over the future duet of months and the terminal affair it require follow to bear sky - gamy bounty to adopt in the outside adhesion grocery .
+1	Ellas	ellas	PROPN	NNP	_	2	nsubj	2:nsubj	_
+2	own	own	VERB	VBZ	_	0	root	0:root	_
+3	about	about	ADV	RB	_	5	advmod	5:advmod	_
+4	euro20	euro20	NUM	CD	_	5	nummod	5:nummod	_
+5	billion	billion	NUM	CD	_	2	obj	2:obj	_
+6	of	of	ADP	IN	_	7	case	7:case	_
+7	debt	debt	NOUN	NN	_	5	nmod	5:nmod	_
+8	ripen	ripen	VERB	VBG	_	7	acl	7:acl	_
+9	over	over	ADP	IN	_	12	case	12:case	_
+10	the	the	DET	DT	_	12	det	12:det	_
+11	future	future	ADJ	JJ	_	12	amod	12:amod	_
+12	duet	duet	NOUN	NN	_	2	obl	2:obl	_
+13	of	of	ADP	IN	_	14	case	14:case	_
+14	months	month	NOUN	NNS	_	12	nmod	12:nmod	_
+15	and	and	CCONJ	CC	_	23	cc	23:cc	_
+16	the	the	DET	DT	_	18	det	18:det	_
+17	terminal	terminal	ADJ	JJ	_	18	amod	18:amod	_
+18	affair	affair	NOUN	NN	_	23	nsubj:outer	23:nsubj:outer	_
+19	it	it	PRON	PRP	_	20	nsubj	20:nsubj	_
+20	require	require	VERB	VBZ	_	18	acl:relcl	18:acl:relcl	_
+21	follow	follow	AUX	VBZ	_	23	cop	23:cop	_
+22	to	to	PART	TO	_	23	mark	23:mark	_
+23	bear	bear	VERB	VB	_	2	conj	2:conj	_
+24	sky	sky	NOUN	NN	_	26	compound	26:compound	_
+25	-	-	PUNCT	HYPH	_	24	punct	24:punct	_
+26	gamy	gamy	ADJ	JJ	_	27	amod	27:amod	_
+27	bounty	bounty	NOUN	NNS	_	23	obj	23:obj	_
+28	to	to	PART	TO	_	29	mark	29:mark	_
+29	adopt	adopt	VERB	VB	_	23	advcl	23:advcl	_
+30	in	in	ADP	IN	_	34	case	34:case	_
+31	the	the	DET	DT	_	34	det	34:det	_
+32	outside	outside	ADJ	JJ	_	34	amod	34:amod	_
+33	adhesion	adhesion	NOUN	NN	_	34	compound	34:compound	_
+34	grocery	grocery	NOUN	NNS	_	29	obl	29:obl	_
+35	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# format = sdp
+# sent_id = 13
+# gen_from = pos.synonymous_word
+# text = ROOT I incline forrader and ground no intimation .
+1	I	I	PRON	PRP	_	2	nsubj	2:nsubj	_
+2	incline	incline	VERB	VBD	_	0	root	0:root	_
+3	forrader	forrader	ADV	RB	_	2	advmod	2:advmod	_
+4	and	and	CCONJ	CC	_	5	cc	5:cc	_
+5	ground	ground	VERB	VBD	_	2	conj	2:conj	_
+6	no	no	DET	DT	_	7	det	7:det	_
+7	intimation	intimation	NOUN	NN	_	5	obj	5:obj	_
+8	.	.	PUNCT	.	_	2	punct	2:punct	_
+
+# format = sdp
+# sent_id = 14
+# gen_from = pos.synonymous_word
+# text = ROOT It take issue $ 280,000 of its ain store , and comprise post assist experts to avail recuperation crusade , but emphasize that local functionary cost drive the trail - unlike in Hayti , where the Jan quake ruin enceinte portion of the majuscule , interface - gold - Prince , and defeat o'er 200,000 .
+1	It	it	PRON	PRP	_	3	nsubj	3:nsubj	_
+2	take	take	AUX	VBZ	_	3	aux	3:aux	_
+3	issue	issue	VERB	VBN	_	0	root	0:root	_
+4	$	$	SYM	$	_	3	obj	3:obj	_
+5	280,000	280000	NUM	CD	_	4	nummod	4:nummod	_
+6	of	of	ADP	IN	_	9	case	9:case	_
+7	its	its	PRON	PRP$	_	9	nmod:poss	9:nmod:poss	_
+8	ain	ain	ADJ	JJ	_	9	amod	9:amod	_
+9	store	store	NOUN	NNS	_	4	nmod	4:nmod	_
+10	,	,	PUNCT	,	_	13	punct	13:punct	_
+11	and	and	CCONJ	CC	_	13	cc	13:cc	_
+12	comprise	comprise	AUX	VBZ	_	13	aux	13:aux	_
+13	post	post	VERB	VBG	_	3	conj	3:conj	_
+14	assist	assist	NOUN	NN	_	15	compound	15:compound	_
+15	experts	expert	NOUN	NNS	_	13	obj	13:obj	_
+16	to	to	PART	TO	_	17	mark	17:mark	_
+17	avail	avail	VERB	VB	_	13	advcl	13:advcl	_
+18	recuperation	recuperation	NOUN	NN	_	19	compound	19:compound	_
+19	crusade	crusade	NOUN	NNS	_	17	obj	17:obj	_
+20	,	,	PUNCT	,	_	22	punct	22:punct	_
+21	but	but	CCONJ	CC	_	22	cc	22:cc	_
+22	emphasize	emphasize	VERB	VBD	_	3	conj	3:conj	_
+23	that	that	SCONJ	IN	_	27	mark	27:mark	_
+24	local	local	ADJ	JJ	_	25	amod	25:amod	_
+25	functionary	functionary	NOUN	NNS	_	27	nsubj	27:nsubj	_
+26	cost	cost	AUX	VBD	_	27	aux	27:aux	_
+27	drive	drive	VERB	VBG	_	22	ccomp	22:ccomp	_
+28	the	the	DET	DT	_	29	det	29:det	_
+29	trail	trail	NOUN	NN	_	27	obj	27:obj	_
+30	-	-	PUNCT	HYPH	_	31	punct	31:punct	_
+31	unlike	unlike	ADP	IN	_	33	case	33:case	_
+32	in	in	ADP	IN	_	33	case	33:case	_
+33	Hayti	hayti	PROPN	NNP	_	27	obl	27:obl	_
+34	,	,	PUNCT	,	_	33	punct	33:punct	_
+35	where	where	ADV	WRB	_	39	advmod	39:advmod	_
+36	the	the	DET	DT	_	38	det	38:det	_
+37	Jan	jan	PROPN	NNP	_	38	compound	38:compound	_
+38	quake	quake	NOUN	NN	_	39	nsubj	39:nsubj	_
+39	ruin	ruin	VERB	VBD	_	33	acl:relcl	33:acl:relcl	_
+40	enceinte	enceinte	ADJ	JJ	_	41	amod	41:amod	_
+41	portion	portion	NOUN	NNS	_	39	obj	39:obj	_
+42	of	of	ADP	IN	_	44	case	44:case	_
+43	the	the	DET	DT	_	44	det	44:det	_
+44	majuscule	majuscule	NOUN	NN	_	41	nmod	41:nmod	_
+45	,	,	PUNCT	,	_	50	punct	50:punct	_
+46	interface	interface	PROPN	NNP	_	50	compound	50:compound	_
+47	-	-	PUNCT	HYPH	_	48	punct	48:punct	_
+48	gold	gold	PROPN	NNP	_	50	compound	50:compound	_
+49	-	-	PUNCT	HYPH	_	50	punct	50:punct	_
+50	Prince	Prince	PROPN	NNP	_	44	appos	44:appos	_
+51	,	,	PUNCT	,	_	53	punct	53:punct	_
+52	and	and	CCONJ	CC	_	53	cc	53:cc	_
+53	defeat	defeat	VERB	VBD	_	39	conj	39:conj	_
+54	o'er	o'er	ADV	RB	_	55	advmod	55:advmod	_
+55	200,000	200000	NUM	CD	_	53	obj	53:obj	_
+56	.	.	PUNCT	.	_	3	punct	3:punct	_
+
+# format = sdp
+# sent_id = 15
+# gen_from = pos.synonymous_word
+# text = ROOT stops — Whatever else it intend , the desultory destruction Tues to the Union putrefaction test of onetime IL Gov. pole Blagojevich assure we live stuck with the dumbass at least through most of 2011 .
+1	stops	stops	PROPN	NNP	_	23	vocative	23:vocative	_
+2	—	—	PUNCT	:	_	1	punct	1:punct	_
+3	Whatever	whatever	PRON	WP	_	6	obj	6:obj	_
+4	else	else	ADV	RB	_	3	advmod	3:advmod	_
+5	it	it	PRON	PRP	_	6	nsubj	6:nsubj	_
+6	intend	intend	VERB	VBZ	_	1	parataxis	1:parataxis	_
+7	,	,	PUNCT	,	_	23	punct	23:punct	_
+8	the	the	DET	DT	_	10	det	10:det	_
+9	desultory	desultory	ADJ	JJ	_	10	amod	10:amod	_
+10	destruction	destruction	NOUN	NN	_	23	nsubj	23:nsubj	_
+11	Tues	tues	PROPN	NNP	_	10	nmod:tmod	10:nmod:tmod	_
+12	to	to	ADP	IN	_	16	case	16:case	_
+13	the	the	DET	DT	_	16	det	16:det	_
+14	Union	union	ADJ	JJ	_	16	amod	16:amod	_
+15	putrefaction	putrefaction	NOUN	NN	_	16	compound	16:compound	_
+16	test	test	NOUN	NN	_	10	nmod	10:nmod	_
+17	of	of	ADP	IN	_	20	case	20:case	_
+18	onetime	onetime	ADJ	JJ	_	20	amod	20:amod	_
+19	IL	il	PROPN	NNP	_	20	compound	20:compound	_
+20	Gov.	Gov.	PROPN	NNP	_	16	nmod	16:nmod	_
+21	pole	pole	PROPN	NNP	_	20	flat	20:flat	_
+22	Blagojevich	Blagojevich	PROPN	NNP	_	20	flat	20:flat	_
+23	assure	assure	VERB	VBZ	_	0	root	0:root	_
+24	we	we	PRON	PRP	_	26	nsubj	26:nsubj	_
+25	live	live	AUX	VBP	_	26	cop	26:cop	_
+26	stuck	stuck	ADJ	JJ	_	23	ccomp	23:ccomp	_
+27	with	with	ADP	IN	_	29	case	29:case	_
+28	the	the	DET	DT	_	29	det	29:det	_
+29	dumbass	dumbass	NOUN	NN	_	26	obl	26:obl	_
+30	at	at	ADP	IN	_	33	advmod	33:advmod	_
+31	least	least	ADJ	JJS	_	30	fixed	30:fixed	_
+32	through	through	ADP	IN	_	33	case	33:case	_
+33	most	most	ADJ	JJS	_	26	obl	26:obl	_
+34	of	of	ADP	IN	_	35	case	35:case	_
+35	2011	2011	NUM	CD	_	33	nmod	33:nmod	_
+36	.	.	PUNCT	.	_	23	punct	23:punct	_
+
+# format = sdp
+# sent_id = 16
+# gen_from = pos.synonymous_word
+# text = ROOT Levecke , a parasitologist at Gand University and the Royal Zoological companionship of Anvers , and his confrere gather faecal sampling from zookeepers and respective creature at The Perth Zoological Gardens in Western Australia , the Melbourne menagerie , the Werribee surface image menagerie in Victoria , Australia , and unnamed menagerie from Amsterdam and Anvers .
+1	Levecke	Levecke	PROPN	NNP	_	19	nsubj	19:nsubj	_
+2	,	,	PUNCT	,	_	4	punct	4:punct	_
+3	a	a	DET	DT	_	4	det	4:det	_
+4	parasitologist	parasitologist	NOUN	NN	_	1	appos	1:appos	_
+5	at	at	ADP	IN	_	7	case	7:case	_
+6	Gand	gand	PROPN	NNP	_	7	compound	7:compound	_
+7	University	University	PROPN	NNP	_	4	nmod	4:nmod	_
+8	and	and	CCONJ	CC	_	12	cc	12:cc	_
+9	the	the	DET	DT	_	12	det	12:det	_
+10	Royal	Royal	ADJ	NNP	_	12	amod	12:amod	_
+11	Zoological	zoological	ADJ	NNP	_	12	amod	12:amod	_
+12	companionship	companionship	PROPN	NNP	_	1	conj	1:conj	_
+13	of	of	ADP	IN	_	14	case	14:case	_
+14	Anvers	anvers	PROPN	NNP	_	12	nmod	12:nmod	_
+15	,	,	PUNCT	,	_	18	punct	18:punct	_
+16	and	and	CCONJ	CC	_	18	cc	18:cc	_
+17	his	he	PRON	PRP$	_	18	nmod:poss	18:nmod:poss	_
+18	confrere	confrere	NOUN	NNS	_	1	conj	1:conj	_
+19	gather	gather	VERB	VBD	_	0	root	0:root	_
+20	faecal	faecal	ADJ	JJ	_	21	amod	21:amod	_
+21	sampling	sampling	NOUN	NNS	_	19	obj	19:obj	_
+22	from	from	ADP	IN	_	23	case	23:case	_
+23	zookeepers	zookeeper	NOUN	NNS	_	21	nmod	21:nmod	_
+24	and	and	CCONJ	CC	_	26	cc	26:cc	_
+25	respective	respective	ADJ	JJ	_	26	amod	26:amod	_
+26	creature	creature	NOUN	NNS	_	23	conj	23:conj	_
+27	at	at	ADP	IN	_	31	case	31:case	_
+28	The	the	DET	DT	_	31	det	31:det	_
+29	Perth	Perth	PROPN	NNP	_	31	compound	31:compound	_
+30	Zoological	zoological	ADJ	NNP	_	31	amod	31:amod	_
+31	Gardens	Garden	PROPN	NNPS	_	23	nmod	23:nmod	_
+32	in	in	ADP	IN	_	34	case	34:case	_
+33	Western	western	ADJ	NNP	_	34	amod	34:amod	_
+34	Australia	Australia	PROPN	NNP	_	31	nmod	31:nmod	_
+35	,	,	PUNCT	,	_	38	punct	38:punct	_
+36	the	the	DET	DT	_	38	det	38:det	_
+37	Melbourne	Melbourne	PROPN	NNP	_	38	compound	38:compound	_
+38	menagerie	menagerie	PROPN	NNP	_	31	conj	31:conj	_
+39	,	,	PUNCT	,	_	44	punct	44:punct	_
+40	the	the	DET	DT	_	44	det	44:det	_
+41	Werribee	Werribee	PROPN	NNP	_	44	compound	44:compound	_
+42	surface	surface	ADJ	NNP	_	44	amod	44:amod	_
+43	image	image	PROPN	NNP	_	44	compound	44:compound	_
+44	menagerie	menagerie	PROPN	NNP	_	23	conj	23:conj	_
+45	in	in	ADP	IN	_	46	case	46:case	_
+46	Victoria	Victoria	PROPN	NNP	_	44	nmod	44:nmod	_
+47	,	,	PUNCT	,	_	48	punct	48:punct	_
+48	Australia	Australia	PROPN	NNP	_	46	appos	46:appos	_
+49	,	,	PUNCT	,	_	52	punct	52:punct	_
+50	and	and	CCONJ	CC	_	52	cc	52:cc	_
+51	unnamed	unnamed	ADJ	JJ	_	52	amod	52:amod	_
+52	menagerie	menagerie	NOUN	NNS	_	21	conj	21:conj	_
+53	from	from	ADP	IN	_	54	case	54:case	_
+54	Amsterdam	Amsterdam	PROPN	NNP	_	52	nmod	52:nmod	_
+55	and	and	CCONJ	CC	_	56	cc	56:cc	_
+56	Anvers	anvers	PROPN	NNP	_	54	conj	54:conj	_
+57	.	.	PUNCT	.	_	19	punct	19:punct	_
+
