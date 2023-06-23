@@ -36,7 +36,7 @@ python supar/cmds/gnn_pretrain.py
 train
 -b
 -d 0
--c /SynGraphCL/gnn-pretrain.ini
+-c ../../gnn-pretrain.ini
 ```
 
 ## Fine-tuning
@@ -46,7 +46,7 @@ python supar/cmds/gnn_finetune_sdp.py
 train
 -b
 -d 0
--c /SynGraphCL/gnn-pretrain.ini
+-c ../../gnn-pretrain.ini
 ```
 
 ## Evaluating
@@ -55,5 +55,5 @@ Run the following command to load the trained model and evaluate it:
 python supar/cmds/gnn_finetune_sdp.py 
 evaluate
 -d 0
--c /SynGraphCL/gnn-pretrain.ini
+-c ../../gnn-pretrain.ini
 ```
