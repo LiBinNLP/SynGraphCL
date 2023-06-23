@@ -15,7 +15,7 @@ def main():
     subparser = subparsers.add_parser('train', help='Train a parser.')
     subparser.add_argument('--feat', '-f', choices=['tag', 'char', 'lemma', 'elmo', 'bert'], default=['tag', 'char', 'lemma'], nargs='*', help='features to use')
     subparser.add_argument('--build', '-b', action='store_true', help='whether to build the model first')
-    subparser.add_argument('--pretrained_gnn_path', '-g', default='/mnt/sda1_hd/atur/libin/projects/SynGraphCL/output/pretrain/ggnn/model', type=str, help='path of contrastive pretrained gnn model')
+    subparser.add_argument('--pretrained_gnn_path', '-g', default='/mnt/sda1_hd/projects/SynGraphCL/output/pretrain/ggnn/model', type=str, help='path of contrastive pretrained gnn model')
     subparser.add_argument('--checkpoint', action='store_true', help='whether to load a checkpoint to restore training')
     subparser.add_argument('--encoder', choices=['lstm', 'transformer', 'bert'], default='lstm', help='encoder to use')
     subparser.add_argument('--max-len', type=int, help='max length of the sentences')
@@ -36,7 +36,7 @@ def main():
     subparser.add_argument('--data', default='data/sdp/DM/test.conllu', help='path to dataset')
     subparser.add_argument('--pred', default='pred.conllu', help='path to predicted result')
     subparser.add_argument('--prob', action='store_true', help='whether to output probs')
-    parser.add_argument('--path', '-p', default='/mnt/sda1_hd/atur/libin/projects/FewShotSDP/output/pretrain/ggnn/model', help='path to model file')
+    parser.add_argument('--path', '-p', default='/mnt/sda1_hd/projects/FewShotSDP/output/pretrain/ggnn/model', help='path to model file')
 
     init(parser)
 
