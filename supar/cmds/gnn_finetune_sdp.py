@@ -27,7 +27,7 @@ def main(language, formalism, data_percent, number):
     subparser.add_argument('--dev', default=PROJ_BASE_PATH + 'data/sdp/{}/{}/dev.{}.{}.conllu'.format(formalism, language, language, formalism.lower()), help='path to dev file')
     subparser.add_argument('--syn_dev', default=PROJ_BASE_PATH + 'data/syn_dep/{}/syn.dev.{}.{}.conllu'.format(language, language, formalism.lower()), help='path to dev file')
     subparser.add_argument('--test', default=PROJ_BASE_PATH + 'data/sdp/{}/{}/{}.id.{}.conllu'.format(formalism, language, language, formalism.lower()), help='path to test file')
-    subparser.add_argument('--syn_test', default=PROJ_BASE_PATH + 'data/syn_dep/{}/syn.{}.id.conllu'.format(language, language), help='path to test file')
+    subparser.add_argument('--syn_test', default=PROJ_BASE_PATH + 'data/syn_dep/{}/syn.{}.id.dm.conllu'.format(language, language), help='path to test file')
 
     # subparser.add_argument('--embed', default=False, help='file or embeddings available at `supar.utils.Embedding`')
     subparser.add_argument('--embed', default='/mnt/wordvec/english/glove.6B.100d.txt', help='file or embeddings available at `supar.utils.Embedding`')
@@ -37,7 +37,7 @@ def main(language, formalism, data_percent, number):
     subparser = subparsers.add_parser('evaluate', help='Evaluate the specified parser and dataset.')
     subparser.add_argument('--buckets', default=8, type=int, help='max num of buckets to use')
     subparser.add_argument('--eval_data', default=PROJ_BASE_PATH + 'data/sdp/{}/{}/{}.id.{}.conllu'.format(formalism, language, language, formalism.lower()), help='path to data file')
-    subparser.add_argument('--syn_eval_data', default=PROJ_BASE_PATH + 'data/syn_dep/{}/syn.{}.id.conllu'.format(language, language), help='path to test file')
+    subparser.add_argument('--syn_eval_data', default=PROJ_BASE_PATH + 'data/syn_dep/{}/syn.{}.id.dm.conllu'.format(language, language), help='path to test file')
     # predict
     subparser = subparsers.add_parser('predict', help='Use a trained parser to make predictions.')
     subparser.add_argument('--buckets', default=8, type=int, help='max num of buckets to use')
