@@ -32,7 +32,7 @@ python negative_data_gen.py
 ## Contrastive Pre-training
 Run the following command, the pre-trained GNN model will be saved at `/SynGraphCL/output/pretrain/ggnn/`
 ```py
-python /SynGraphCL/supar/cmds/gnn_pretrain.py
+python supar/cmds/gnn_pretrain.py
 train
 -b
 -d 0
@@ -42,9 +42,18 @@ train
 ## Fine-tuning
 Run the following command, the fine-tuned SDP model will be saved at `/SynGraphCL/output/sdp/ggnn/`
 ```py
-python /SynGraphCL/supar/cmds/gnn_finetune_sdp.py 
+python supar/cmds/gnn_finetune_sdp.py 
 train
 -b
+-d 0
+-c /SynGraphCL/gnn-pretrain.ini
+```
+
+## Evaluating
+Run the following command to load the trained model and evaluate it:
+```py
+python supar/cmds/gnn_finetune_sdp.py 
+evaluate
 -d 0
 -c /SynGraphCL/gnn-pretrain.ini
 ```
