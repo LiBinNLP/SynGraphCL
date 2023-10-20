@@ -1,6 +1,6 @@
 # SynGraphCL
 
-Code for the paper "Pre training Graph Neural Networks with Contrastive Learning for Few-Shot Semantic Dependency Parsing"
+Code for the paper "Few-Shot Semantic Dependency Parsing via Graph Contrastive Learning"
 
 
 As a prerequisite, the following requirements should be satisfied:
