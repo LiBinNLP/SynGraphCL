@@ -5,10 +5,10 @@ Code for the paper "Few-Shot Semantic Dependency Parsing via Graph Contrastive L
 Due to the large amount of similarity between syntactic dependencies and semantic dependencies, we build a syntax-guided few-shot semantic dependency model.
 We have provided two examples which show the syntactic dependency tree and semantic dependency graph to visually illustrate the similarity between syntactic dependence and semantic dependence.
 
-For the English sentence "He wants to teach me English", the example is shown as follows:
+For the English sentence **He wants to teach me English**, the example is shown as follows:
 ![English Example](https://github.com/LiBinNLP/SynGraphCL/blob/main/en_example_syn_sem.png)
 
-For the Chinese sentence "他想教我英语", the example is shown as follows:
+For the Chinese sentence **他想教我英语**, the example is shown as follows:
 ![Chines Example](https://github.com/LiBinNLP/SynGraphCL/blob/main/cn_example_syn_sem.png)
 
 As a prerequisite, the following requirements should be satisfied:
