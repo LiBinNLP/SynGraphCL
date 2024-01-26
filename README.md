@@ -2,6 +2,9 @@
 
 Code for the paper "Few-Shot Semantic Dependency Parsing via Graph Contrastive Learning"
 
+Due to the large amount of similarity between syntactic dependencies and semantic dependencies, we build a syntax-guided few-shot semantic dependency model.
+We have provided a example which shows the syntactic dependency tree and semantic dependency graph for the same sentence "He wants to teach me English".
+![Example](https://github.com/LiBinNLP/SynGraphCL/en_example_syn_sem.png)
 
 As a prerequisite, the following requirements should be satisfied:
 * `python`: >= 3.7
